@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra"
+        },
+        "title": {
+            "translate": "advancements.end.elytra.title"
+        },
+        "description": {
+            "translate": "advancements.end.elytra.description"
+        },
+        "frame": "goal"
+    },
+    "parent": "error:end/find_end_city",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

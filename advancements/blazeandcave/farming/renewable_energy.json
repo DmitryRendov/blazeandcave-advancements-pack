@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:coal",
+			"data": 1
+        },
+        "title": "Renewable Energy",
+        "description": "Smelt wood trunks using charcoal to make more charcoal"
+    },
+    "parent": "blazeandcave:farming/hot_topic",
+	"rewards": {
+		"function": "bc_rewards:farming/renewable_energy"
+    },		
+    "criteria": {
+        "charcoal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:coal",
+						"data": 1
+                    }
+                ]
+            }
+        }
+    }
+}

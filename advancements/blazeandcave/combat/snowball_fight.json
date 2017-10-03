@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snowball"
+        },
+        "title": "Snowball Fight",
+        "description": "The spirit of Christmas... quickly drowned out by a battle"
+    },
+    "parent": "blazeandcave:combat/egging_dude",
+    "rewards": {
+        "function": "bc_rewards:combat/snowball_fight"
+    },		
+    "criteria": {
+        "snowball": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "is_projectile": true,
+                        "direct_entity": {
+                            "type": "minecraft:snowball"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

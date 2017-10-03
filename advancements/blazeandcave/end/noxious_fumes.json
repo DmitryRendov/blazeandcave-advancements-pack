@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:lingering_potion"
+        },
+        "title": "Noxious Fumes",
+        "description": "Use dragon's breath to brew a lingering potion"
+    },
+    "parent": "blazeandcave:end/you_need_a_mint",
+	"rewards": {
+		"function": "bc_rewards:end/noxious_fumes"
+    },	
+    "criteria": {
+        "lingering_potion": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:lingering_potion"
+                    }
+                ]
+            }
+        }
+    }
+}

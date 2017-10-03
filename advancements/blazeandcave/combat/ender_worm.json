@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dye",
+			"data": 5
+        },
+        "title": "Ender Worm",
+        "description": "Prevent an endermite from maturing"
+    },
+    "parent": "blazeandcave:combat/the_ender_of_ender",
+    "rewards": {
+        "function": "bc_rewards:combat/ender_worm"
+    },		
+    "criteria": {
+        "endermite": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "endermite"
+                }
+            }
+        }
+    }
+}

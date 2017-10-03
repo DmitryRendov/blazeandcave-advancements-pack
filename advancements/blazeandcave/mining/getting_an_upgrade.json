@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_pickaxe"
+        },
+        "title": "Getting an Upgrade",
+        "description": "Construct a better pickaxe"
+    },
+    "parent": "blazeandcave:mining/root",
+    "rewards": {
+		"function": "bc_rewards:mining/getting_an_upgrade"
+    },			
+    "criteria": {
+        "stone_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_pickaxe"
+                    }
+                ]
+            }
+        }
+    }
+}

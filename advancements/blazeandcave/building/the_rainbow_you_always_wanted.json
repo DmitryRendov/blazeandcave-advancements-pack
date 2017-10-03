@@ -1,0 +1,193 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete",
+			"data": 2
+        },
+        "title": "The Rainbow You Always Wanted",
+        "description": "Craft all 16 colors of concrete",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:building/concrete_evidence",
+    "rewards": {
+		"function": "bc_rewards:building/the_rainbow_you_always_wanted"
+    },		
+    "criteria": {
+        "white_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "orange_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "magenta_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 2
+                    }
+                ]
+            }
+        },
+        "light_blue_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "yellow_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 4
+                    }
+                ]
+            }
+        },
+        "lime_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 5
+                    }
+                ]
+            }
+        },
+        "pink_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 6
+                    }
+                ]
+            }
+        },
+        "gray_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 7
+                    }
+                ]
+            }
+        },
+        "light_gray_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 8
+                    }
+                ]
+            }
+        },
+        "cyan_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 9
+                    }
+                ]
+            }
+        },
+        "purple_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 10
+                    }
+                ]
+            }
+        },
+        "blue_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 11
+                    }
+                ]
+            }
+        },
+        "brown_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 12
+                    }
+                ]
+            }
+        },
+        "green_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 13
+                    }
+                ]
+            }
+        },
+        "red_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 14
+                    }
+                ]
+            }
+        },
+        "black_concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete",
+						"data": 15
+                    }
+                ]
+            }
+        }
+    }
+}

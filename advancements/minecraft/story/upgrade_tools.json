@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_pickaxe"
+        },
+        "title": {
+            "translate": "advancements.story.upgrade_tools.title"
+        },
+        "description": {
+            "translate": "advancements.story.upgrade_tools.description"
+        }
+    },
+    "parent": "error:story/mine_stone",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

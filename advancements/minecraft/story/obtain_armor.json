@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_chestplate"
+        },
+        "title": {
+            "translate": "advancements.story.obtain_armor.title"
+        },
+        "description": {
+            "translate": "advancements.story.obtain_armor.description"
+        }
+    },
+    "parent": "error:story/smelt_iron",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

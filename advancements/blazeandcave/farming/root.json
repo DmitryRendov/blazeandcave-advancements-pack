@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:hay_block"
+        },
+        "title": "Farming",
+        "description": "The world is full of friends and food",
+		"background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+	"rewards": {
+		"function": "bc_rewards:farming/root"
+    },		
+    "criteria": {
+        "consumed_item": {
+            "trigger": "minecraft:consume_item"
+        }
+    }
+}

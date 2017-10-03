@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:slime_ball"
+        },
+        "title": "Gelatinous Cube",
+        "description": "Kill a slime"
+    },
+    "parent": "blazeandcave:combat/monster_hunter",
+    "rewards": {
+        "function": "bc_rewards:combat/gelatinous_cube"
+    },		
+    "criteria": {
+        "slime": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "slime"
+                }
+            }
+        }
+    }
+}

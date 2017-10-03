@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_block"
+        },
+        "title": "Diamond Miner",
+        "description": "Mine a stack of diamonds. Good luck!",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:mining/diamonds",
+    "rewards": {
+		"function": "bc_rewards:mining/diamond_miner"
+    },		
+    "criteria": {
+        "diamond": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond",
+						"count": 64
+                    }
+                ]
+            }
+        }
+    }
+}

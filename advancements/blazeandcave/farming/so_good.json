@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "title": "So Good",
+        "description": "Cook and eat some chicken"
+    },
+    "parent": "blazeandcave:farming/pork_chop",
+	"rewards": {
+		"function": "bc_rewards:farming/so_good"
+    },		
+    "criteria": {
+        "cooked_chicken": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_chicken"
+                }
+            }
+        }
+    }
+}

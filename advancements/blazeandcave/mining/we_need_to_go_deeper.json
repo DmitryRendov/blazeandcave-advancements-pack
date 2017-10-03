@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "title": "We Need to Go Deeper",
+        "description": "Build, light and enter a Nether Portal",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:mining/ice_bucket_challenge",
+	"rewards": {
+		"function": "bc_rewards:mining/we_need_to_go_deeper"
+    },
+    "criteria": {
+        "entered_nether_portal": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:portal"
+            }
+        }
+    }
+}

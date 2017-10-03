@@ -1,0 +1,38 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sandstone",
+			"data": 1
+        },
+        "title": "Creepers and Withers",
+        "description": "Engrave sandstone with creeper and wither patterns"
+    },
+    "parent": "blazeandcave:building/fake_stronghold",
+    "rewards": {
+        "function": "bc_rewards:building/creepers_and_withers"
+    },		
+    "criteria": {
+        "sandstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:sandstone",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "red_sandstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_sandstone",
+						"data": 1
+                    }
+                ]
+            }
+        }
+	}		
+}

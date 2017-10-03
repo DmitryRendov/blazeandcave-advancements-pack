@@ -1,0 +1,54 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sapling",
+			"data": 5
+        },
+        "title": "Overgrown!",
+        "description": "Discover every overgrown biome",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:adventure/snow_feet",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:adventure/overgrown"
+    },	
+    "criteria": {
+        "swampland": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:swampland"
+            }
+        },
+        "mushroom_island": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:mushroom_island"
+            }
+        },
+        "mushroom_island_shore": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:mushroom_island_shore"
+            }
+        },
+        "jungle_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:jungle_hills"
+            }
+        },
+        "jungle_edge": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:jungle_edge"
+            }
+        },
+        "jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:jungle"
+            }
+        }
+    }
+}

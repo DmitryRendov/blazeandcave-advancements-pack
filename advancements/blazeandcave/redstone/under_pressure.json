@@ -1,0 +1,41 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_pressure_plate"
+        },
+        "title": "Under Pressure",
+        "description": "Craft a pressure plate"
+    },
+    "parent": "blazeandcave:redstone/root",
+	"rewards": {
+		"function": "bc_rewards:redstone/under_pressure"
+    },
+    "criteria": {
+        "stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_pressure_plate"
+                    }
+                ]
+            }
+        },
+        "wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_pressure_plate"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+		[
+			"stone", 
+			"wood"
+		]
+	]
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:leather"
+        },
+        "title": "Cow Tipper",
+        "description": "Harvest some leather"
+    },
+    "parent": "blazeandcave:farming/root",
+	"rewards": {
+		"function": "bc_rewards:farming/cow_tipper"
+    },		
+    "criteria": {
+        "leather": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:leather"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fireworks"
+        },
+        "title": "Fireworks Display",
+        "description": "Use gunpowder and paper to craft fireworks"
+    },
+    "parent": "blazeandcave:combat/bombs_away",
+    "rewards": {
+        "function": "bc_rewards:combat/fireworks_display"
+    },		
+    "criteria": {
+        "fireworks": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fireworks"
+                    }
+                ]
+            }
+        }
+    }
+}

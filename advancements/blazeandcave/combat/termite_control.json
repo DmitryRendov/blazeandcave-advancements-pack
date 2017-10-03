@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stonebrick",
+			"data": 2
+        },
+        "title": "Termite Control",
+        "description": "Kill a silverfish"
+    },
+    "parent": "blazeandcave:combat/monster_hunter",
+    "rewards": {
+        "function": "bc_rewards:combat/termite_control"
+    },		
+    "criteria": {
+        "silverfish": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "silverfish"
+                }
+            }
+        }
+    }
+}

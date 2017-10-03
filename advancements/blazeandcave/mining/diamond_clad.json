@@ -1,0 +1,56 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_helmet"
+        },
+        "title": "Diamond Clad",
+        "description": "Craft a full suit of diamond armor",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:mining/cover_me_with_diamonds",
+    "rewards": {
+		"function": "bc_rewards:mining/diamond_clad"
+    },			
+    "criteria": {
+        "diamond_helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_helmet"
+                    }
+                ]
+            }
+        },
+        "diamond_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_chestplate"
+                    }
+                ]
+            }
+        },
+        "diamond_leggings": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_leggings"
+                    }
+                ]
+            }
+        },
+        "diamond_boots": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_boots"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:potato"
+        },
+        "title": "Die, Potato!",
+        "description": "Eat a potato"
+    },
+    "parent": "blazeandcave:farming/a_seedy_place",
+	"rewards": {
+		"function": "bc_rewards:farming/die_potato"
+    },		
+    "criteria": {
+        "potato": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:potato"
+                }
+            }
+        },
+        "baked_potato": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:baked_potato"
+                }
+            }
+        }		
+    },
+    "requirements": [
+		[
+        "potato",
+        "baked_potato"
+		]
+    ]
+}

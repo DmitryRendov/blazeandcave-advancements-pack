@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:skull",
+            "data": 5
+        },
+        "title": {
+            "translate": "advancements.end.kill_dragon.title"
+        },
+        "description": {
+            "translate": "advancements.end.kill_dragon.description"
+        }
+    },
+    "parent": "error/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

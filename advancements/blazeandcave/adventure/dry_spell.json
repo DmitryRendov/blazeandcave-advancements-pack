@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sponge",
+			"data": 1
+        },
+        "title": "Dry Spell",
+        "description": "Dry a sponge in a furnace"
+    },
+    "parent": "blazeandcave:adventure/the_deep_end",
+    "rewards": {
+        "function": "bc_rewards:adventure/dry_spell"
+    },		
+    "criteria": {
+        "tnt": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:sponge",
+						"data": 0
+                    }
+                ]
+            }
+        }
+    }
+}

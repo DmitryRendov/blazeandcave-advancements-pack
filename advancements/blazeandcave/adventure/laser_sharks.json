@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "title": "Laser Sharks!",
+        "description": "Defeat a Guardian"
+    },
+    "parent": "blazeandcave:adventure/monumental",
+    "rewards": {
+        "function": "bc_rewards:adventure/laser_sharks"
+    },		
+    "criteria": {
+        "guardian": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "guardian"
+                }
+            }
+        }
+    }
+}

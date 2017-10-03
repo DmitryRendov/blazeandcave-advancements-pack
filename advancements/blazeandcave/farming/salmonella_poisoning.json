@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fish",
+			"data": 1
+        },
+        "title": "Salmonella Poisoning",
+        "description": "Eat some raw salmon... and not get poisoned after all"
+    },
+    "parent": "blazeandcave:farming/sushi",
+	"rewards": {
+		"function": "bc_rewards:farming/salmonella_poisoning"
+    },		
+    "criteria": {
+        "salmon": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:fish",
+					"data": 1
+                }
+            }
+        }
+    }
+}

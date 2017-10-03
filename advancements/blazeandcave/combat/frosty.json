@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snowball"
+        },
+        "title": "Frosty",
+        "description": "Kill a stray"
+    },
+    "parent": "blazeandcave:combat/spooky_skeleton",
+    "rewards": {
+        "function": "bc_rewards:combat/frosty"
+    },		
+    "criteria": {
+        "stray": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "stray"
+                }
+            }
+        }
+    }
+}

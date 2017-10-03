@@ -1,0 +1,41 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:leaves"
+        },
+        "title": "Trimming the Treetops",
+        "description": "Use shears to obtain leaf blocks"
+    },
+    "parent": "blazeandcave:farming/have_a_shearful_day",
+	"rewards": {
+		"function": "bc_rewards:farming/trimming_the_treetops"
+    },		
+    "criteria": {
+        "leaves": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:leaves"
+                    }
+                ]
+            }
+        },
+        "leaves2": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:leaves2"
+                    }
+                ]
+            }
+        }		
+    },
+    "requirements": [
+		[
+        "leaves",
+        "leaves2"
+		]
+    ]
+}

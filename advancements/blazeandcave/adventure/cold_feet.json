@@ -1,0 +1,54 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sapling",
+			"data": 1
+        },
+        "title": "Cold feet",
+        "description": "Discover every cold biome",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:adventure/one_with_the_forest",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:adventure/cold_feet"
+    },	
+    "criteria": {
+        "redwood_taiga_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:redwood_taiga_hills"
+            }
+        },
+        "taiga_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:taiga_hills"
+            }
+        },
+        "redwood_taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:redwood_taiga"
+            }
+        },
+        "taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:taiga"
+            }
+        },
+        "extreme_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:extreme_hills"
+            }
+        },
+        "extreme_hills_with_trees": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:extreme_hills_with_trees"
+            }
+        }		
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:blaze_rod"
+        },
+        "title": "Into Fire",
+        "description": "Relieve a Blaze of its rod"
+    },
+    "parent": "blazeandcave:nether/a_terrible_fortress",
+	"rewards": {
+		"function": "bc_rewards:nether/into_fire"
+    },		
+    "criteria": {
+        "blaze_rod": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:blaze_rod"
+                    }
+                ]
+            }
+        }
+    }
+}

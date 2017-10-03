@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fish"
+        },
+        "title": "Sushi",
+        "description": "Eat some raw fish"
+    },
+    "parent": "blazeandcave:farming/delicious_fish",
+	"rewards": {
+		"function": "bc_rewards:farming/sushi"
+    },		
+    "criteria": {
+        "fish": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:fish",
+					"data": 0
+                }
+            }
+        }
+    }
+}

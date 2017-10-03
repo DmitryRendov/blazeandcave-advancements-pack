@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:map"
+        },
+        "title": {
+            "translate": "advancements.nether.fast_travel.title"
+        },
+        "description": {
+            "translate": "advancements.nether.fast_travel.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error:nether/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snow"
+        },
+        "title": "Do you want to build a snowman?",
+        "description": "Use a pumpkin and snow blocks to build a snow golem"
+    },
+    "parent": "blazeandcave:farming/naturally_carved",
+	"rewards": {
+		"function": "bc_rewards:farming/do_you_want_to_build_a_snowman"
+    },		
+    "criteria": {
+        "summoned": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:snowman"
+                }
+            }
+        }
+    }
+}

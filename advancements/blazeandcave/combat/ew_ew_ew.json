@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:string"
+        },
+        "title": "Ew Ew Ew!",
+        "description": "Kill a spider"
+    },
+    "parent": "blazeandcave:combat/monster_hunter",
+    "rewards": {
+        "function": "bc_rewards:combat/ew_ew_ew"
+    },		
+    "criteria": {
+        "spider": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "spider"
+                }
+            }
+        }
+    }
+}

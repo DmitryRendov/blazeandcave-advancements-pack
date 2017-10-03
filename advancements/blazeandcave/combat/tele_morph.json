@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "title": "Tele-Morph",
+        "description": "Damage a mob by teleporting into it"
+    },
+    "parent": "blazeandcave:combat/the_ender_of_ender",
+    "rewards": {
+        "function": "bc_rewards:combat/tele_morph"
+    },		
+    "criteria": {
+        "ender_pearl": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "is_projectile": true,
+                        "direct_entity": {
+                            "type": "minecraft:ender_pearl"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stained_hardened_clay",
+			"data": 2
+        },
+        "title": "The Terracotta Army",
+        "description": "Craft all 16 colors of terracotta (stained clay)",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:building/clay_dough",
+    "rewards": {
+		"function": "bc_rewards:building/the_terracotta_army"
+    },		
+    "criteria": {
+        "white_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "orange_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "magenta_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 2
+                    }
+                ]
+            }
+        },
+        "light_blue_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "yellow_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 4
+                    }
+                ]
+            }
+        },
+        "lime_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 5
+                    }
+                ]
+            }
+        },
+        "pink_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 6
+                    }
+                ]
+            }
+        },
+        "gray_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 7
+                    }
+                ]
+            }
+        },
+        "light_gray_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 8
+                    }
+                ]
+            }
+        },
+        "cyan_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 9
+                    }
+                ]
+            }
+        },
+        "purple_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 10
+                    }
+                ]
+            }
+        },
+        "blue_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 11
+                    }
+                ]
+            }
+        },
+        "brown_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 12
+                    }
+                ]
+            }
+        },
+        "green_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 13
+                    }
+                ]
+            }
+        },
+        "red_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 14
+                    }
+                ]
+            }
+        },
+        "black_stained_hardened_clay": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_hardened_clay",
+						"data": 15
+                    }
+                ]
+            }
+        }
+    }
+}

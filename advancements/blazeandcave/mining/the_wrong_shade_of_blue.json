@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dye",
+			"data": 4
+        },
+        "title": "The Wrong Shade of Blue",
+        "description": "It's still useful for enchanting"
+    },
+    "parent": "blazeandcave:mining/isnt_it_iron_pick",
+    "rewards": {
+		"function": "bc_rewards:mining/the_wrong_shade_of_blue"
+    },		
+    "criteria": {
+        "coal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:coal"
+                    }
+                ]
+            }
+        }
+    }
+}

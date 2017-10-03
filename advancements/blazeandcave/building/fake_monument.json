@@ -1,0 +1,49 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:prismarine",
+			"data": 1
+        },
+        "title": "Fake monument",
+        "description": "Craft or collect all forms of prismarine blocks"
+    },
+    "parent": "blazeandcave:building/fake_fortress",
+    "rewards": {
+        "function": "bc_rewards:building/fake_monument"
+    },		
+    "criteria": {
+        "prismarine": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:prismarine",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "prismarine_bricks": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:prismarine",
+						"data": 1
+                    }
+                ]
+            }
+        },
+		"dark_prismarine": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:prismarine",
+						"data": 2
+                    }
+                ]
+            }
+        }
+	}		
+}

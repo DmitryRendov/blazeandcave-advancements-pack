@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "title": "The ender of ender",
+        "description": "Kill an enderman"
+    },
+    "parent": "blazeandcave:combat/monster_hunter",
+    "rewards": {
+        "function": "bc_rewards:combat/the_ender_of_ender"
+    },		
+    "criteria": {
+        "enderman": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "enderman"
+                }
+            }
+        }
+    }
+}

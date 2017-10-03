@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:speckled_melon"
+        },
+        "title": "I need healing!",
+        "description": "Brew a healing potion"
+    },
+    "parent": "blazeandcave:potion/root",
+	"rewards": {
+		"function": "bc_rewards:potion/i_need_healing"
+    },	
+    "criteria": {
+        "speed_potion": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:healing"
+            }
+        }
+    }
+}

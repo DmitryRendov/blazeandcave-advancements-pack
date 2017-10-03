@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "title": {
+            "translate": "advancements.story.enter_the_nether.title"
+        },
+        "description": {
+            "translate": "advancements.story.enter_the_nether.description"
+        }
+    },
+    "parent": "error:story/form_obsidian",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

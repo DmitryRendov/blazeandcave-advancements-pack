@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spectral_arrow"
+        },
+        "title": "Glows in the Dark",
+        "description": "Craft spectral arrows using glowstone dust"
+    },
+    "parent": "blazeandcave:nether/root",
+	"rewards": {
+		"function": "bc_rewards:nether/glows_in_the_dark"
+    },	
+    "criteria": {
+        "spectral_arrow": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:spectral_arrow"
+                    }
+                ]
+            }
+        }
+    }
+}

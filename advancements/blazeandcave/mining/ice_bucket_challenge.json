@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:obsidian"
+        },
+        "title": "Ice Bucket Challenge",
+        "description": "Form and mine a block of Obsidian"
+    },
+    "parent": "blazeandcave:mining/hot_stuff",
+    "rewards": {
+		"function": "bc_rewards:mining/ice_bucket_challenge"
+    },			
+    "criteria": {
+        "obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:obsidian"
+                    }
+                ]
+            }
+        }
+    }
+}

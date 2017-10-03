@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:quartz"
+        },
+        "title": "Quirky Quartz",
+        "description": "Mine Nether Quartz from the Nether"
+    },
+    "parent": "blazeandcave:redstone/root",
+	"rewards": {
+		"function": "bc_rewards:redstone/quirky_quartz"
+    },	
+    "criteria": {
+        "quartz": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:quartz"
+                    }
+                ]
+            }
+        }
+    }
+}

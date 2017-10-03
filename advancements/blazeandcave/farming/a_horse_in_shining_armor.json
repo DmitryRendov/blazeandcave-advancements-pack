@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_horse_armor"
+        },
+        "title": "A Horse in Shining Armor",
+        "description": "Find diamond horse armor"
+    },
+    "parent": "blazeandcave:farming/cowboy",
+    "rewards": {
+		"function": "bc_rewards:farming/a_horse_in_shining_armor"
+    },		
+    "criteria": {
+        "diamond_horse_armor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_horse_armor"
+                    }
+                ]
+            }
+        }
+    }
+}

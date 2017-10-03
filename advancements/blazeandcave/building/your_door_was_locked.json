@@ -1,0 +1,96 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wooden_door"
+        },
+        "title": "Your Door Was Locked",
+        "description": "Craft a door to stop monsters from entering your house"
+    },
+    "parent": "blazeandcave:building/benchmarking",
+	"rewards": {
+		"function": "bc_rewards:building/your_door_was_locked"
+    },		
+    "criteria": {
+        "wooden_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_door"
+                    }
+                ]
+            }
+        },
+        "spruce_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:spruce_door"
+                    }
+                ]
+            }
+        },
+        "birch_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:birch_door"
+                    }
+                ]
+            }
+        },
+        "jungle_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:jungle_door"
+                    }
+                ]
+            }
+        },
+        "acacia_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:acacia_door"
+                    }
+                ]
+            }
+        },
+        "dark_oak_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dark_oak_door"
+                    }
+                ]
+            }
+        },
+        "iron_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_door"
+                    }
+                ]
+            }
+        }		
+    },
+    "requirements": [
+		[
+        "wooden_door",
+        "spruce_door",
+		"birch_door",
+		"jungle_door",
+		"acacia_door",
+		"dark_oak_door",
+		"iron_door"
+		]
+    ]	
+}

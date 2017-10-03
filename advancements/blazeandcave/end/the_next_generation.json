@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dragon_egg"
+        },
+        "title": "The Next Generation",
+        "description": "Hold the Dragon Egg",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:end/free_the_end",
+	"rewards": {
+		"function": "bc_rewards:end/the_next_generation"
+    },	
+    "criteria": {
+        "dragon_egg": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dragon_egg"
+                    }
+                ]
+            }
+        }
+    }
+}

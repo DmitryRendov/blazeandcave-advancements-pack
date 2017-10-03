@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:golden_apple"
+        },
+        "title": "Zombie Doctor",
+        "description": "Cure a zombie villager",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:potion/a_weak_brew",
+	"rewards": {
+		"function": "bc_rewards:potion/zombie_doctor"
+    },		
+    "criteria": {
+        "cured_zombie": {
+            "trigger": "minecraft:cured_zombie_villager"
+        }
+    }
+}

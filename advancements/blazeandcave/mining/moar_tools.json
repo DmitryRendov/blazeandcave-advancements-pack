@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_shovel"
+        },
+        "title": "MOAR Tools",
+        "description": "Craft a stone pickaxe, axe, shovel and hoe"
+    },
+    "parent": "blazeandcave:mining/getting_an_upgrade",
+	"rewards": {
+		"function": "bc_rewards:mining/moar_tools"
+    },
+    "criteria": {
+        "stone_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_pickaxe"
+                    }
+                ]
+            }
+        },
+        "stone_axe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_axe"
+                    }
+                ]
+            }
+        },
+        "stone_shovel": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_shovel"
+                    }
+                ]
+            }
+        },
+        "stone_hoe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_hoe"
+                    }
+                ]
+            }
+        }
+    }
+}

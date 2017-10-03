@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "title": "Combat",
+        "description": "Battle against the monsters of this world.",
+        "background": "minecraft:textures/blocks/cobblestone_mossy.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "rewards": {
+        "function": "bc_rewards:combat/root"
+    },		
+    "criteria": {
+        "killed_something": {
+            "trigger": "minecraft:player_killed_entity"
+        },
+        "killed_by_something": {
+            "trigger": "minecraft:entity_killed_player"
+        }
+    },
+    "requirements": [
+		[
+			"killed_something", 
+			"killed_by_something"
+		]
+	]
+}

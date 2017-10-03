@@ -1,0 +1,41 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:log"
+        },
+        "title": "Getting Wood",
+        "description": "Attack a tree until a block of wood pops out"
+    },
+    "parent": "blazeandcave:building/root",
+	"rewards": {
+		"function": "bc_rewards:building/getting_wood"
+    },		
+    "criteria": {
+        "log": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log"
+                    }
+                ]
+            }
+        },
+        "log2": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log2"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+		[
+        "log",
+        "log2"
+		]
+    ]
+}

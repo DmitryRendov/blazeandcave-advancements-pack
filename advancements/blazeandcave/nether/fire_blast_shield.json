@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "title": "Fire Blast Shield",
+        "description": "Block the explosion of a ghast's fireball"
+    },
+    "parent": "blazeandcave:nether/giant_floating_jellyfish",
+	"rewards": {
+		"function": "bc_rewards:nether/fire_blast_shield"
+    },
+    "criteria": {
+        "deflected_explosion": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "blocked": true,
+					"source_entity": {
+						"type": "ghast"
+					}
+                }
+            }
+        }
+    }
+}

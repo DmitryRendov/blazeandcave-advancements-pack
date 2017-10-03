@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears"
+        },
+        "title": "Have a Shearful Day",
+        "description": "Use two iron ingots to craft shears"
+    },
+    "parent": "blazeandcave:farming/hot_topic",
+	"rewards": {
+		"function": "bc_rewards:farming/have_a_shearful_day"
+    },		
+    "criteria": {
+        "shears": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:shears"
+                    }
+                ]
+            }
+        }
+    }
+}

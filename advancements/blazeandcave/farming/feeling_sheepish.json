@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_mutton"
+        },
+        "title": "Feeling Sheepish",
+        "description": "Cook and eat some mutton"
+    },
+    "parent": "blazeandcave:farming/high_steaks",
+	"rewards": {
+		"function": "bc_rewards:farming/feeling_sheepish"
+    },		
+    "criteria": {
+        "cooked_mutton": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_mutton"
+                }
+            }
+        }
+    }
+}

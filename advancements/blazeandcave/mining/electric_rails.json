@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:golden_rail"
+        },
+        "title": "Electric Rails",
+        "description": "Making furnace minecarts completely useless"
+    },
+    "parent": "blazeandcave:mining/completely_useless_fuel_engine",
+    "rewards": {
+		"function": "bc_rewards:mining/electric_rails"
+    },		
+    "criteria": {
+        "golden_rail": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:golden_rail"
+                    }
+                ]
+            }
+        }
+    }
+}

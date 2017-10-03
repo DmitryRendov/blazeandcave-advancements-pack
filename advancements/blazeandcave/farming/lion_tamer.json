@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fish",
+			"data": 1
+        },
+        "title": "Lion Tamer",
+        "description": "Tame an Ocelot"
+    },
+    "parent": "blazeandcave:farming/delicious_fish",
+	"rewards": {
+		"function": "bc_rewards:farming/lion_tamer"
+    },		
+    "criteria": {
+        "tamed_animal": {
+            "trigger": "minecraft:tame_animal",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ocelot"
+                }
+			}
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sandstone",
+			"data": 1
+        },
+        "title": "Grave Robber",
+        "description": "Enter a pyramid in a desert"
+    },
+    "parent": "blazeandcave:adventure/this_is_mine_now",
+    "rewards": {
+        "function": "bc_rewards:adventure/grave_robber"
+    },		
+    "criteria": {
+        "temple_desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:desert"
+            }
+        },
+        "temple_desert_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:desert_hills"
+            }
+        },		
+        "temple_desert_m": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:mutated_desert"
+            }
+        }		
+    },
+    "requirements": [
+		[
+        "temple_desert",
+        "temple_desert_hills",
+        "temple_desert_m"
+		]
+    ]
+}

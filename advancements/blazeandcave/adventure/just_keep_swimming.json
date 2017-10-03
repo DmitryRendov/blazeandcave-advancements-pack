@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "title": "Just Keep Swimming",
+        "description": "Go for a swim"
+    },
+    "parent": "blazeandcave:adventure/root",
+	"rewards": {
+		"function": "bc_rewards:building/just_keep_swimming"
+    },
+    "criteria": {
+        "enter_water": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:water"
+            }
+        }
+    }
+}

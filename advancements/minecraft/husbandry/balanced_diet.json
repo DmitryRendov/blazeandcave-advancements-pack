@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:apple"
+        },
+        "title": {
+            "translate": "advancements.husbandry.balanced_diet.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.balanced_diet.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error:husbandry/plant_seed",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

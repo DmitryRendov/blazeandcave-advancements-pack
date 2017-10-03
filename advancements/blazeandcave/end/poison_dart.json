@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tipped_arrow"
+        },
+        "title": "Poison Dart",
+        "description": "Craft tipped arrows of poison"
+    },
+    "parent": "blazeandcave:end/noxious_fumes",
+	"rewards": {
+		"function": "bc_rewards:end/poison_dart"
+    },	
+    "criteria": {
+        "normal_poison": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tipped_arrow",
+						"potion": "minecraft:poison"
+                    }
+                ]
+            }
+        },
+        "long_poison": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tipped_arrow",
+						"potion": "minecraft:long_poison"
+                    }
+                ]
+            }
+        },
+        "strong_poison": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tipped_arrow",
+						"potion": "minecraft:strong_poison"
+                    }
+                ]
+            }
+        }		
+    },
+    "requirements": [
+        [
+            "normal_poison",
+            "long_poison",
+            "strong_poison"
+        ]
+    ]
+}

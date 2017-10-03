@@ -1,0 +1,70 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sapling",
+			"data": 3
+        },
+        "title": "Ecologist",
+        "description": "Plant down all six types of sapling"
+    },
+    "parent": "blazeandcave:farming/care_for_the_environment",
+	"rewards": {
+		"function": "bc_rewards:farming/ecologist"
+    },
+    "criteria": {
+        "oak_sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling",
+					"data": 0
+                }
+            }
+        },
+        "spruce_sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling",
+					"data": 1
+                }
+            }
+        },
+        "birch_sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling",
+					"data": 2
+                }
+            }
+        },
+        "jungle_sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling",
+					"data": 3
+                }
+            }
+        },
+        "acacia_sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling",
+					"data": 4
+                }
+            }
+        },
+        "dark_oak_sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling",
+					"data": 5
+                }
+            }
+        }		
+    }
+}

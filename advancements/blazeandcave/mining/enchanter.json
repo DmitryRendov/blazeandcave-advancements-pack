@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:enchanting_table"
+        },
+        "title": "Enchanter",
+        "description": "Craft an enchanting table"
+    },
+    "parent": "blazeandcave:mining/diamonds",
+    "rewards": {
+		"function": "bc_rewards:mining/enchanter"
+    },		
+    "criteria": {
+        "enchanting_table": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:enchanting_table"
+                    }
+                ]
+            }
+        }
+    }
+}

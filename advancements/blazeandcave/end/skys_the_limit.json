@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra"
+        },
+        "title": "Sky's the Limit",
+        "description": "Find an Elytra",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:end/the_city_at_the_end_of_the_game",
+	"rewards": {
+		"function": "bc_rewards:end/skys_the_limit"
+    },	
+    "criteria": {
+        "elytra": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:elytra"
+                    }
+                ]
+            }
+        }
+    }
+}

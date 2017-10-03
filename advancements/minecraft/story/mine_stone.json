@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wooden_pickaxe"
+        },
+        "title": {
+            "translate": "advancements.story.mine_stone.title"
+        },
+        "description": {
+            "translate": "advancements.story.mine_stone.description"
+        }
+    },
+    "parent": "error:story/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

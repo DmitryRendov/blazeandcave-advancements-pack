@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sign"
+        },
+        "title": "It's a Sign!",
+        "description": "Craft and place a sign"
+    },
+    "parent": "blazeandcave:building/stationary_storage",
+	"rewards": {
+		"function": "bc_rewards:building/its_a_sign"
+    },		
+    "criteria": {
+        "sign": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sign"
+                }
+            }
+        }	
+    }
+}

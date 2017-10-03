@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:reeds"
+        },
+        "title": "Sugar, Sugar",
+        "description": "Harvest some sugar cane from a river or ocean"
+    },
+    "parent": "blazeandcave:farming/root",
+	"rewards": {
+		"function": "bc_rewards:farming/sugar_sugar"
+    },		
+    "criteria": {
+        "reeds": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:reeds"
+                    }
+                ]
+            }
+        }
+    }
+}

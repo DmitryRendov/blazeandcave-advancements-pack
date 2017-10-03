@@ -1,0 +1,67 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "title": "Remote Getaway",
+        "description": "Escape the island"
+    },
+    "parent": "blazeandcave:end/free_the_end",
+	"rewards": {
+		"function": "bc_rewards:end/remote_getaway"
+    },	
+    "criteria": {
+        "outer_pos_x": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky",
+				"position": {
+					"x": {
+						"min": 750.0
+					}
+				}
+            }
+        },
+        "outer_pos_z": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky",
+				"position": {
+					"z": {
+						"min": 750.0
+					}
+				}
+            }
+        },
+        "outer_neg_x": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky",
+				"position": {
+					"x": {
+						"max": -750.0
+					}
+				}
+            }
+        },
+        "outer_neg_z": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sky",
+				"position": {
+					"z": {
+						"max": -750.0
+					}
+				}
+            }
+        }	
+    },
+    "requirements": [
+        [
+            "outer_pos_x",
+            "outer_pos_z",
+            "outer_neg_x",
+            "outer_neg_z"
+        ]		
+    ]
+}

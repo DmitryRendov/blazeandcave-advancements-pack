@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick"
+        },
+        "title": "When Pigs Used to Fly",
+        "description": "Craft a carrot on a stick so you can ride a pig off a cliff"
+    },
+    "parent": "blazeandcave:farming/pork_chop",
+	"rewards": {
+		"function": "bc_rewards:farming/when_pigs_used_to_fly"
+    },		
+    "criteria": {
+        "clownfish": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:carrot_on_a_stick"
+                    }
+                ]
+            }
+        }
+    }
+}

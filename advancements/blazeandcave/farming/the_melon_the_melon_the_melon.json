@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:melon"
+        },
+        "title": "The Melon! The Melon! The Melon!",
+        "description": "Eat a melon"
+    },
+    "parent": "blazeandcave:farming/a_seedy_place",
+	"rewards": {
+		"function": "bc_rewards:farming/the_melon_the_melon_the_melon"
+    },		
+    "criteria": {
+        "melon": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:melon"
+                }
+            }
+        }
+    }
+}

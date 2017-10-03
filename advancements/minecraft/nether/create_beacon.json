@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:beacon"
+        },
+        "title": {
+            "translate": "advancements.nether.create_beacon.title"
+        },
+        "description": {
+            "translate": "advancements.nether.create_beacon.description"
+        }
+    },
+    "parent": "error:nether/summon_wither",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

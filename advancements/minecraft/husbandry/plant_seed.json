@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "title": {
+            "translate": "advancements.husbandry.plant_seed.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.plant_seed.description"
+        }
+    },
+    "parent": "errorhusbandry/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

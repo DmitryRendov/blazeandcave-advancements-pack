@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:magma"
+        },
+        "title": "Don't Step on it!",
+        "description": "Mine some magma blocks"
+    },
+    "parent": "blazeandcave:nether/a_different_kind_of_sand",
+	"rewards": {
+		"function": "bc_rewards:nether/dont_step_on_it"
+    },		
+    "criteria": {
+        "magma": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:magma"
+                    }
+                ]
+            }
+        }
+    }
+}

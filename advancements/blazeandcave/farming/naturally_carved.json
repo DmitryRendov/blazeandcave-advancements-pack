@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:pumpkin"
+        },
+        "title": "Naturally Carved",
+        "description": "Harvest some pumpkins"
+    },
+    "parent": "blazeandcave:farming/a_seedy_place",
+	"rewards": {
+		"function": "bc_rewards:farming/naturally_carved"
+    },		
+    "criteria": {
+        "pumpkin": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:pumpkin"
+                    }
+                ]
+            }
+        }
+    }
+}

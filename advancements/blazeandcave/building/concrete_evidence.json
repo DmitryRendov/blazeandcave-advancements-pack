@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete",
+			"data": 3
+        },
+        "title": "Concrete Evidence",
+        "description": "Create concrete from concrete powder by dropping it into water"
+    },
+    "parent": "blazeandcave:building/rainbow_sand",
+	"rewards": {
+		"function": "bc_rewards:building/concrete_evidence"
+    },		
+    "criteria": {
+        "concrete": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete"
+                    }
+                ]
+            }
+        }
+    }
+}

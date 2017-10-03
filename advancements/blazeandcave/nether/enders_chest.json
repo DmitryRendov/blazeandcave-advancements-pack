@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_chest"
+        },
+        "title": "Ender's Chest",
+        "description": "Craft an ender chest for some extra inventory space"
+    },
+    "parent": "blazeandcave:nether/into_fire",
+    "rewards": {
+		"function": "bc_rewards:nether/enders_chest"
+    },		
+    "criteria": {
+        "ender_chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:ender_chest"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "title": "Repopulation",
+        "description": "Breed two cows with wheat"
+    },
+    "parent": "blazeandcave:farming/cow_tipper",
+	"rewards": {
+		"function": "bc_rewards:farming/repopulation"
+    },		
+    "criteria": {
+        "cow": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:cow"
+				},
+				"partner": {
+					"type": "minecraft:cow"
+				}
+            }
+        }
+    }
+}

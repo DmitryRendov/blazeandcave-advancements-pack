@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:slime"
+        },
+        "title": "Trampoline",
+        "description": "Craft a slime block using slimeballs"
+    },
+    "parent": "blazeandcave:combat/gelatinous_cube",
+    "rewards": {
+        "function": "bc_rewards:combat/trampoline"
+    },		
+    "criteria": {
+        "slime_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:slime"
+                    }
+                ]
+            }
+        }
+    }
+}

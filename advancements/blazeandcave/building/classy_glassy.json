@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glass"
+        },
+        "title": "Classy Glassy",
+        "description": "Smelt sand in a furnace to get glass"
+    },
+    "parent": "blazeandcave:building/benchmarking",
+	"rewards": {
+		"function": "bc_rewards:building/classy_glassy"
+    },		
+    "criteria": {
+        "glass": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:glass"
+                    }
+                ]
+            }
+        }
+    }
+}

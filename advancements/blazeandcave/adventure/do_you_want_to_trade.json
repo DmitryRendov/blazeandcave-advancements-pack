@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:planks"
+        },
+        "title": "Do You Want to Trade?",
+        "description": "Find an NPC village"
+    },
+    "parent": "blazeandcave:adventure/root",
+    "rewards": {
+        "function": "bc_rewards:adventure/do_you_want_to_trade"
+    },		
+    "criteria": {
+        "village": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Village"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tnt"
+        },
+        "title": "Bombs Away!",
+        "description": "Use gunpowder and sand to craft TNT"
+    },
+    "parent": "blazeandcave:combat/what_a_creep",
+    "rewards": {
+        "function": "bc_rewards:combat/bombs_away"
+    },		
+    "criteria": {
+        "tnt": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tnt"
+                    }
+                ]
+            }
+        }
+    }
+}

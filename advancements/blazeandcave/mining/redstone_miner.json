@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:redstone_block"
+        },
+        "title": "Redstone Miner",
+        "description": "Mine enough redstone to craft a stack of redstone blocks",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:mining/seeing_red",
+    "rewards": {
+		"function": "bc_rewards:mining/redstone_miner"
+    },		
+    "criteria": {
+        "redstone_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:redstone_block",
+						"count": 64
+                    }
+                ]
+            }
+        }
+    }
+}

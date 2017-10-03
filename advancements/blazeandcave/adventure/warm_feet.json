@@ -1,0 +1,59 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:deadbush"
+        },
+        "title": "Warm Feet",
+        "description": "Discover every dry biome",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:adventure/cold_feet",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:adventure/warm_feet"
+    },	
+    "criteria": {
+        "desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:desert"
+            }
+        },
+        "mesa": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:mesa"
+            }
+        },
+        "mesa_rock": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:mesa_rock"
+            }
+        },
+        "savanna": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:savanna"
+            }
+        },
+        "desert_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:desert_hills"
+            }
+        },
+        "savanna_rock": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:savanna_rock"
+            }
+        },
+        "mesa_clear_rock": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:mesa_clear_rock"
+            }
+        }
+    }
+}

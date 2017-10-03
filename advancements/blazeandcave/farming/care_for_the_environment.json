@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sapling"
+        },
+        "title": "Care For the Environment",
+        "description": "Plant down a sapling"
+    },
+    "parent": "blazeandcave:farming/root",
+	"rewards": {
+		"function": "bc_rewards:farming/care_for_the_environment"
+    },
+    "criteria": {
+        "sapling": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:sapling"
+                }
+            }
+        }
+    }
+}

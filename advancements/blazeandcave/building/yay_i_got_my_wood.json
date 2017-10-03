@@ -1,0 +1,82 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:log2"
+        },
+        "title": "Yay! I got my wood!",
+        "description": "Collect all six types of wood",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:building/benchmarking",
+    "rewards": {
+        "function": "bc_rewards:building/yay_i_got_my_wood"
+    },		
+    "criteria": {
+        "oak_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "spruce_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"data": 1
+                    }
+                ]
+            }
+        },
+		"birch_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"data": 2
+                    }
+                ]
+            }
+        },
+        "jungle_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "acacia_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log2",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "dark_oak_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log2",
+						"data": 1
+                    }
+                ]
+            }
+        }
+	}		
+}

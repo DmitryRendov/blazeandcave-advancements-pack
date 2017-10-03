@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dispenser"
+        },
+        "title": "Dispense With This",
+        "description": "Construct a dispenser"
+    },
+    "parent": "blazeandcave:redstone/tripping_over",
+    "rewards": {
+		"function": "bc_rewards:redstone/dispense_with_this"
+    },			
+    "criteria": {
+        "dispenser": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dispenser"
+                    }
+                ]
+            }
+        }
+    }
+}

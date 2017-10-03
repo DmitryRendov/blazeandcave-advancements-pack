@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
+        "title": {
+            "translate": "advancements.story.smelt_iron.title"
+        },
+        "description": {
+            "translate": "advancements.story.smelt_iron.description"
+        }
+    },
+    "parent": "error:story/upgrade_tools",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

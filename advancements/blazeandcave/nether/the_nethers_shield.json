@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "title": "The Nether's Shield",
+        "description": "Block some blaze fireballs"
+    },
+    "parent": "blazeandcave:nether/into_fire",
+	"rewards": {
+		"function": "bc_rewards:nether/the_nethers_shield"
+    },
+    "criteria": {
+        "deflected_fireball": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "blocked": true,
+					"direct_entity": {
+						"type": "small_fireball"
+					},
+					"source_entity": {
+						"type": "blaze",
+						"distance": {
+							"absolute": {
+								"min": 3.0
+							}
+						}
+					}
+                }
+            }
+        }
+    }
+}

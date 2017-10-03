@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:skull",
+			"data": 2
+        },
+        "title": "Still Talking!",
+        "description": "Blow up a zombie with a charged creeper to get a zombie head",
+		"frame": "challenge",
+		"hidden": "true"
+    },
+    "parent": "blazeandcave:combat/there_has_to_be_another_way",
+    "rewards": {
+		"experience": 1000,
+        "function": "bc_rewards:combat/still_talking"
+    },		
+    "criteria": {
+        "zombie_head": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:skull",
+						"data": 2
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fish",
+			"data": 2
+        },
+        "title": "Catching Nemo",
+        "description": "Catch a clownfish",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:farming/delicious_fish",
+	"rewards": {
+		"function": "bc_rewards:farming/catching_nemo"
+    },		
+    "criteria": {
+        "clownfish": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fish",
+						"data": 2
+                    }
+                ]
+            }
+        }
+    }
+}

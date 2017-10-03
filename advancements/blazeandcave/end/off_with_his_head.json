@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:skull",
+			"data": 5
+        },
+        "title": "Off With His Head!",
+        "description": "Collect a dragon's head from the bow of an end ship"
+    },
+    "parent": "blazeandcave:end/the_city_at_the_end_of_the_game",
+	"rewards": {
+		"function": "bc_rewards:end/off_with_his_head"
+    },		
+    "criteria": {
+        "chorus_fruit": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:skull",
+						"data": 5
+                    }
+                ]
+            }
+        }
+    }
+}

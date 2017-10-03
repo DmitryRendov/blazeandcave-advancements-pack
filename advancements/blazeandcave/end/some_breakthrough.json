@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra",
+			"data": 431
+        },
+        "title": "Some Breakthrough",
+        "description": "Exhaust your elytra",
+        "frame": "challenge"
+    },
+    "parent": "blazeandcave:end/skys_the_limit",
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:end/some_breakthrough"
+    },		
+    "criteria": {
+        "exhaust_elytra": {
+            "trigger": "minecraft:item_durability_changed",
+            "conditions": {
+				"item": {
+					"item": "minecraft:elytra"
+				},
+				"durability": 1
+            }
+        }
+    }
+}

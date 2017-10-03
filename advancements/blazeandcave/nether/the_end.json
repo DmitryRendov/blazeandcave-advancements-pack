@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:end_portal_frame"
+        },
+        "title": "The End?",
+        "description": "Enter the End Portal",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:nether/eye_spy",
+	"rewards": {
+		"function": "bc_rewards:nether/the_end"
+    },	
+    "criteria": {
+        "entered_end_portal": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:end_portal"
+            }
+        }
+    }
+}

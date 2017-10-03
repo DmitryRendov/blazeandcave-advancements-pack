@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gold_ingot"
+        },
+        "title": "Fossil Fuel",
+        "description": "Smelt a gold ingot"
+    },
+    "parent": "blazeandcave:mining/isnt_it_iron_pick",
+    "rewards": {
+		"function": "bc_rewards:mining/gold_rush"
+    },		
+    "criteria": {
+        "gold_ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:gold_ingot"
+                    }
+                ]
+            }
+        }
+    }
+}

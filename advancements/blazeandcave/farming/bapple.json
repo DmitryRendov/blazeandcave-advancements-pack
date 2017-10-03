@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:apple"
+        },
+        "title": "Bapple!",
+        "description": "Crunch into an apple"
+    },
+    "parent": "blazeandcave:farming/root",
+	"rewards": {
+		"function": "bc_rewards:farming/bapple"
+    },		
+    "criteria": {
+        "apple": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:apple"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "title": {
+            "translate": "advancements.story.iron_tools.title"
+        },
+        "description": {
+            "translate": "advancements.story.iron_tools.description"
+        }
+    },
+    "parent": "error:story/smelt_iron",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

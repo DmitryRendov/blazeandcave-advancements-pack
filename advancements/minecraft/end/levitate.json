@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shulker_shell"
+        },
+        "title": {
+            "translate": "advancements.end.levitate.title"
+        },
+        "description": {
+            "translate": "advancements.end.levitate.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error:end/find_end_city",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

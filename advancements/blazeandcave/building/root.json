@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:planks"
+        },
+        "title": "Building",
+        "description": "Your only limit is your imagination... and resources",
+        "background": "minecraft:textures/blocks/planks_oak.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+	"rewards": {
+		"function": "bc_rewards:building/benchmarking"
+    },		
+    "criteria": {
+        "location": {
+            "trigger": "minecraft:location"
+        }
+    }
+}

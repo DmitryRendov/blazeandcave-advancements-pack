@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bone"
+        },
+        "title": "Spooky Skeleton",
+        "description": "Kill a skeleton"
+    },
+    "parent": "blazeandcave:combat/monster_hunter",
+    "rewards": {
+        "function": "bc_rewards:combat/spooky_skeleton"
+    },		
+    "criteria": {
+        "skeleton": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "skeleton"
+                }
+            }
+        }
+    }
+}

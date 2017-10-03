@@ -1,0 +1,152 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:hay_block"
+        },
+        "title": "Overpopulation",
+        "description": "Breed every type of animal",
+		"frame": "challenge"
+    },
+    "parent": "blazeandcave:farming/repopulation",
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:farming/overpopulation"
+    },		
+    "criteria": {
+        "cow": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:cow"
+				},
+				"partner": {
+					"type": "minecraft:cow"
+				}
+            }
+        },
+        "sheep": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:sheep"
+				},
+				"partner": {
+					"type": "minecraft:sheep"
+				}
+            }
+        },	
+        "pig": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:pig"
+				},
+				"partner": {
+					"type": "minecraft:pig"
+				}
+            }
+        },	
+        "chicken": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:chicken"
+				},
+				"partner": {
+					"type": "minecraft:chicken"
+				}
+            }
+        },	
+        "rabbit": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:rabbit"
+				},
+				"partner": {
+					"type": "minecraft:rabbit"
+				}
+            }
+        },
+        "wolf": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:wolf"
+				},
+				"partner": {
+					"type": "minecraft:wolf"
+				}
+            }
+        },	
+        "ocelot": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:ocelot"
+				},
+				"partner": {
+					"type": "minecraft:ocelot"
+				}
+            }
+        },	
+        "horse": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:horse"
+				},
+				"partner": {
+					"type": "minecraft:horse"
+				}
+            }
+        },	
+        "donkey": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:donkey"
+				},
+				"partner": {
+					"type": "minecraft:donkey"
+				}
+            }
+        },		
+		"mule": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:horse"
+				},
+				"partner": {
+					"type": "minecraft:donkey"
+				},
+				"child": {
+					"type": "minecraft:mule"
+				}
+            }
+        },
+        "mooshroom": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:mooshroom"
+				},
+				"partner": {
+					"type": "minecraft:mooshroom"
+				}
+            }
+        },	
+        "llama": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:llama"
+				},
+				"partner": {
+					"type": "minecraft:llama"
+				}
+            }
+        }
+    }
+}

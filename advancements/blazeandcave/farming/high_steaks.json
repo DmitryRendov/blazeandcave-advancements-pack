@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_beef"
+        },
+        "title": "High Steaks",
+        "description": "Cook and eat some steak"
+    },
+    "parent": "blazeandcave:farming/so_good",
+	"rewards": {
+		"function": "bc_rewards:farming/high_steaks"
+    },		
+    "criteria": {
+        "cooked_beef": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_beef"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:apple"
+        },
+        "title": "Artificial Selection",
+        "description": "Breed a horse and a donkey to get a mule"
+    },
+    "parent": "blazeandcave:farming/cowboy",
+	"rewards": {
+		"function": "bc_rewards:farming/artificial_selection"
+    },		
+    "criteria": {
+        "mule": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+				"parent": {
+					"type": "minecraft:horse"
+				},
+				"partner": {
+					"type": "minecraft:donkey"
+				},
+				"child": {
+					"type": "minecraft:mule"
+				}
+            }
+        }
+    }
+}

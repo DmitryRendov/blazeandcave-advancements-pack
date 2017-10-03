@@ -1,0 +1,59 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:mossy_cobblestone"
+        },
+        "title": "Tomb Raider",
+        "description": "Enter a jungle temple"
+    },
+    "parent": "blazeandcave:adventure/witchcraft",
+    "rewards": {
+        "function": "bc_rewards:adventure/tomb_raider"
+    },		
+    "criteria": {
+        "temple_jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:jungle"
+            }
+        },
+        "temple_jungle_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:jungle_hills"
+            }
+        },		
+        "temple_jungle_edge": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:jungle_edge"
+            }
+        },			
+        "temple_jungle_m": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:mutated_jungle"
+            }
+        },
+		"temple_jungle_edge_m": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Temple",
+				"biome": "minecraft:mutated_jungle_edge"
+            }
+        }
+    },
+    "requirements": [
+		[
+        "temple_jungle",
+        "temple_jungle_hills",
+        "temple_jungle_edge",
+        "temple_jungle_m",
+        "temple_jungle_edge_m"
+		]
+    ]
+}

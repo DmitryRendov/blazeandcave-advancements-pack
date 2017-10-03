@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:lava_bucket"
+        },
+        "title": "Hot Stuff",
+        "description": "Fill a bucket with lava"
+    },
+    "parent": "blazeandcave:mining/acquire_hardware",
+    "rewards": {
+		"function": "bc_rewards:mining/hot_stuff"
+    },			
+    "criteria": {
+        "lava_bucket": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:lava_bucket"
+                    }
+                ]
+            }
+        }
+    }
+}

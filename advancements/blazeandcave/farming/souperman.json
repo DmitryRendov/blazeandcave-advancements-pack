@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:beetroot_soup"
+        },
+        "title": "Souperman",
+        "description": "Slurp some beetroot soup"
+    },
+    "parent": "blazeandcave:farming/a_seedy_place",
+	"rewards": {
+		"function": "bc_rewards:farming/souperman"
+    },		
+    "criteria": {
+        "beetroot_soup": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:beetroot_soup"
+                }
+            }
+        }
+    }
+}

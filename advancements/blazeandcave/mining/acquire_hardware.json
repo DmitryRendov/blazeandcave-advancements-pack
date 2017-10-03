@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
+        "title": "Acquire Hardware",
+        "description": "Smelt an iron ingot"
+    },
+    "parent": "blazeandcave:mining/getting_an_upgrade",
+    "rewards": {
+		"function": "bc_rewards:mining/acquire_hardware"
+    },		
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        }
+    }
+}

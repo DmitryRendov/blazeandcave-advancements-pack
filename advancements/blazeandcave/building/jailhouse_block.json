@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_bars"
+        },
+        "title": "Jailhouse Block",
+        "description": "Craft or find iron bars"
+    },
+    "parent": "blazeandcave:building/fake_stronghold",
+	"rewards": {
+		"function": "bc_rewards:building/jailhouse_block"
+    },		
+    "criteria": {
+        "iron_bars": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_bars"
+                    }
+                ]
+            }
+        }
+    }
+}

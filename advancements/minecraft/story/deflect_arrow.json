@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "title": {
+            "translate": "advancements.story.deflect_arrow.title"
+        },
+        "description": {
+            "translate": "advancements.story.deflect_arrow.description"
+        }
+    },
+    "parent": "error:story/obtain_armor",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:arrow"
+        },
+        "title": "Bow Spammer",
+        "description": "Take out a mob by bow-spamming"
+    },
+    "parent": "blazeandcave:combat/point_blank",
+    "rewards": {
+        "function": "bc_rewards:combat/bow_spammer"
+    },		
+    "criteria": {
+        "bow_spammer": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "is_projectile": true,
+                        "direct_entity": {
+                            "type": "minecraft:arrow"
+                        },
+						"dealt": {
+							"max": 1.0
+						}
+                    }
+                }
+            }
+        }
+    }
+}

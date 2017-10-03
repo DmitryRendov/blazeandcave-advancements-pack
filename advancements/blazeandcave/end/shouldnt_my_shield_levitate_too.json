@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "title": "Shouldn't my shield levitate too?",
+        "description": "Block a Shulker's bullet with your shield"
+    },
+    "parent": "blazeandcave:end/for_mother_clarence",
+	"rewards": {
+		"function": "bc_rewards:end/shouldnt_my_shield_levitate_too"
+    },
+    "criteria": {
+        "deflected_bullet": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "blocked": true,
+					"source_entity": {
+						"type": "shulker"
+					}
+                }
+            }
+        }
+    }
+}

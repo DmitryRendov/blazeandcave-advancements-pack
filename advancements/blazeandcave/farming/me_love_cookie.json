@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cookie"
+        },
+        "title": "Me Love Cookie",
+        "description": "Bake some cookies... and then scoff them all yourself"
+    },
+    "parent": "blazeandcave:farming/bake_bread",
+	"rewards": {
+		"function": "bc_rewards:farming/me_love_cookie"
+    },		
+    "criteria": {
+        "cookie": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cookie"
+                }
+            }
+        }
+    }
+}

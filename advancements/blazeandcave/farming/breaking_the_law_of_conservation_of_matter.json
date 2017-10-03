@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:melon_block"
+        },
+        "title": "Breaking the Law of Conservation of Matter",
+        "description": "Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back"
+    },
+    "parent": "blazeandcave:farming/the_melon_the_melon_the_melon",
+	"rewards": {
+		"function": "bc_rewards:farming/breaking_the_law_of_conservation_of_matter"
+    },		
+    "criteria": {
+        "melon_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:melon_block"
+                    }
+                ]
+            }
+        }
+    }
+}

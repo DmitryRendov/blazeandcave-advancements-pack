@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bone"
+        },
+        "title": "Leader of the Pack",
+        "description": "Befriend a wolf"
+    },
+    "parent": "blazeandcave:combat/spooky_skeleton",
+	"rewards": {
+		"function": "bc_rewards:combat/leader_of_the_pack"
+    },		
+    "criteria": {
+        "tamed_animal": {
+            "trigger": "minecraft:tame_animal",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:wolf"
+                }
+			}
+        }
+    }
+}

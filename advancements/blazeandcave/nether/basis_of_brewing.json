@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:nether_wart"
+        },
+        "title": "Basis of Brewing",
+        "description": "Harvest some nether wart from a nether fortress"
+    },
+    "parent": "blazeandcave:nether/into_fire",
+	"rewards": {
+		"function": "bc_rewards:nether/basis_of_brewing"
+    },	
+    "criteria": {
+        "nether_wart": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_wart"
+                    }
+                ]
+            }
+        }
+    }
+}

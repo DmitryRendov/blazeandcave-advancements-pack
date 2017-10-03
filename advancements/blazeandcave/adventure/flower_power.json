@@ -1,0 +1,170 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:red_flower"
+        },
+        "title": "Flower Power",
+        "description": "Collect all types of flowers",
+        "frame": "challenge"
+    },
+    "parent": "blazeandcave:adventure/root",
+    "rewards": {
+        "experience": 50,
+		"function": "bc_rewards:adventure/flower_power"
+    },		
+    "criteria": {
+        "dandelion": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:yellow_flower"
+                    }
+                ]
+            }
+        },
+        "poppy": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "blue_orchid": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "allium": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 2
+                    }
+                ]
+            }
+        },
+        "azure_bluet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "red_tulip": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 4
+                    }
+                ]
+            }
+        },
+        "orange_tulip": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 5
+                    }
+                ]
+            }
+        },
+        "white_tulip": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 6
+                    }
+                ]
+            }
+        },
+        "pink_tulip": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 7
+                    }
+                ]
+            }
+        },
+        "oxeye_daisy": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_flower",
+						"data": 8
+                    }
+                ]
+            }
+        },
+        "sunflower": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:double_plant",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "lilac": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:double_plant",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "rose_bush": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:double_plant",
+						"data": 4
+                    }
+                ]
+            }
+        },
+        "peony": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:double_plant",
+						"data": 5
+                    }
+                ]
+            }
+        }
+    }
+}

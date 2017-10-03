@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "title": "Wololo!",
+        "description": "Defeat an Evoker",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:adventure/ghostbuster",
+    "rewards": {
+        "function": "bc_rewards:adventure/wololo"
+    },		
+    "criteria": {
+        "evocation_illager": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "evocation_illager"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:daylight_detector"
+        },
+        "title": "Solar Power",
+        "description": "Craft a daylight sensor"
+    },
+    "parent": "blazeandcave:redstone/quirky_quartz",
+	"rewards": {
+		"function": "bc_rewards:redstone/solar_power"
+    },	
+    "criteria": {
+        "daylight_detector": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:daylight_detector"
+                    }
+                ]
+            }
+        }
+    }
+}

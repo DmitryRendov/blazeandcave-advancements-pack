@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wooden_pickaxe"
+        },
+        "title": "Oh noes!",
+        "description": "Break your first tool"
+    },
+    "parent": "blazeandcave:mining/root",
+    "rewards": {
+		"function": "bc_rewards:mining/oh_noes"
+    },		
+    "criteria": {
+        "break_tool": {
+            "trigger": "minecraft:item_durability_changed",
+            "conditions": {
+				"durability": -1
+            }
+        }
+    }
+}

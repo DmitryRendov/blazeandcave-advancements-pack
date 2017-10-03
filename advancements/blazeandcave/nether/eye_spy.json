@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_eye"
+        },
+        "title": "Eye Spy",
+        "description": "Follow an Ender Eye"
+    },
+    "parent": "blazeandcave:nether/into_fire",
+	"rewards": {
+		"function": "bc_rewards:nether/eye_spy"
+    },	
+    "criteria": {
+        "near_stronghold": {
+            "trigger": "minecraft:used_ender_eye",
+            "conditions": {
+                "distance": {"max": 64}
+            }
+        }
+    }
+}

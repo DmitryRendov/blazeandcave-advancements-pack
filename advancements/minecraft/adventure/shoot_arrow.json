@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bow"
+        },
+        "title": {
+            "translate": "advancements.adventure.shoot_arrow.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.shoot_arrow.description"
+        }
+    },
+    "parent": "error/kill_a_mob",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cake"
+        },
+        "title": "The Lie",
+        "description": "Wheat, sugar, milk and eggs!"
+    },
+    "parent": "blazeandcave:farming/milk_does_your_body_good",
+	"rewards": {
+		"function": "bc_rewards:farming/the_lie"
+    },		
+    "criteria": {
+        "cake": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "item": [
+                    {
+                        "item": "minecraft:cake"
+                    }
+                ]
+            }
+        }
+    }
+}

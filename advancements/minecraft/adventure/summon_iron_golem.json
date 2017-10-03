@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:pumpkin"
+        },
+        "title": {
+            "translate": "advancements.adventure.summon_iron_golem.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.summon_iron_golem.description"
+        },
+        "frame": "goal"
+    },
+    "parent": "error/trade",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

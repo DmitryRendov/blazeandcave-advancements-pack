@@ -1,0 +1,139 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:carrot"
+        },
+        "title": "Vegetarian",
+        "description": "Eat every type of fruit, vegetables, and any sort of plant matter",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:farming/root",
+    "rewards": {
+        "experience": 50,
+		"function": "bc_rewards:farming/vegetarian"
+    },		
+    "criteria": {
+        "apple": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:apple"
+                }
+            }
+        },
+        "mushroom_stew": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:mushroom_stew"
+                }
+            }
+        },
+        "bread": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:bread"
+                }
+            }
+        },
+        "golden_apple": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:golden_apple",
+                    "data": 0
+                }
+            }
+        },
+        "enchanted_golden_apple": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:golden_apple",
+                    "data": 1
+                }
+            }
+        },
+        "melon": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:melon"
+                }
+            }
+        },
+        "carrot": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:carrot"
+                }
+            }
+        },
+        "potato": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:potato"
+                }
+            }
+        },
+        "baked_potato": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:baked_potato"
+                }
+            }
+        },
+        "poisonous_potato": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:poisonous_potato"
+                }
+            }
+        },
+        "golden_carrot": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:golden_carrot"
+                }
+            }
+        },
+        "pumpkin_pie": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:pumpkin_pie"
+                }
+            }
+        },
+        "chorus_fruit": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:chorus_fruit"
+                }
+            }
+        },
+        "beetroot": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:beetroot"
+                }
+            }
+        },
+        "beetroot_soup": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:beetroot_soup"
+                }
+            }
+        }
+    }
+}

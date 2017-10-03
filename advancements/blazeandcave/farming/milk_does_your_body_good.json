@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:milk_bucket"
+        },
+        "title": "Milk does your body good",
+        "description": "Take a swig swig swig swig"
+    },
+    "parent": "blazeandcave:farming/bake_bread",
+	"rewards": {
+		"function": "bc_rewards:farming/milk_does_your_body_good"
+    },		
+    "criteria": {
+        "milk_bucket": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:milk_bucket"
+                }
+            }
+        }
+    }
+}

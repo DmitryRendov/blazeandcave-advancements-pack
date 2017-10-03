@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:web"
+        },
+        "title": "This is Mine Now!",
+        "description": "Find an abandoned mineshaft that was not dug out by you"
+    },
+    "parent": "blazeandcave:adventure/root",
+    "rewards": {
+        "function": "bc_rewards:adventure/this_is_mine_now"
+    },		
+    "criteria": {
+        "mineshaft": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Mineshaft"
+            }
+        }
+    }
+}

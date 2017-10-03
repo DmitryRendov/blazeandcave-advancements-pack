@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:beacon"
+        },
+        "title": {
+            "translate": "advancements.nether.create_full_beacon.title"
+        },
+        "description": {
+            "translate": "advancements.nether.create_full_beacon.description"
+        },
+        "frame": "goal"
+    },
+    "parent": "error:nether/create_beacon",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

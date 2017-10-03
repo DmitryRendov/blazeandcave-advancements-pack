@@ -1,0 +1,59 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone",
+			"data": 1
+        },
+        "title": "Rock Collection",
+        "description": "Collect all the types of rocks"
+    },
+    "parent": "blazeandcave:building/benchmarking",
+    "rewards": {
+        "function": "bc_rewards:building/rock_collection"
+    },		
+    "criteria": {
+        "cobblestone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:cobblestone"
+                    }
+                ]
+            }
+        },
+        "granite": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "diorite": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "andesite": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone",
+						"data": 5
+                    }
+                ]
+            }
+        }	
+	}		
+}

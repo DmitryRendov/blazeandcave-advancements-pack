@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond"
+        },
+        "title": {
+            "translate": "advancements.story.mine_diamond.title"
+        },
+        "description": {
+            "translate": "advancements.story.mine_diamond.description"
+        }
+    },
+    "parent": "error:story/iron_tools",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

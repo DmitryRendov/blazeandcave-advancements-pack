@@ -1,0 +1,89 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:log",
+			"data": 2
+        },
+        "title": "Master Logger",
+        "description": "Cut down a full stack of logs of all types",
+		"frame": "challenge"
+    },
+    "parent": "blazeandcave:building/yay_i_got_my_wood",
+    "rewards": {
+        "function": "bc_rewards:building/master_logger"
+    },		
+    "criteria": {
+        "oak_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"count": 64,
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "spruce_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"count": 64,						
+						"data": 1
+                    }
+                ]
+            }
+        },
+		"birch_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"count": 64,
+						"data": 2
+                    }
+                ]
+            }
+        },
+        "jungle_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log",
+						"count": 64,
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "acacia_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log2",
+						"count": 64,
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "dark_oak_wood": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:log2",
+						"count": 64,
+						"data": 1
+                    }
+                ]
+            }
+        }
+	}		
+}

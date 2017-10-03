@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bucket"
+        },
+        "title": {
+            "translate": "advancements.nether.all_effects.title"
+        },
+        "description": {
+            "translate": "advancements.nether.all_effects.description"
+        },
+        "frame": "challenge",
+        "rewards": {
+            "experience": 100
+        },
+        "hidden": true
+    },
+    "parent": "error:nether/all_potions",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

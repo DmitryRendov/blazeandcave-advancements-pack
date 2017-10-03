@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "title": "Withering Heights",
+        "description": "Summon the Wither",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:nether/spooky_scary_skeleton",
+	"rewards": {
+		"function": "bc_rewards:nether/withering_heights"
+    },	
+    "criteria": {
+        "summoned": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "wither"
+                }
+            }
+        }
+    }
+}

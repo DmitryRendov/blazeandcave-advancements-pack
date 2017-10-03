@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:redstone"
+        },
+        "title": "Redstone",
+        "description": "Cracking contraptions",
+		"background": "minecraft:textures/blocks/piston_side.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+	"rewards": {
+		"function": "bc_rewards:redstone/root"
+    },
+    "criteria": {
+        "redstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:redstone"
+                    }
+                ]
+            }
+        }
+    }
+}

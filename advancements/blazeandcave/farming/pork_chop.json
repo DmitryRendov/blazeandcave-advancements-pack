@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_porkchop"
+        },
+        "title": "Pork Chop",
+        "description": "Cook and eat a pork chop"
+    },
+    "parent": "blazeandcave:farming/hot_topic",
+	"rewards": {
+		"function": "bc_rewards:farming/pork_chop"
+    },		
+    "criteria": {
+        "cooked_porkchop": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_porkchop"
+                }
+            }
+        }
+    }
+}

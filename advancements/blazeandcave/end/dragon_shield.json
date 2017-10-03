@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "title": "Dragon Shield",
+        "description": "Attempt to block the dragon's attacks"
+    },
+    "parent": "blazeandcave:end/root",
+	"rewards": {
+		"function": "bc_rewards:end/dragon_shield"
+    },
+    "criteria": {
+        "deflected_dragon": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "blocked": true,
+					"source_entity": {
+						"type": "ender_dragon"
+					}
+                }
+            }
+        }
+    }
+}

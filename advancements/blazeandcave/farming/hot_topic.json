@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:furnace"
+        },
+        "title": "Hot Topic",
+        "description": "Craft a furnace for all your cooking needs"
+    },
+    "parent": "blazeandcave:farming/root",
+	"rewards": {
+		"function": "bc_rewards:farming/hot_topic"
+    },		
+    "criteria": {
+        "furnace": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:furnace"
+                    }
+                ]
+            }
+        }
+    }
+}

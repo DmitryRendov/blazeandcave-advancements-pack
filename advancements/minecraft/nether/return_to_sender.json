@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ghast_tear"
+        },
+        "title": {
+            "translate": "advancements.nether.return_to_sender.title"
+        },
+        "description": {
+            "translate": "advancements.nether.return_to_sender.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error:nether/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

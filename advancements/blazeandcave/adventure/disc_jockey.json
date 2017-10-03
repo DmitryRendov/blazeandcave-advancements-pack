@@ -1,0 +1,137 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:record_chirp"
+        },
+        "title": "Disc Jockey",
+        "description": "Collect all 12 music discs",
+        "frame": "challenge"
+    },
+    "parent": "blazeandcave:adventure/music_to_my_ears",	
+    "rewards": {
+        "experience": 250,
+		"function": "bc_rewards:adventure/disc_jockey"
+    },		
+    "criteria": {
+        "record_cat": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_cat"
+                    }
+                ]
+            }
+        },
+        "record_13": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_13"
+                    }
+                ]
+            }
+        },
+        "record_blocks": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_blocks"
+                    }
+                ]
+            }
+        },
+        "record_chirp": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_chirp"
+                    }
+                ]
+            }
+        },
+        "record_far": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_far"
+                    }
+                ]
+            }
+        },
+        "record_mall": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_mall"
+                    }
+                ]
+            }
+        },
+        "record_mellohi": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_mellohi"
+                    }
+                ]
+            }
+        },
+        "record_stal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_stal"
+                    }
+                ]
+            }
+        },
+        "record_strad": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_strad"
+                    }
+                ]
+            }
+        },
+        "record_ward": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_ward"
+                    }
+                ]
+            }
+        },
+        "record_11": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_11"
+                    }
+                ]
+            }
+        },
+        "record_wait": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:record_wait"
+                    }
+                ]
+            }
+        }
+    }
+}

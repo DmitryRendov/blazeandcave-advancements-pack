@@ -1,0 +1,181 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_slab"
+        },
+        "title": "Slabs For Days",
+        "description": "Craft every type of slab",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:building/yay_i_got_my_wood",
+    "rewards": {
+        "function": "bc_rewards:building/slabs_for_days"
+    },		
+    "criteria": {
+        "stone_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "sandstone_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 1
+                    }
+                ]
+            }
+        },
+		"cobblestone_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "brick_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 4
+                    }
+                ]
+            }
+        },
+        "stone_brick_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 5
+                    }
+                ]
+            }
+        },
+        "nether_brick_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 6
+                    }
+                ]
+            }
+        },
+        "quartz_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab",
+						"data": 7
+                    }
+                ]
+            }
+        },
+        "oak_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_slab",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "spruce_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_slab",
+						"data": 1
+                    }
+                ]
+            }
+        },
+        "birch_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_slab",
+						"data": 2
+                    }
+                ]
+            }
+        },
+        "jungle_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_slab",
+						"data": 3
+                    }
+                ]
+            }
+        },
+        "acacia_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_slab",
+						"data": 4
+                    }
+                ]
+            }
+        },
+        "dark_oak_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wooden_slab",
+						"data": 5
+                    }
+                ]
+            }
+        },
+        "red_sandstone_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_slab2",
+						"data": 0
+                    }
+                ]
+            }
+        },
+        "purpur_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:purpur_slab",
+						"data": 0
+                    }
+                ]
+            }
+        }
+	}		
+}

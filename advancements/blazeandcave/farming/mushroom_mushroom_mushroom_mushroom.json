@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:mushroom_stew"
+        },
+        "title": "Mushroom, Mushroom, Mushroom, Mushroom!",
+        "description": "Slurp some mushroom stew"
+    },
+    "parent": "blazeandcave:farming/bapple",
+	"rewards": {
+		"function": "bc_rewards:farming/mushroom_mushroom_mushroom_mushroom"
+    },		
+    "criteria": {
+        "mushroom_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:mushroom_stew"
+                }
+            }
+        }
+    }
+}

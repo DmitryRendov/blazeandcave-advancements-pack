@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:end_crystal"
+        },
+        "title": "The Start of Something",
+        "description": "Craft your first ender crystal"
+    },
+    "parent": "blazeandcave:end/free_the_end",
+	"rewards": {
+		"function": "bc_rewards:end/the_start_of_something"
+    },	
+    "criteria": {
+        "end_crystal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:end_crystal"
+                    }
+                ]
+            }
+        }
+    }
+}

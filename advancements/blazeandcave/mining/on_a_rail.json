@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:minecart"
+        },
+        "title": "On A Rail",
+        "description": "Craft a minecart"
+    },
+    "parent": "blazeandcave:mining/acquire_hardware",
+    "rewards": {
+		"function": "bc_rewards:mining/on_a_rail"
+    },		
+    "criteria": {
+        "minecart": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:minecart"
+                    }
+                ]
+            }
+        }
+    }
+}

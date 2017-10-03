@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:end_bricks"
+        },
+        "title": "End Bricks!",
+        "description": "Craft end bricks from end stone"
+    },
+    "parent": "blazeandcave:end/root",
+	"rewards": {
+		"function": "bc_rewards:end/end_bricks"
+    },	
+    "criteria": {
+        "end_bricks": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:end_bricks"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sapling"
+        },
+        "title": "One with the forest",
+        "description": "Discover every forest biome",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:adventure/kilometre_walk",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:adventure/one_with_the_forest"
+    },	
+    "criteria": {
+        "birch_forest_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:birch_forest_hills"
+            }
+        },
+        "forest_hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:forest_hills"
+            }
+        },
+        "forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:forest"
+            }
+        },        
+        "plains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:plains"
+            }
+        },
+        "roofed_forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:roofed_forest"
+            }
+        },
+        "birch_forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:birch_forest"
+            }
+        }
+    }
+}

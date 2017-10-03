@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:beetroot_seeds"
+        },
+        "title": "Chatterbox",
+        "description": "Tame a Parrot using seeds. WARNING: Do not use a cookie!"
+    },
+    "parent": "blazeandcave:farming/a_seedy_place",
+	"rewards": {
+		"function": "bc_rewards:farming/chatterbox"
+    },		
+    "criteria": {
+        "tamed_animal": {
+            "trigger": "minecraft:tame_animal",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:parrot"
+                }
+			}
+        }
+    }
+}

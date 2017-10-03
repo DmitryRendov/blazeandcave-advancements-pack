@@ -1,0 +1,41 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glass_pane"
+        },
+        "title": "What a pane",
+        "description": "Craft some glass panes"
+    },
+    "parent": "blazeandcave:building/classy_glassy",
+	"rewards": {
+		"function": "bc_rewards:building/what_a_pane"
+    },		
+    "criteria": {
+        "glass_pane": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:glass_pane"
+                    }
+                ]
+            }
+        },
+        "stained_glass_pane": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stained_glass_pane"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+		[
+        "glass_pane",
+        "stained_glass_pane"
+		]
+    ]	
+}

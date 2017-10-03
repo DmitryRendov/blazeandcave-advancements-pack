@@ -1,0 +1,213 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_helmet"
+        },
+        "title": "Master Armorer",
+        "description": "Create a perfect suit of armor",
+		"frame": "challenge"
+    },
+    "parent": "blazeandcave:enchanting/unbreakable",
+    "rewards": {
+        "experience": 200,
+		"function": "bc_rewards:enchanting/master_armorer"
+    },		
+    "criteria": {
+        "perfect_suit_depth_strider": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+				"items": [
+                    {
+                        "item": "minecraft:diamond_helmet",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:aqua_affinity",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:respiration",
+								"levels": 3
+							}	
+						]
+                    },
+					{
+                        "item": "minecraft:diamond_chestplate",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:thorns",
+								"levels": 3
+							}	
+						]
+                    },
+					{
+                        "item": "minecraft:diamond_leggings",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							}
+						]
+                    },
+					{
+                        "item": "minecraft:diamond_boots",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:depth_strider",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:feather_falling",
+								"levels": 4
+							}
+						]
+                    }
+                ]
+            }
+        },
+        "perfect_suit_frost_walker": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+				"items": [
+                    {
+                        "item": "minecraft:diamond_helmet",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:aqua_affinity",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:respiration",
+								"levels": 3
+							}	
+						]
+                    },
+					{
+                        "item": "minecraft:diamond_chestplate",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:thorns",
+								"levels": 3
+							}	
+						]
+                    },
+					{
+                        "item": "minecraft:diamond_leggings",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							}
+						]
+                    },
+					{
+                        "item": "minecraft:diamond_boots",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:protection",
+								"levels": 4
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:frost_walker",
+								"levels": 2
+							},
+							{
+								"enchantment": "minecraft:feather_falling",
+								"levels": 4
+							}
+						]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "perfect_suit_depth_strider",
+            "perfect_suit_frost_walker"
+        ]
+    ]
+}

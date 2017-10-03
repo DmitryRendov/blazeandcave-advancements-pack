@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:deadbush"
+        },
+        "title": "Desert Nomad",
+        "description": "Kill a husk"
+    },
+    "parent": "blazeandcave:combat/dead_dont_die",
+    "rewards": {
+        "function": "bc_rewards:combat/dead_dont_die"
+    },		
+    "criteria": {
+        "husk": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "husk"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+tellraw @s {"color":"gray","italic":"true","text":"You have unlocked the root of the End tab"}

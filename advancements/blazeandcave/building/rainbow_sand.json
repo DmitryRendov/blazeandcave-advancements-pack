@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete_powder",
+			"data": 3
+        },
+        "title": "Rainbow Sand",
+        "description": "Craft concrete powder using sand, gravel and dye"
+    },
+    "parent": "blazeandcave:building/benchmarking",
+	"rewards": {
+		"function": "bc_rewards:building/rainbow_sand"
+    },		
+    "criteria": {
+        "concrete_powder": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:concrete_powder"
+                    }
+                ]
+            }
+        }
+    }
+}

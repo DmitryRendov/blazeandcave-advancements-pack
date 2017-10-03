@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_boots"
+        },
+        "title": {
+            "translate": "advancements.adventure.adventuring_time.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.adventuring_time.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error/sleep_in_bed",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

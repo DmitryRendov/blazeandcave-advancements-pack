@@ -1,0 +1,1 @@
+tellraw @s {"color":"blue","text":" +100 experience"}

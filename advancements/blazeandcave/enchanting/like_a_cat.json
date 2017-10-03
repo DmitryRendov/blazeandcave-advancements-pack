@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_boots"
+        },
+        "title": "Like a Cat",
+        "description": "Obtain boots enchanted with Feather Falling",
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:enchanting/root",
+    "rewards": {
+		"function": "bc_rewards:enchanting/like_a_cat"
+    },			
+    "criteria": {
+        "feather_falling": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+				"items": [
+					{
+						"enchantments": [
+							{
+								"enchantment": "minecraft:feather_falling"
+							}
+						]
+					}
+				]
+			}
+		}
+    }
+}

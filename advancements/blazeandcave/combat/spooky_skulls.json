@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:skull",
+			"data": 0
+        },
+        "title": "Spooky Skulls",
+        "description": "Blow up a skeleton with a charged creeper to get a skeleton skull",
+		"frame": "challenge",
+		"hidden": "true"
+    },
+    "parent": "blazeandcave:combat/the_undead_cavalry",
+    "rewards": {
+		"experience": 1000,
+        "function": "bc_rewards:combat/spooky_skulls"
+    },		
+    "criteria": {
+        "skeleton_skull": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:skull",
+						"data": 0
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fishing_rod"
+        },
+        "title": "Delicious Fish",
+        "description": "Craft a fishing rod and use it to catch a fish"
+    },
+    "parent": "blazeandcave:farming/root",
+	"rewards": {
+		"function": "bc_rewards:farming/delicious_fish"
+    },		
+    "criteria": {
+        "fish": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fish"
+                    }
+                ]
+            }
+        }
+    }
+}

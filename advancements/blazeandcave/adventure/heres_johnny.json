@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_axe"
+        },
+        "title": "Heeere's Johnny!",
+        "description": "Kill a Vindicator"
+    },
+    "parent": "blazeandcave:adventure/house_of_psychos",
+    "rewards": {
+        "function": "bc_rewards:adventure/heres_johnny"
+    },		
+    "criteria": {
+        "vindication_illager": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "vindication_illager"
+                }
+            }
+        }
+    }
+}

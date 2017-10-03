@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:carpet",
+			"data": 3
+        },
+        "title": "Blistering Barnacles!",
+        "description": "Get spat at by a llama"
+    },
+    "parent": "blazeandcave:farming/root",
+    "rewards": {
+        "function": "bc_rewards:farming/blistering_barnacles"
+    },		
+    "criteria": {
+        "llama_hurt_player": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+				"damage": {
+					"source_entity": {
+						"type": "minecraft:llama"
+					}
+				}
+            }
+        }		
+    }
+}

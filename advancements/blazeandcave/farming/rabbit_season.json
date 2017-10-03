@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_rabbit"
+        },
+        "title": "Rabbit Season",
+        "description": "Cook and eat rabbit meat"
+    },
+    "parent": "blazeandcave:farming/hot_topic",
+	"rewards": {
+		"function": "bc_rewards:farming/rabbit_season"
+    },		
+    "criteria": {
+        "cooked_rabbit": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_rabbit"
+                }
+            }
+        }
+    }
+}

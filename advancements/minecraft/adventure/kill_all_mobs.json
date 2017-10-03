@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_sword"
+        },
+        "title": {
+            "translate": "advancements.adventure.kill_all_mobs.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.kill_all_mobs.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error/kill_a_mob",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

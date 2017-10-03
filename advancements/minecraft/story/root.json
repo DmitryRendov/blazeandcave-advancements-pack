@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:grass"
+        },
+        "title": {
+            "translate": "advancements.story.root.title"
+        },
+        "description": {
+            "translate": "advancements.story.root.description"
+        },
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+	"parent": "error/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

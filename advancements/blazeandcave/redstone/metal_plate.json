@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        "title": "Metal Plate",
+        "description": "Craft an iron weighted pressure plate"
+    },
+    "parent": "blazeandcave:redstone/under_pressure",
+	"rewards": {
+		"function": "bc_rewards:redstone/metal_plate"
+    },
+    "criteria": {
+        "heavy_weighted_pressure_plate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:heavy_weighted_pressure_plate"
+                    }
+                ]
+            }
+        }
+    }
+}

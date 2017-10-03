@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:milk_bucket"
+        },
+        "title": {
+            "translate": "advancements.nether.all_potions.title"
+        },
+        "description": {
+            "translate": "advancements.nether.all_potions.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "error:nether/brew_potion",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

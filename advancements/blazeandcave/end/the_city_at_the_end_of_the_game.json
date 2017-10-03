@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:purpur_block"
+        },
+        "title": "The City at the End of the Game",
+        "description": "Go on in, what could happen?"
+    },
+    "parent": "blazeandcave:end/remote_getaway",
+	"rewards": {
+		"function": "bc_rewards:end/the_city_at_the_end_of_the_game"
+    },	
+    "criteria": {
+        "in_city": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "EndCity"
+            }
+        }
+    }
+}

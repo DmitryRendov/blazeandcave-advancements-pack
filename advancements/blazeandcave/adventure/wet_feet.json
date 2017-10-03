@@ -1,0 +1,47 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "title": "Wet Feet",
+        "description": "Discover every water biome",
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:adventure/overgrown",	
+    "rewards": {
+        "experience": 100,
+		"function": "bc_rewards:adventure/wet_feet"
+    },	
+    "criteria": {
+        "river": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:river"
+            }
+        },
+        "deep_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_ocean"
+            }
+        },
+        "ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:ocean"
+            }
+        },
+        "stone_beach": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:stone_beach"
+            }
+        },
+        "beaches": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:beaches"
+            }
+        }
+    }
+}

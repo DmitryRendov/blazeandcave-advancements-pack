@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:repeater"
+        },
+        "title": "Repeating Repeater",
+        "description": "Craft a redstone repeater for delaying signals"
+    },
+    "parent": "blazeandcave:redstone/root",
+	"rewards": {
+		"function": "bc_rewards:redstone/repeating_repeater"
+    },
+    "criteria": {
+        "repeater": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:repeater"
+                    }
+                ]
+            }
+        }
+    }
+}

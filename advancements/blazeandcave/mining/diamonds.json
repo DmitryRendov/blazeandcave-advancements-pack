@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond"
+        },
+        "title": "Diamonds!",
+        "description": "Acquire diamonds"
+    },
+    "parent": "blazeandcave:mining/isnt_it_iron_pick",
+    "rewards": {
+		"function": "bc_rewards:mining/diamonds"
+    },			
+    "criteria": {
+        "diamond": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond"
+                    }
+                ]
+            }
+        }
+    }
+}

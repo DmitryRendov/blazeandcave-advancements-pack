@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:rabbit_stew"
+        },
+        "title": "Getting Into a Stew",
+        "description": "Make some rabbit stew"
+    },
+    "parent": "blazeandcave:farming/rabbit_season",
+	"rewards": {
+		"function": "bc_rewards:farming/getting_into_a_stew"
+    },		
+    "criteria": {
+        "rabbit_stew": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:rabbit_stew"
+                }
+            }
+        }
+    }
+}
