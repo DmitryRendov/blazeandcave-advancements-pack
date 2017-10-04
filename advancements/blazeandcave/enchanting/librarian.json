@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bookshelf"
         },
-        "title": "Librarian",
-        "description": "Build some bookshelves for your enchanting table"
+        "title": "Библиотекарь",
+        "description": "Скрафти немного полок для своего стола зачарования"
     },
     "parent": "blazeandcave:enchanting/root",
     "rewards": {

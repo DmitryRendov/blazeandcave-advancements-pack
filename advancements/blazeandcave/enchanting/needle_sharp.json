@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": "Needle Sharp",
-        "description": "Obtain Sharpness V",
+        "title": "Острый как игла",
+        "description": "Получи остроту 5",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/librarian",

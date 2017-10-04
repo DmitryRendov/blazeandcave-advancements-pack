@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fire_charge"
         },
-        "title": "The Nether's Shield",
-        "description": "Block some blaze fireballs"
+        "title": "Щит нижнего мира",
+        "description": "Отбей немного огненных шаров"
     },
     "parent": "blazeandcave:nether/into_fire",
 	"rewards": {

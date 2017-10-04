@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:blaze_powder"
         },
-        "title": "Fiery",
-        "description": "Obtain every fire related enchantment",
+        "title": "Пламенный",
+        "description": "Получи все зачарования, связанные с огнём",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/scuba_gear",

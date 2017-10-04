@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ender_eye"
         },
-        "title": "Eye Spy",
-        "description": "Follow an Ender Eye"
+        "title": "Глаз-шпион",
+        "description": "Следуй за оком Края"
     },
     "parent": "blazeandcave:nether/into_fire",
 	"rewards": {

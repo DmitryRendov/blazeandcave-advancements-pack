@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:beacon"
         },
-        "title": "Beaconator",
-        "description": "Bring a beacon to full power",
+        "title": "Маяковский",
+        "description": "Доведи маяк до полной мощности",
         "frame": "challenge"
     },
     "parent": "blazeandcave:nether/bring_home_the_beacon",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma"
         },
-        "title": "Don't Step on it!",
-        "description": "Mine some magma blocks"
+        "title": "Не наступай на это!",
+        "description": "Накопай немного блоков магмы"
     },
     "parent": "blazeandcave:nether/a_different_kind_of_sand",
 	"rewards": {

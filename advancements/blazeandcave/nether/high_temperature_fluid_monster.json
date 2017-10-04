@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma_cream"
         },
-        "title": "High Temperature Fluid Monster",
-        "description": "Kill a magma cube"
+        "title": "Лавовый монстр",
+        "description": "Убей магмового слизня"
     },
     "parent": "blazeandcave:nether/the_tribal_snouts",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:rotten_flesh"
         },
-        "title": "Undead Slayer",
-        "description": "Obtain Smite V",
+        "title": "Убийца нежити",
+        "description": "Получи небесную кару 5",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/needle_sharp",

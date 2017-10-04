@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_pickaxe"
         },
-        "title": "Fortunate Son",
-        "description": "Obtain Fortune III",
+        "title": "Удача, сынок",
+        "description": "Получи удачу 3",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/super_efficient",

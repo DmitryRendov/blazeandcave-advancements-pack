@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:soul_sand"
         },
-        "title": "Quicksand",
-        "description": "You sink like quicksand and move slow like mud"
+        "title": "Зыбучие пески",
+        "description": "Ты тонешь как в зыбучих песках и двигаешься медленно, как грязь"
     },
     "parent": "blazeandcave:nether/root",
 	"rewards": {

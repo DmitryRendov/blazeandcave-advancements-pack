@@ -4,8 +4,8 @@
             "item": "minecraft:skull",
 			"data": 4
         },
-        "title": "Curses!",
-        "description": "Obtain both types of curses",
+        "title": "Проклятье!",
+        "description": "Получи оба типа проклятых зачарований",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/old_cartoon_joke",

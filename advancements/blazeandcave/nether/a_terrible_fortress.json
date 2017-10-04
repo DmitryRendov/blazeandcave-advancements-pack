@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nether_brick"
         },
-        "title": "A Terrible Fortress",
-        "description": "Break your way into a Nether Fortress"
+        "title": "Ужасная крепость",
+        "description": "Найди адскую крепость"
     },
     "parent": "blazeandcave:nether/root",
     "rewards": {

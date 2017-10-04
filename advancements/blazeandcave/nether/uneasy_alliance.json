@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ghast_tear"
         },
-        "title": "Uneasy Alliance",
-        "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it",
+        "title": "Непростой союз", #в оригинале это война миров
+        "description": "Перенеси гаста из нижнего мира в обычный... а потом убей его",
         "frame": "challenge"
     },
     "parent": "blazeandcave:nether/return_to_sender",

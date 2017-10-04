@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spider_eye"
         },
-        "title": "Bane of one-shotting spiders",
-        "description": "Obtain Bane of Arthropods V",
+        "title": "Проклятие мгновенной смерти пауков",
+        "description": "Получи бич членистонгих 5",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/undead_slayer",

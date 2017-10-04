@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nether_wart"
         },
-        "title": "Basis of Brewing",
-        "description": "Harvest some nether wart from a nether fortress"
+        "title": "Основы зельеварения",
+        "description": "Собери немного нароста из адской крепости"
     },
     "parent": "blazeandcave:nether/into_fire",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_helmet"
         },
-        "title": "Master Armorer",
-        "description": "Create a perfect suit of armor",
+        "title": "Оружейный мастер",
+        "description": "Создай идеальный набор брони",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/unbreakable",

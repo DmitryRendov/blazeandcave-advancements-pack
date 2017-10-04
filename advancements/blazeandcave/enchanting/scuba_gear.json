@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": "Scuba Gear",
-        "description": "Obtain every water related enchantment",
+        "title": "Подводное снаряжение",
+        "description": "Получи все зачарования, связанные с водой",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/knocking_your_socks_off",

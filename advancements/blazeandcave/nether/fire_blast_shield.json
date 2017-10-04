@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Fire Blast Shield",
-        "description": "Block the explosion of a ghast's fireball"
+        "title": "Огнезащитный щит",
+        "description": "Заблокируй взрыв огненного шара гаста"
     },
     "parent": "blazeandcave:nether/giant_floating_jellyfish",
 	"rewards": {

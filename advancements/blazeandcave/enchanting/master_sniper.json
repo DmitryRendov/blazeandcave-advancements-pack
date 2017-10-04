@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": "Master Sniper",
-        "description": "Create a perfect bow",
+        "title": "Профессиональный снайпер",
+        "description": "Сделай идеальный лук",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/unbreakable",

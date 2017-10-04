@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gunpowder"
         },
-        "title": "Giant Floating Jellyfish",
-        "description": "Shoot down a ghast"
+        "title": "Огромная летающая медуза",
+        "description": "Подстрели гаста"
     },
     "parent": "blazeandcave:nether/root",
     "rewards": {

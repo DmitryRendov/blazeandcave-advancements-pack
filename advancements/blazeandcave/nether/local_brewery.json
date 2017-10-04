@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:brewing_stand"
         },
-        "title": "Local Brewery",
-        "description": "Craft a Brewing Stand for brewing potions"
+        "title": "Местный пивовар",
+        "description": "Скрафти зельеварочную стойку для варки зелий"
     },
     "parent": "blazeandcave:nether/basis_of_brewing",
 	"rewards": {
