@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:torch"
         },
-        "title": "Torched!",
-        "description": "Light up the area with some torches"
+        "title": "Да будет свет!",
+        "description": "Освети область с помощью факелов"
     },
     "parent": "blazeandcave:building/stationary_storage",
 	"rewards": {

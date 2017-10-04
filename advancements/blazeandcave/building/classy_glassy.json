@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glass"
         },
-        "title": "Classy Glassy",
-        "description": "Smelt sand in a furnace to get glass"
+        "title": "Стильное стёклышко",
+        "description": "Переплавь песок в печи, чтобы получить стекло"
     },
     "parent": "blazeandcave:building/benchmarking",
 	"rewards": {

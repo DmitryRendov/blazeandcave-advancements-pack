@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:furnace"
         },
-        "title": "Hot Topic",
-        "description": "Craft a furnace for all your cooking needs"
+        "title": "Горячая штучка",
+        "description": "Собери печку из 8-ми каменных блоков."
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

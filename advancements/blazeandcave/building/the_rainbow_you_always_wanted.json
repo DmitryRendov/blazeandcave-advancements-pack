@@ -4,8 +4,8 @@
             "item": "minecraft:concrete",
 			"data": 2
         },
-        "title": "The Rainbow You Always Wanted",
-        "description": "Craft all 16 colors of concrete",
+        "title": "Море цветов которого тебе всегда не хватало",
+        "description": "Скрафти все 16 цветов бетонных блоков",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/concrete_evidence",

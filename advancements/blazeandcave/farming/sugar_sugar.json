@@ -4,7 +4,7 @@
             "item": "minecraft:reeds"
         },
         "title": "Sugar, Sugar",
-        "description": "Harvest some sugar cane from a river or ocean"
+        "description": "Наруби тростника на берегу реки или океана"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

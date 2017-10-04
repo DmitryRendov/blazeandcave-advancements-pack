@@ -4,8 +4,8 @@
             "item": "minecraft:concrete_powder",
 			"data": 3
         },
-        "title": "Rainbow Sand",
-        "description": "Craft concrete powder using sand, gravel and dye"
+        "title": "Разноцветный песок",
+        "description": "Скрафти бетонную смесь, используя песок, гравий и краситель"
     },
     "parent": "blazeandcave:building/benchmarking",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_apple"
         },
-        "title": "Ultra Hardcore",
-        "description": "Craft and eat a normal golden apple"
+        "title": "Ультра Хардкор",
+        "description": "Съешь обычное золотое яблоко"
     },
     "parent": "blazeandcave:farming/bapple",
 	"rewards": {

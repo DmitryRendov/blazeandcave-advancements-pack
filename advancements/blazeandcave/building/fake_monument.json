@@ -4,8 +4,8 @@
             "item": "minecraft:prismarine",
 			"data": 1
         },
-        "title": "Fake monument",
-        "description": "Craft or collect all forms of prismarine blocks"
+        "title": "Фейковая Подводная крепость",
+        "description": "Скрафти или собери все виды блоков призмарина"
     },
     "parent": "blazeandcave:building/fake_fortress",
     "rewards": {

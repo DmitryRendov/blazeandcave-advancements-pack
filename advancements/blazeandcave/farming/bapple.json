@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:apple"
         },
-        "title": "Bapple!",
-        "description": "Crunch into an apple"
+        "title": "Яблочко!",
+        "description": "Похрусти яблоком"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

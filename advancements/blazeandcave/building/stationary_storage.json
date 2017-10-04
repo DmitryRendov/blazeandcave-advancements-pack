@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chest"
         },
-        "title": "Stationary Storage",
-        "description": "Craft and place down a chest for storing your items"
+        "title": "Стационарное хранилище",
+        "description": "Скрафти и поставь свой первый сундук для хранения бесполезного хлама"
     },
     "parent": "blazeandcave:building/your_door_was_locked",
 	"rewards": {

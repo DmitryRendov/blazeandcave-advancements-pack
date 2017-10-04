@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:saddle"
         },
-        "title": "Cowboy",
-        "description": "Tame a horse by jumping on it over and over again"
+        "title": "Ковбой",
+        "description": "Приручи лошадь садясь на нее верхом снова и снова"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

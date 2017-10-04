@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:armor_stand"
         },
-        "title": "Mannequin",
-        "description": "Craft an armor stand for displaying your armor"
+        "title": "Манекен",
+        "description": "Скрафти стойку для брони"
     },
     "parent": "blazeandcave:building/a_masterpiece",
 	"rewards": {

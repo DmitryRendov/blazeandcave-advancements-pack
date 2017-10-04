@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_carrot"
         },
-        "title": "24 Carrot Gold",
-        "description": "Eat a golden carrot"
+        "title": "24 карата морковки",
+        "description": "Съешь золотую морковку"
     },
     "parent": "blazeandcave:farming/die_potato",
 	"rewards": {

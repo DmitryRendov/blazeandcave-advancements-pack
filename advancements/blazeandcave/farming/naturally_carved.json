@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:pumpkin"
         },
-        "title": "Naturally Carved",
-        "description": "Harvest some pumpkins"
+        "title": "Создано природой",
+        "description": "Собери урожай из тыкв"
     },
     "parent": "blazeandcave:farming/a_seedy_place",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:pumpkin_pie"
         },
-        "title": "The Pie",
-        "description": "Bake a pumpkin pie"
+        "title": "Пирог",
+        "description": "Испеки тыквенный пирог"
     },
     "parent": "blazeandcave:farming/naturally_carved",
 	"rewards": {

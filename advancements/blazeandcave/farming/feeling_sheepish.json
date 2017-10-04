@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_mutton"
         },
-        "title": "Feeling Sheepish",
-        "description": "Cook and eat some mutton"
+        "title": "Почувствуй себя тупой овцой",
+        "description": "Приготовь и съешь баранину"
     },
     "parent": "blazeandcave:farming/high_steaks",
 	"rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:bed",
 			"data": 3
         },
-        "title": "Change of Sheets",
-        "description": "Dye your bed a different color than white"
+        "title": "Смена простыней",
+        "description": "Перекрась свою постель в любой другой цвет, нежели белый"
     },
     "parent": "blazeandcave:building/sweet_dreams",
 	"rewards": {

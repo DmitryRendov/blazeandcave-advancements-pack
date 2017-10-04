@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fishing_rod"
         },
-        "title": "Delicious Fish",
-        "description": "Craft a fishing rod and use it to catch a fish"
+        "title": "Вкусная рыбка",
+        "description": "Приготовь сырую рыбу или сырого лосося в печи"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

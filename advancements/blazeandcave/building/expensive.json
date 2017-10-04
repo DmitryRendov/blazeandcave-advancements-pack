@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sea_lantern"
         },
-        "title": "Expensive!",
-        "description": "Light up the area with some sea lanterns"
+        "title": "Ослепительно дорого!",
+        "description": "Освети территорию морскими фонарями"
     },
     "parent": "blazeandcave:building/glowing",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sapling"
         },
-        "title": "Care For the Environment",
-        "description": "Plant down a sapling"
+        "title": "Забота об окружающем мире",
+        "description": "Посади деревце!"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

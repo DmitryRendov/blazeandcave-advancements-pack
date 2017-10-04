@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:item_frame"
         },
-        "title": "Display your items for all to see...",
-        "description": "Craft an item frame for displaying your items"
+        "title": "Покажи что у тебя есть...",
+        "description": "Скрафти рамку для выставки своих артефактов напоказ"
     },
     "parent": "blazeandcave:building/its_a_sign",
 	"rewards": {

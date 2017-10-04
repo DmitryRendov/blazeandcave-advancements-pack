@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wheat_seeds"
         },
-        "title": "A Seedy Place",
-        "description": "Plant a seed and watch it grow"
+        "title": "Поле чудес",
+        "description": "Посади в землю зерно и дождись, пока оно вырастет"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

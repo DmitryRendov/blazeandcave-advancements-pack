@@ -4,8 +4,8 @@
             "item": "minecraft:stonebrick",
 			"data": 2
         },
-        "title": "Fake stronghold",
-        "description": "Craft or collect normal, cracked, mossy and chiseled stone bricks"
+        "title": "Фейковая крепость",
+        "description": "Скрафти или собери все виды кирпича"
     },
     "parent": "blazeandcave:building/rock_collection",
     "rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:fish",
 			"data": 1
         },
-        "title": "Salmonella Poisoning",
-        "description": "Eat some raw salmon... and not get poisoned after all"
+        "title": "Отравись сальмонеллой",
+        "description": "Съешь немного сырой рыбки... и не отравись!"
     },
     "parent": "blazeandcave:farming/sushi",
 	"rewards": {

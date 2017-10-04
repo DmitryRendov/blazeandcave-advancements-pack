@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:apple"
         },
-        "title": "A Balanced Diet",
-        "description": "Eat everything that is edible, even if it's not good for you",
+        "title": "Робин-Бобин",
+        "description": "Попробуй всё съестное, даже если это не пойдет тебе на пользу",
         "frame": "challenge"
     },
     "parent": "blazeandcave:farming/meat_lovers",

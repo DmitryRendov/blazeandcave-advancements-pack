@@ -4,8 +4,8 @@
             "item": "minecraft:stained_glass",
 			"data": 2
         },
-        "title": "Translucence",
-        "description": "Craft all 16 colors of stained glass",
+        "title": "Полупрозрачность",
+        "description": "Скрафти все 16 видов блоков стекла",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/classy_glassy",

@@ -4,8 +4,8 @@
             "item": "minecraft:stone",
 			"data": 1
         },
-        "title": "Rock Collection",
-        "description": "Collect all the types of rocks"
+        "title": "Коллекционер камней",
+        "description": "Собери все виды камней"
     },
     "parent": "blazeandcave:building/benchmarking",
     "rewards": {

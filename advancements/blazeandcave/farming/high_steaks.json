@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_beef"
         },
-        "title": "High Steaks",
-        "description": "Cook and eat some steak"
+        "title": "Стейк хорошей прожарки",
+        "description": "Приготовь и съешь немного говяжих стейков"
     },
     "parent": "blazeandcave:farming/so_good",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ladder"
         },
-        "title": "Ladder Climbers Inc.",
-        "description": "Climb the ladder!"
+        "title": "ОАО Покоряя Лестницу",
+        "description": "Вскарабкайся вверх по лестнице!"
     },
     "parent": "blazeandcave:building/your_door_was_locked",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:log2"
         },
-        "title": "Yay! I got my wood!",
-        "description": "Collect all six types of wood",
+        "title": "Ехху! Я тру дровосек!",
+        "description": "Собери все шесть видов древесины",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/benchmarking",

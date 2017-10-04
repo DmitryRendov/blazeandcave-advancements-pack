@@ -4,8 +4,8 @@
             "item": "minecraft:coal",
 			"data": 1
         },
-        "title": "Renewable Energy",
-        "description": "Smelt wood trunks using charcoal to make more charcoal"
+        "title": "Возобновляемая энергия",
+        "description": "Поджарь деревянные брёвна, используя древесный уголь, чтобы сделать ещё больше древесного угля"
     },
     "parent": "blazeandcave:farming/hot_topic",
 	"rewards": {

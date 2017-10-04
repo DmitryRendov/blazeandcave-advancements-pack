@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snow"
         },
-        "title": "Do you want to build a snowman?",
-        "description": "Use a pumpkin and snow blocks to build a snow golem"
+        "title": "Ты уверен что хочешь построить снеговика!?",
+        "description": "Используй тыкву и блоки снега, чтобы построить снежного голема"
     },
     "parent": "blazeandcave:farming/naturally_carved",
 	"rewards": {

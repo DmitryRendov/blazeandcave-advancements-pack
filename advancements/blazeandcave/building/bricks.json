@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:brick_block"
         },
-        "title": "Bricks!",
-        "description": "Fire up that clay!"
+        "title": "Кирпичи!",
+        "description": "Обожги глину в печи!"
     },
     "parent": "blazeandcave:building/clay_dough",
 	"rewards": {

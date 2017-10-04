@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_brick_stairs"
         },
-        "title": "Ah, My Old Enemy...",
-        "description": "Craft every type of stairs",
+        "title": "Ах, мой старый добрый Враг...",
+        "description": "Скрафти все типы лестниц/ступеней",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/yay_i_got_my_wood",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:end_rod"
         },
-        "title": "Fluorescent!",
-        "description": "Light up the area with some end rods"
+        "title": "Флуоресцентный свет!",
+        "description": "Освети территорию палкой из Края"
     },
     "parent": "blazeandcave:building/glowing",
 	"rewards": {

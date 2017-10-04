@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glass_pane"
         },
-        "title": "What a pane",
-        "description": "Craft some glass panes"
+        "title": "Какая панель!?",
+        "description": "Скрафти немного стеклянных панелей"
     },
     "parent": "blazeandcave:building/classy_glassy",
 	"rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:sapling",
 			"data": 3
         },
-        "title": "Ecologist",
-        "description": "Plant down all six types of sapling"
+        "title": "Эколог",
+        "description": "Посади все шесть видов деревьев"
     },
     "parent": "blazeandcave:farming/care_for_the_environment",
 	"rewards": {

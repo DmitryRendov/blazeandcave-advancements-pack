@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_hoe"
         },
-        "title": "Serious Dedication",
-        "description": "Completely use up a diamond hoe, and then reevaluate your life choices",
+        "title": "Терпение и труд",
+        "description": "Используй алмазную мотыгу, пока она не сломается, а потом попробуй переосмыслить свою жизнь",
         "frame": "challenge"
     },
     "parent": "blazeandcave:farming/a_seedy_place",

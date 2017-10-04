@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:lead"
         },
-        "title": "You Lead, I'll Follow",
-        "description": "Craft a lead for forming a llama caravan"
+        "title": "Ты ведешь, я следую",
+        "description": "Скрафти поводок и организуй караван из лам"
     },
     "parent": "blazeandcave:farming/blistering_barnacles",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glowstone"
         },
-        "title": "Glowing!",
-        "description": "Light up the area with glowstone"
+        "title": "Ослепительно!",
+        "description": "Освети территорию с помощью светокамня"
     },
     "parent": "blazeandcave:building/torched",
 	"rewards": {

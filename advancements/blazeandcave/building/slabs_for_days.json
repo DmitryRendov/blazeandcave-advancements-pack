@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_slab"
         },
-        "title": "Slabs For Days",
-        "description": "Craft every type of slab",
+        "title": "Полублоки в нашей жизни",
+        "description": "Скрафти все виды полублоков",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/yay_i_got_my_wood",

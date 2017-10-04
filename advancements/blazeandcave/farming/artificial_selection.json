@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:apple"
         },
-        "title": "Artificial Selection",
-        "description": "Breed a horse and a donkey to get a mule"
+        "title": "Искуственный отбор",
+        "description": "Выведи мула из лошади и осла."
     },
     "parent": "blazeandcave:farming/cowboy",
 	"rewards": {

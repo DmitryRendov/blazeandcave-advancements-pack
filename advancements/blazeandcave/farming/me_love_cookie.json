@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cookie"
         },
-        "title": "Me Love Cookie",
-        "description": "Bake some cookies... and then scoff them all yourself"
+        "title": "Мы любим печеньки!",
+        "description": "Испеки немного печенек... а затем поизмывайся над ними!"
     },
     "parent": "blazeandcave:farming/bake_bread",
 	"rewards": {

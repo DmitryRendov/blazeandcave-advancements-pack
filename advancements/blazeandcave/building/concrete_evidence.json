@@ -4,8 +4,8 @@
             "item": "minecraft:concrete",
 			"data": 3
         },
-        "title": "Concrete Evidence",
-        "description": "Create concrete from concrete powder by dropping it into water"
+        "title": "Железобетонные доказательства",
+        "description": "Создай твёрдый бетон из бетонного порошка, опустив его в воду"
     },
     "parent": "blazeandcave:building/rainbow_sand",
 	"rewards": {

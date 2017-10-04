@@ -4,8 +4,8 @@
             "item": "minecraft:bed",
 			"data": 14
         },
-        "title": "Sweet dreams",
-        "description": "Change your respawn point"
+        "title": "Сладкие сны",
+        "description": "Измени свою точку возрождения"
     },
     "parent": "blazeandcave:building/your_door_was_locked",
     "rewards": {
