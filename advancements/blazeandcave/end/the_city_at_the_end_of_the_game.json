@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:purpur_block"
         },
-        "title": "The City at the End of the Game",
-        "description": "Go on in, what could happen?"
+        "title": "Город в конец игры",
+        "description": "Заходи, что может случиться?"
     },
     "parent": "blazeandcave:end/remote_getaway",
 	"rewards": {

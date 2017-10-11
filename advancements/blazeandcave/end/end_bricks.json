@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:end_bricks"
         },
-        "title": "End Bricks!",
-        "description": "Craft end bricks from end stone"
+        "title": "Кирпичи Края!",
+        "description": "Скрафти кирпичи края из камня края"
     },
     "parent": "blazeandcave:end/root",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shulker_shell"
         },
-        "title": "Great View From Up Here",
-        "description": "Levitate for at least 30 seconds",
+        "title": "Здесь великолепный вид",
+        "description": "Проливетируй на протяжении 30 секунд",
         "frame": "challenge"
     },
     "parent": "blazeandcave:end/for_mother_clarence",

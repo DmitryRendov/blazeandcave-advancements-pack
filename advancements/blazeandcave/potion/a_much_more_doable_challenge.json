@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glass_bottle"
         },
-        "title": "A Much More Doable Challenge",
-        "description": "Get all the effects possible during your life (not all at the same time)",
+        "title": "В разы более лёгкое достижение",
+        "description": "Ты должен получить все существующие в игре эффекты (не одновременно)",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:potion/a_furious_cocktail",

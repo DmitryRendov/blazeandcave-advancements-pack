@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:lingering_potion"
         },
-        "title": "Noxious Fumes",
-        "description": "Use dragon's breath to brew a lingering potion"
+        "title": "Ядовитый дым",
+        "description": "Используй дыхание дракона, чтобы сварить оседающее зелье"
     },
     "parent": "blazeandcave:end/you_need_a_mint",
 	"rewards": {

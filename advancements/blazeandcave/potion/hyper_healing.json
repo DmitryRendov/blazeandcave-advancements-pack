@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ghast_tear"
         },
-        "title": "Hyper-Healing",
-        "description": "Brew and drink a regeneration potion"
+        "title": "Гиперлечение",
+        "description": "Свари и выпей зелье регенерации здоровья"
     },
     "parent": "blazeandcave:potion/i_need_healing",
 	"rewards": {

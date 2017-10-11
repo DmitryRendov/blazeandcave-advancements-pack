@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Shouldn't my shield levitate too?",
-        "description": "Block a Shulker's bullet with your shield"
+        "title": "Разве мой щит не должен левитировать?",
+        "description": "Заблокируй снаряд шалкера своим щитом"
     },
     "parent": "blazeandcave:end/for_mother_clarence",
 	"rewards": {

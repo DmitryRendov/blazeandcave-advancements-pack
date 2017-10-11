@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:splash_potion"
         },
-        "title": "Death by Magic",
-        "description": "Kill a mob with a splash potion"
+        "title": "Смерть от магии",
+        "description": "Убей моба взрывным зельем"
     },
     "parent": "blazeandcave:potion/root",
 	"rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:elytra",
 			"data": 431
         },
-        "title": "Some Breakthrough",
-        "description": "Exhaust your elytra",
+        "title": "Some Breakthrough", //хз
+        "description": "Используй до конца свою элитру",
         "frame": "challenge"
     },
     "parent": "blazeandcave:end/skys_the_limit",

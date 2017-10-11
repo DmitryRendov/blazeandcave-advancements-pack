@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:milk_bucket"
         },
-        "title": "A Furious Cocktail",
-        "description": "Have every potion effect applied at the same time",
+        "title": "Неистовая смесь",
+        "description": "Ты должен получить все эффекты зелий в одно время",
         "frame": "challenge"
     },
     "parent": "blazeandcave:potion/hopping_mad",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chorus_flower"
         },
-        "title": "I'm Coming Back, Murph!",
-        "description": "Travel far into the End dimension",
+        "title": "Я возвращаюсь, Мёрф!",
+        "description": "Вернись ближе к центру Края",
         "frame": "goal"
     },
     "parent": "blazeandcave:end/remote_getaway",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chorus_plant"
         },
-        "title": "No! Don't let me leave, Murph!",
-        "description": "Travel so far into the End dimension you might as well be on another planet",
+        "title": "Нет! Не дай мне исчезнуть, Мёрф!",
+        "description": "Ты пробрался в Край настолько, что, возможно, оказался на другой планете",
         "frame": "challenge",
 		"hidden": "true"
     },

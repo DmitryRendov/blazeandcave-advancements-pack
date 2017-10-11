@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sugar"
         },
-        "title": "Performance-Enhancing Drugs",
-        "description": "Brew a Speed Potion for cheating on athletics"
+        "title": "Улучшающие физическую форму наркотики", //тут хз
+        "description": "Свари зелье скорости для улучшения результатов в атлетике"
     },
     "parent": "blazeandcave:potion/root",
 	"rewards": {

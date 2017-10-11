@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:elytra"
         },
-        "title": "Sky's the Limit",
-        "description": "Find an Elytra",
+        "title": "Небо это предел",
+        "description": "Найди элитру",
         "frame": "goal"
     },
     "parent": "blazeandcave:end/the_city_at_the_end_of_the_game",

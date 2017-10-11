@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:speckled_melon"
         },
-        "title": "I need healing!",
-        "description": "Brew a healing potion"
+        "title": "Нужен хил!", //решил сделать в виде отсылки на типичные в играх просьбы лечения
+        "description": "Свари зелье лечения"
     },
     "parent": "blazeandcave:potion/root",
 	"rewards": {

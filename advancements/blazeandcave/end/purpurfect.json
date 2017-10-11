@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:purpur_pillar"
         },
-        "title": "Purpurfect!",
-        "description": "Craft or collect purpur blocks, slabs, pillars and stairs"
+        "title": "Пурпурдеально!",
+        "description": "Скрафти или собери пурпурные блоки, плиты, столбы и лестницы"
     },
     "parent": "blazeandcave:end/the_city_at_the_end_of_the_game",
     "rewards": {

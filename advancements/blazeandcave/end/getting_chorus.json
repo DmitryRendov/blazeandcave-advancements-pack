@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chorus_fruit"
         },
-        "title": "Getting Chorus",
-        "description": "Attack a chorus tree until it collapses"
+        "title": "Получение коруса",
+        "description": "Ломай дерево коруса, пока оно не развалится"
     },
     "parent": "blazeandcave:end/remote_getaway",
 	"rewards": {

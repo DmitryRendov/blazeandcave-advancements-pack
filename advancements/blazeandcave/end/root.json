@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:end_stone"
         },
-        "title": "The End",
-        "description": "Or the beginning?",
+        "title": "Край", //в оригинале это The End, что подходит под "or the beggining?", поэтому у меня нет идей, как лучше назвать это дело 
+        "description": "Или начало?",
         "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
         "show_toast": false,
         "announce_to_chat": false

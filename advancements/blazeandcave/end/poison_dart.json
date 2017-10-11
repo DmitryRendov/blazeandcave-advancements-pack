@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tipped_arrow"
         },
-        "title": "Poison Dart",
-        "description": "Craft tipped arrows of poison"
+        "title": "Отравленный дротик",
+        "description": "Скрафти ядовитые стрелы"
     },
     "parent": "blazeandcave:end/noxious_fumes",
 	"rewards": {

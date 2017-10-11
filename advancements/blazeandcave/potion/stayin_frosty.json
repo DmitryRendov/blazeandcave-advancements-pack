@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma_cream"
         },
-        "title": "Stayin' Frosty",
-        "description": "Drink a fire resistance potion so you can go swimming in lava"
+        "title": "Оставайся холодным",
+        "description": "Выпей зелье огнестойкости, чтобы поплавать в лаве"
     },
     "parent": "blazeandcave:potion/root",
 	"rewards": {
