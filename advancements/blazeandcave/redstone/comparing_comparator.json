@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:comparator"
         },
-        "title": "Comparing Comparator",
-        "description": "Craft a redstone comparator"
+        "title": "Сравнивающий сравнитель",
+        "description": "скрафтите компоратор"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",
 	"rewards": {
