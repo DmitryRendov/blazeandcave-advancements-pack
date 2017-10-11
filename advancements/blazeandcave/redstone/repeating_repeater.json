@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:repeater"
         },
-        "title": "Repeating Repeater",
-        "description": "Craft a redstone repeater for delaying signals"
+        "title": "Повтаряющийся повторитель",
+        "description": "Сделайте повторитель чтоб усиливать сигналы"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:noteblock"
         },
-        "title": "Mozart",
-        "description": "Craft a note block"
+        "title": "Моцарт",
+        "description": "Скрафтите нотный блок"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

@@ -1,10 +1,10 @@
-{
+п»ї{
     "display": {
         "icon": {
             "item": "minecraft:comparator"
         },
-        "title": "Сравнивающий сравнитель",
-        "description": "скрафтите компоратор"
+        "title": "вЂ”СЂР°РІРЅРёРІР°СЋС‰РёР№ СЃСЂР°РІРЅРёС‚РµР»СЊ",
+        "description": "СЃРєСЂР°С„С‚РёС‚Рµ РєРѕРјРїРѕСЂР°С‚РѕСЂ"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",
 	"rewards": {

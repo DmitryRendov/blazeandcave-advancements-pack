@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:trapped_chest"
         },
-        "title": "Troll Chest",
-        "description": "Craft a trapped chest to troll your friends"
+        "title": "Сундук тролинга",
+        "description": "Скрафтите сундук-ловушку"
     },
     "parent": "blazeandcave:redstone/tripping_over",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_pressure_plate"
         },
-        "title": "Under Pressure",
-        "description": "Craft a pressure plate"
+        "title": "Под давлением",
+        "description": "Скрафтите нажимную плиту"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

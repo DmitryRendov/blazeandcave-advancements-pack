@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:piston"
         },
-        "title": "Moving Parts",
-        "description": "Craft a piston so you can push things"
+        "title": "Двигающиеся детальки",
+        "description": "Сделайте поршень чтоб двигать штуки"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

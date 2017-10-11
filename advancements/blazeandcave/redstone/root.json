@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:redstone"
         },
-        "title": "Redstone",
-        "description": "Cracking contraptions",
+        "title": "Редстоун",
+        "description": "Сложные штуковины",
 		"background": "minecraft:textures/blocks/piston_side.png",
         "show_toast": false,
         "announce_to_chat": false

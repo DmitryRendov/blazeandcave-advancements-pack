@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:observer"
         },
-        "title": "Observer Buddy",
-        "description": "Craft an observer"
+        "title": "Наблюдательный друг",
+        "description": "Сделайте блок-наблюдатель"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",
 	"rewards": {

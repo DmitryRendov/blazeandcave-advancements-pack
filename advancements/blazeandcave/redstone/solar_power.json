@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:daylight_detector"
         },
-        "title": "Solar Power",
-        "description": "Craft a daylight sensor"
+        "title": "Сила солнца",
+        "description": "Скрафтите детектор натурального света"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:heavy_weighted_pressure_plate"
         },
-        "title": "Metal Plate",
-        "description": "Craft an iron weighted pressure plate"
+        "title": "Железная плита",
+        "description": "Скрафтите железную нажимную плиту"
     },
     "parent": "blazeandcave:redstone/under_pressure",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tripwire_hook"
         },
-        "title": "Tripping Over",
-        "description": "Craft a tripwire hook for your traps"
+        "title": "Вспотыкалка",
+        "description": "Сделайте крюки для растяжки"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {
