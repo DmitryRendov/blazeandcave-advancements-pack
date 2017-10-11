@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:light_weighted_pressure_plate"
         },
-        "title": "Bling Plate",
-        "description": "Craft a golden weighted pressure plate"
+        "title": "Дорогущая пластина",
+        "description": "Скрафтите золотую нажимную пластину"
     },
     "parent": "blazeandcave:redstone/metal_plate",
 	"rewards": {
