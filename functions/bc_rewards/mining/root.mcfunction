@@ -1,1 +1,1 @@
-tellraw @s {"color":"gray","italic":"true","text":"Вы открыли ветку Mining"} хз как лучше
+tellraw @s {"color":"gray","italic":"true","text":"Вы открыли ветку Добыча"}

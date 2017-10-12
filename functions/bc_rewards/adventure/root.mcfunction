@@ -1,1 +1,1 @@
-tellraw @s {"color":"gray","italic":"true","text":"Вы открыли ветку приключений"}
+tellraw @s {"color":"gray","italic":"true","text":"Ты открыл ветку Приключений"}
