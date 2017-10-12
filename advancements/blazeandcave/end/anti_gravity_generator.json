@@ -4,7 +4,7 @@
             "item": "minecraft:light_blue_shulker_box"
         },
         "title": "Антигравитационный генератор",
-        "description": "Принеси шалкера из края в обычный мир, а потом получи невесомость",
+        "description": "Перемести шалкера из Края в обычный мир, а потом получи невесомость",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:end/portable_storage",

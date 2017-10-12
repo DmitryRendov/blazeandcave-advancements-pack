@@ -4,7 +4,7 @@
             "item": "minecraft:diamond_ore"
         },
         "title": "Как шёлк",
-        "description": "Используй шёлкое касание, чтобы добыть блок алмазной руды",
+        "description": "Используй зачарование Шёлковое касание, чтобы добыть блок алмазной руды",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/fortunate_son",

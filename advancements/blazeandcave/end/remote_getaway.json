@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:ender_pearl"
         },
-        "title": "Удалённое бегство", //сложно, до свидания
+        "title": "Идеальный побег",
         "description": "Покинь остров" 
     },
     "parent": "blazeandcave:end/free_the_end",

@@ -4,7 +4,7 @@
             "item": "minecraft:iron_boots"
         },
         "title": "Как кошка",
-        "description": "Получи ботинки с падением пера",
+        "description": "Получи ботинки, зачарованные на Невесомость",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/root",

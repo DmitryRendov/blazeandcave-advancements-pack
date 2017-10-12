@@ -4,7 +4,7 @@
             "item": "minecraft:enchanting_table"
         },
         "title": "Зачарование",
-        "description": "Зачаровывай предметы, чтобы дать им магические особенности",
+        "description": "Зачаровывай предметы, чтобы придать им магические особенности",
 		"background": "minecraft:textures/blocks/obsidian.png",
         "show_toast": false,
         "announce_to_chat": false

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": "Knocking Your Socks Off", #фразеологизм
-        "description": "Получи зачарования отдача и отбрасывание",
+        "title": "Ошеломи противника",
+        "description": "Получи зачарования Отдача и Отбрасывание",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/armor_for_the_masses",

@@ -4,7 +4,7 @@
             "item": "minecraft:chorus_fruit"
         },
         "title": "Получение коруса",
-        "description": "Ломай дерево коруса, пока оно не развалится"
+        "description": "Ломай растение коруса, пока оно не развалится"
     },
     "parent": "blazeandcave:end/remote_getaway",
 	"rewards": {

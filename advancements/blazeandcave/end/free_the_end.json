@@ -4,8 +4,8 @@
             "item": "minecraft:skull",
             "data": 5
         },
-        "title": "Освобождение Края",
-        "description": "Удачи"
+        "title": "Освободи Край",
+        "description": "Удачи!"
     },
     "parent": "blazeandcave:end/root",
 	"rewards": {

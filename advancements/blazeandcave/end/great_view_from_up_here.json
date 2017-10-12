@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shulker_shell"
         },
-        "title": "Здесь великолепный вид",
-        "description": "Проливетируй на протяжении 30 секунд",
+        "title": "Прекрасный вид!",
+        "description": "Пролевитируйте вверх на 50 блоков, благодаря шалкеру",
         "frame": "challenge"
     },
     "parent": "blazeandcave:end/for_mother_clarence",

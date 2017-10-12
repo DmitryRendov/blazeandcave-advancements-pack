@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ice"
         },
-        "title": "Let It Go!", #вообще хз, вроде отсылка к мультфильму
-        "description": "Получи ботинки с хождением по льду",
+        "title": "Иисус, ты ли это?!",
+        "description": "Получи ботинки, зачарованные на Ледяную Поступь",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/old_cartoon_joke",

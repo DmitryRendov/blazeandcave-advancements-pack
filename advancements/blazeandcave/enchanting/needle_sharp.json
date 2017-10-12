@@ -4,7 +4,7 @@
             "item": "minecraft:iron_sword"
         },
         "title": "Острый как игла",
-        "description": "Получи остроту 5",
+        "description": "Получи Остроту V",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/librarian",

@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:ender_chest"
         },
-        "title": "Сундуки Края",
+        "title": "Сундук Края",
         "description": "Скрафти сундук Края, чтобы заполучить немного свободного места"
     },
     "parent": "blazeandcave:nether/into_fire",

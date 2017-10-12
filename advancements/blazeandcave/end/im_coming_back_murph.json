@@ -4,7 +4,7 @@
             "item": "minecraft:chorus_flower"
         },
         "title": "Я возвращаюсь, Мёрф!",
-        "description": "Вернись ближе к центру Края",
+        "description": "Пропутешествуй далеко от центра Края",
         "frame": "goal"
     },
     "parent": "blazeandcave:end/remote_getaway",

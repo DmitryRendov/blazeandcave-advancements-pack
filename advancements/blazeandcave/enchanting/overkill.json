@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": "Overkill", #сложнааа :(
-        "description": "Нанеси 8 сердец урона за 1 удар",
+        "title": "Overkill",
+        "description": "Нанеси 8 сердец урона одним ударом",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/root",

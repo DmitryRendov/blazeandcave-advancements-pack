@@ -4,7 +4,7 @@
             "item": "minecraft:rotten_flesh"
         },
         "title": "Убийца нежити",
-        "description": "Получи небесную кару 5",
+        "description": "Получи Небесную кару V",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/needle_sharp",

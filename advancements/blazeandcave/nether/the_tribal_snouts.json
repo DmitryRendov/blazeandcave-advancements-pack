@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:gold_nugget"
         },
-        "title": "Родственные морды", #был вариант с душами (родственные души)
+        "title": "Родственные морды",
         "description": "Убей свинозомби"
     },
     "parent": "blazeandcave:nether/root",

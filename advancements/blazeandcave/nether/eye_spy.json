@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:ender_eye"
         },
-        "title": "Глаз-шпион",
+        "title": "Всевидящее око",
         "description": "Следуй за оком Края"
     },
     "parent": "blazeandcave:nether/into_fire",

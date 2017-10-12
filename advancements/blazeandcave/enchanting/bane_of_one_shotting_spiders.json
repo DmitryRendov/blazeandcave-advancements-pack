@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spider_eye"
         },
-        "title": "Проклятие мгновенной смерти пауков",
-        "description": "Получи бич членистонгих 5",
+        "title": "Гроза членистоногих",
+        "description": "Получи Бич членистонгих V",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/undead_slayer",
