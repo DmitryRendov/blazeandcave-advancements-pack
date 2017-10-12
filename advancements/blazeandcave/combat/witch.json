@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sugar"
         },
-        "title": "Witch!",
-        "description": "Kill a witch"
+        "title": "Ведьма!",
+        "description": "Убей ведьму"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_nugget"
         },
-        "title": "There has to be another way...",
-        "description": "Kill a zombie villager"
+        "title": "Должен быть другой способ...",
+        "description": "Убей зомби-жителя"
     },
     "parent": "blazeandcave:combat/dead_dont_die",
     "rewards": {

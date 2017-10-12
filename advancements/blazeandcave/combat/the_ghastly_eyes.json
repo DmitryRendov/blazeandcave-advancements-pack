@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fermented_spider_eye"
         },
-        "title": "The Ghastly Eyes",
-        "description": "Kill an invisible spider",
+        "title": "Призрачные глаза",
+        "description": "Убей невидимого паука",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/ew_ew_ew",

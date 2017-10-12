@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": "Monster Hunter",
-        "description": "Kill any hostile monster"
+        "title": "Охотник на монстров",
+        "description": "Убей любого агрессивного моба"
     },
     "parent": "blazeandcave:combat/root",
     "rewards": {

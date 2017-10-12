@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ender_eye"
         },
-        "title": "Plane Walker",
-        "description": "Kill endermen in all three dimensions",
+        "title": "Plane Walker", //сложно х2
+        "description": "Убей эндермена во всех трёх мирах",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/the_ender_of_ender",

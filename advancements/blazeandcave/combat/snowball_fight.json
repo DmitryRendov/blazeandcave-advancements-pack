@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Snowball Fight",
-        "description": "The spirit of Christmas... quickly drowned out by a battle"
+        "title": "Битва снежками",
+        "description": "Новогоднее настроение... быстро сменилось битвой"
     },
     "parent": "blazeandcave:combat/egging_dude",
     "rewards": {

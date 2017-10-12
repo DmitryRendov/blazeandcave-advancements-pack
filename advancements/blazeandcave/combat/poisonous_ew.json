@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spider_eye"
         },
-        "title": "Poisonous Ew",
-        "description": "Kill a cave spider"
+        "title": "Ядовитый фу",
+        "description": "Убей ядовитого паука"
     },
     "parent": "blazeandcave:combat/ew_ew_ew",
     "rewards": {

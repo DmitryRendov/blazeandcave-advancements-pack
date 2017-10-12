@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ender_pearl"
         },
-        "title": "The ender of ender",
-        "description": "Kill an enderman"
+        "title": "Конец эндерменов", //the ender of ender - сложно
+        "description": "Убей эндермена"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

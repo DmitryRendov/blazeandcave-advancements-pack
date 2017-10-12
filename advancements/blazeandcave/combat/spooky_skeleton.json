@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bone"
         },
-        "title": "Spooky Skeleton",
-        "description": "Kill a skeleton"
+        "title": "Жуткий скелет",
+        "description": "Убей скелета"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

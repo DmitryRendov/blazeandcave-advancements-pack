@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:deadbush"
         },
-        "title": "Desert Nomad",
-        "description": "Kill a husk"
+        "title": "Пустынный кочевник",
+        "description": "Убей хаска" //хаск или переводим?
     },
     "parent": "blazeandcave:combat/dead_dont_die",
     "rewards": {

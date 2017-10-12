@@ -4,8 +4,8 @@
             "item": "minecraft:skull",
 			"data": 2
         },
-        "title": "Still Talking!",
-        "description": "Blow up a zombie with a charged creeper to get a zombie head",
+        "title": "До сих пор говорит!",
+        "description": "Взорви зомби с помощью заряженного крипера, чтобы получить его голову",
 		"frame": "challenge",
 		"hidden": "true"
     },

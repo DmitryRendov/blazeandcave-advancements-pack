@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:slime"
         },
-        "title": "Trampoline",
-        "description": "Craft a slime block using slimeballs"
+        "title": "Трамплин",
+        "description": "Скрафти блок слизи"
     },
     "parent": "blazeandcave:combat/gelatinous_cube",
     "rewards": {

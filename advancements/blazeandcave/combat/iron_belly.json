@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:rotten_flesh"
         },
-        "title": "Iron Belly",
-        "description": "Stop starvation using rotten flesh"
+        "title": "Стальной желудок",
+        "description": "Утоли голод с помощью гнилой плоти"
     },
     "parent": "blazeandcave:combat/dead_dont_die",
     "rewards": {

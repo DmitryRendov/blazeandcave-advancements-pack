@@ -4,8 +4,8 @@
             "item": "minecraft:stonebrick",
 			"data": 2
         },
-        "title": "Termite Control",
-        "description": "Kill a silverfish"
+        "title": "Санэпидемстанция",
+        "description": "Убей чешуйницу"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

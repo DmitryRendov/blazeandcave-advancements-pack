@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Blast Shield",
-        "description": "Survive a creeper's blast with your shield"
+        "title": "Взрывоустойчивый щит",
+        "description": "Выживи после взрыва крипера с помощью щита"
     },
     "parent": "blazeandcave:combat/what_a_creep",
 	"rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:dye",
 			"data": 5
         },
-        "title": "Ender Worm",
-        "description": "Prevent an endermite from maturing"
+        "title": "Червь Края",
+        "description": "Prevent an endermite from maturing" //сложнаааа
     },
     "parent": "blazeandcave:combat/the_ender_of_ender",
     "rewards": {

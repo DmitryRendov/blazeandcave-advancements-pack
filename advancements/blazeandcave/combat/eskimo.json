@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fish"
         },
-        "title": "Eskimo",
-        "description": "It may be illegal to hunt polar bears in real life, but not in Minecraft"
+        "title": "Эскимос",
+        "description": "В реальной жизни нельзя убивать белых медведей, но не в Minecraft'е"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {
