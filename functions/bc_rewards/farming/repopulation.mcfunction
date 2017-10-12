@@ -1,2 +1,2 @@
 give @s minecraft:wheat 2
-tellraw @s {"color":"green","text":" +2 Wheat"}
+tellraw @s {"color":"green","text":" +2 Пшеницы"}

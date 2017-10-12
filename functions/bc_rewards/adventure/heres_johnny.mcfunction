@@ -1,2 +1,2 @@
 give @s minecraft:emerald 2
-tellraw @s {"color":"green","text":" +2 Emeralds"}
+tellraw @s {"color":"green","text":" +2 Изумруда"}

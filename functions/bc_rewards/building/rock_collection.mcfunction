@@ -1,2 +1,2 @@
 give @s minecraft:cobblestone 16
-tellraw @s {"color":"green","text":" +16 Cobblestone"}
+tellraw @s {"color":"green","text":" +16 Булыжника"}

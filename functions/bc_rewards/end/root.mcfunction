@@ -1,1 +1,1 @@
-tellraw @s {"color":"gray","italic":"true","text":"You have unlocked the root of the End tab"}
+tellraw @s {"color":"gray","italic":"true","text":"Вы открыли ветку мира тьмы"}
