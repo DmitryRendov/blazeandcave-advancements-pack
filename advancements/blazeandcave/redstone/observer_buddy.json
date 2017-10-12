@@ -4,7 +4,7 @@
             "item": "minecraft:observer"
         },
         "title": "Наблюдательный друг",
-        "description": "Сделайте блок-наблюдатель"
+        "description": "Скрафти наблюдатель"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",
 	"rewards": {

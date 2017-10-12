@@ -4,7 +4,7 @@
             "item": "minecraft:tripwire_hook"
         },
         "title": "Вспотыкалка",
-        "description": "Сделайте крюки для растяжки"
+        "description": "Скрафти крюки для растяжки"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

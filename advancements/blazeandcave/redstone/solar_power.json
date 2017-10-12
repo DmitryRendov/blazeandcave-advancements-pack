@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:daylight_detector"
         },
-        "title": "Сила солнца",
-        "description": "Скрафтите детектор натурального света"
+        "title": "Энергия солнца",
+        "description": "Скрафти детектор солнечного света"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",
 	"rewards": {

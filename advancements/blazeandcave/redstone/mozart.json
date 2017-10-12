@@ -4,7 +4,7 @@
             "item": "minecraft:noteblock"
         },
         "title": "Моцарт",
-        "description": "Скрафтите нотный блок"
+        "description": "Скрафти нотный блок"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

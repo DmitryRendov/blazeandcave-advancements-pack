@@ -4,7 +4,7 @@
             "item": "minecraft:dropper"
         },
         "title": "Выбрасыватель материи",
-        "description": "Скрафтите выбрасыватель"
+        "description": "Скрафти выбрасыватель"
     },
     "parent": "blazeandcave:redstone/space_hopper",
 	"rewards": {

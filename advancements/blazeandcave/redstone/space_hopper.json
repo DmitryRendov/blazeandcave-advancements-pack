@@ -4,7 +4,7 @@
             "item": "minecraft:hopper"
         },
         "title": "Воронка",
-        "description": "Скрафтите воронку для перемещения вещей"
+        "description": "Скрафти воронку для перемещения вещей"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

@@ -4,7 +4,7 @@
             "item": "minecraft:light_weighted_pressure_plate"
         },
         "title": "Дорогущая пластина",
-        "description": "Скрафтите золотую нажимную пластину"
+        "description": "Скрафти золотую нажимную пластину"
     },
     "parent": "blazeandcave:redstone/metal_plate",
 	"rewards": {

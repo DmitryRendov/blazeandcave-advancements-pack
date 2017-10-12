@@ -4,7 +4,7 @@
             "item": "minecraft:quartz"
         },
         "title": "Причудливый кварц",
-        "description": "Добудьте кварц в аду"
+        "description": "Добудь кварц в аду"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

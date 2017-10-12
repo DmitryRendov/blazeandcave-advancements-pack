@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:repeater"
         },
-        "title": "Повтаряющийся повторитель",
-        "description": "Сделайте повторитель чтоб усиливать сигналы"
+        "title": "Повторение - мать учения",
+        "description": "Скрафти повторитель, чтобы усиливать сигналы"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

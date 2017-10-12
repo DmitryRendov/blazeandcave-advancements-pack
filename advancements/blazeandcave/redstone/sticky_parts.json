@@ -4,7 +4,7 @@
             "item": "minecraft:sticky_piston"
         },
         "title": "Липкие детальки",
-        "description": "Намажьте поршень слизью чтоб он мог тянуть блоки"
+        "description": "Намажь поршень слизью, чтобы он мог тянуть блоки"
     },
     "parent": "blazeandcave:redstone/moving_parts",
 	"rewards": {

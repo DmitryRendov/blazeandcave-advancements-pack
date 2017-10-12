@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:detector_rail"
         },
-        "title": "Детектор вогонеток",
-        "description": "Используйте каменную нажимную плиту чтоб сделать рельсу-детектор"
+        "title": "Детектор нажатия",
+        "description": "Используй каменную нажимную плиту, чтобы скрафтить нажимные рельсы"
     },
     "parent": "blazeandcave:redstone/under_pressure",
 	"rewards": {

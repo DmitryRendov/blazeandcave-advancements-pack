@@ -4,7 +4,7 @@
             "item": "minecraft:stone_pressure_plate"
         },
         "title": "Под давлением",
-        "description": "Скрафтите нажимную плиту"
+        "description": "Скрафти нажимную пластину"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {
