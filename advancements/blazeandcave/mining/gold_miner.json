@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_ore"
         },
-        "title": "Gold Miner",
-        "description": "Mine a stack of gold ore",
+        "title": "Золотоискатель",
+        "description": "Добудь стак золотых слитков",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/gold_rush",

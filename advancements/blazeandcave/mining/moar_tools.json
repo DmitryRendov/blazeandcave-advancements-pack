@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_shovel"
         },
-        "title": "MOAR Tools",
-        "description": "Craft a stone pickaxe, axe, shovel and hoe"
+        "title": "Бооольше инструментов!",
+        "description": "Скрафти каменные кирку, топор, лопату и мотыгу"
     },
     "parent": "blazeandcave:mining/getting_an_upgrade",
 	"rewards": {

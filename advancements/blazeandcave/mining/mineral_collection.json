@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_block"
         },
-        "title": "Mineral Collection",
-        "description": "Craft every type of mineral block",
+        "title": "Коллекция минералов",
+        "description": "Скрафти каждый вид минеральных блоковов",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/diamonds",

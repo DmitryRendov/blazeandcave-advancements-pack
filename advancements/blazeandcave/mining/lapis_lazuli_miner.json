@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:lapis_block"
         },
-        "title": "Lapis Lazuli Miner",
-        "description": "Mine enough lapis lazuli to craft a stack of lapis lazuli blocks",
+        "title": "Лазуритокопатель",
+        "description": "Добудь достаточно лазурита, чтобы скрафтить стак лазуритовых блоков",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/the_wrong_shade_of_blue",

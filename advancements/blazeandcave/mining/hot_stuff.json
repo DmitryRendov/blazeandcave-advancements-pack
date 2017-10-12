@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:lava_bucket"
         },
-        "title": "Hot Stuff",
-        "description": "Fill a bucket with lava"
+        "title": "Горячая штучка (часть II)",
+        "description": "Заряди печку ведром, наполненным лавой"
     },
     "parent": "blazeandcave:mining/acquire_hardware",
     "rewards": {

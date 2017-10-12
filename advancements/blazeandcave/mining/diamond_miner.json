@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_block"
         },
-        "title": "Diamond Miner",
-        "description": "Mine a stack of diamonds. Good luck!",
+        "title": "Алмазоискатель",
+        "description": "Добудь стак алмазов. Удачи!",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/diamonds",

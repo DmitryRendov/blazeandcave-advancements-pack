@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:compass"
         },
-        "title": "The way to spawn",
-        "description": "Craft a compass in case you forgot where spawn is"
+        "title": "Дорога домой",
+        "description": "Скрафти компас на случай если ты заблудился или забыл где точка спавна"
     },
     "parent": "blazeandcave:mining/seeing_red",
     "rewards": {

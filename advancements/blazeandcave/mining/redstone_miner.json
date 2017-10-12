@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:redstone_block"
         },
-        "title": "Redstone Miner",
-        "description": "Mine enough redstone to craft a stack of redstone blocks",
+        "title": "Эксперт-добытчик красного камня",
+        "description": "Добудь достаточно красного камня, чтобы скрафтить стак редстоун блоков",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/seeing_red",

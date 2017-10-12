@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:clock"
         },
-        "title": "What's the time, Mr Wolf?",
-        "description": "Time to clean your clocks! (Or, craft them!)"
+        "title": "Не подскажете как пройти в библиотеку?",
+        "description": "Какая библиотека в час ночи!? (Скрафти или отыщи часы!)"
     },
     "parent": "blazeandcave:mining/the_way_to_spawn",
     "rewards": {

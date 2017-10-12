@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wooden_pickaxe"
         },
-        "title": "Oh noes!",
-        "description": "Break your first tool"
+        "title": "О нееет!",
+        "description": "Сломай свой первый инструмент"
     },
     "parent": "blazeandcave:mining/root",
     "rewards": {

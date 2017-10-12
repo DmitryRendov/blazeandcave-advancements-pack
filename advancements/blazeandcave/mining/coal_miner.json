@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:coal_block"
         },
-        "title": "Coal Miner",
-        "description": "Mine a stack of coal",
+        "title": "Шахтёрим по чёрному",
+        "description": "Добудь стак угля",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/fossil_fuel",

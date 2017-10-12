@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": "Suit Up",
-        "description": "Protect yourself with a piece of iron armor"
+        "title": "Дресс-код",
+        "description": "Защити себя с помощью любой части железной брони"
     },
     "parent": "blazeandcave:mining/acquire_hardware",
 	"rewards": {

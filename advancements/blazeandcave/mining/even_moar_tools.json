@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_shovel"
         },
-        "title": "Even MOAR Tools",
-        "description": "Craft a full diamond tools set"
+        "title": "Больше алмазных инструментов!",
+        "description": "Скрафти полный набор алмазных инструментов"
     },
     "parent": "blazeandcave:mining/diamonds",
     "rewards": {

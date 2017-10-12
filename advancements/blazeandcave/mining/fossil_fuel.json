@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:coal"
         },
-        "title": "Fossil Fuel",
-        "description": "Coal! As in dead dinosaurs!"
+        "title": "Ископаемое топливо",
+        "description": "Уголь! Следы мёртвых динозавров!"
     },
     "parent": "blazeandcave:mining/root",
     "rewards": {

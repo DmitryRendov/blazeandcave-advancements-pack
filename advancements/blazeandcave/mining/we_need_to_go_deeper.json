@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:flint_and_steel"
         },
-        "title": "We Need to Go Deeper",
-        "description": "Build, light and enter a Nether Portal",
+        "title": "В самое пекло",
+        "description": "Построй и зажги портал в Нижний Мир",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/ice_bucket_challenge",

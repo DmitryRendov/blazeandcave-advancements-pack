@@ -4,7 +4,7 @@
             "item": "minecraft:cooked_rabbit"
         },
         "title": "Сезон кроликов",
-        "description": "Приготовь и съешь немного мяса кролика"
+        "description": "Приготовь и съешь крольчатину."
     },
     "parent": "blazeandcave:farming/hot_topic",
 	"rewards": {
