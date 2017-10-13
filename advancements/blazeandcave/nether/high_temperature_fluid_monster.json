@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:magma_cream"
         },
-        "title": "Лавовый монстр",
+        "title": "Магмо-монстр",
         "description": "Убей магмового слизня"
     },
     "parent": "blazeandcave:nether/the_tribal_snouts",

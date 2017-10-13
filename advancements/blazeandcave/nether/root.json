@@ -4,7 +4,7 @@
             "item": "minecraft:red_nether_brick"
         },
         "title": "Нижний мир",
-        "description": "Принеси летние вещи",
+        "description": "Захвати летнюю одежду",
 		"background": "minecraft:textures/blocks/netherrack.png",
         "show_toast": false,
         "announce_to_chat": false

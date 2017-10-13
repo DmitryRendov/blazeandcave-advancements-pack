@@ -4,7 +4,7 @@
             "item": "minecraft:purple_shulker_box"
         },
         "title": "Переносное хранилище",
-        "description": "Используй корпуса шалкеров, чтобы скрафтить ящик шалкера"
+        "description": "Используй панцири шалкеров, чтобы скрафтить сундук шалкера"
     },
     "parent": "blazeandcave:end/for_mother_clarence",
 	"rewards": {

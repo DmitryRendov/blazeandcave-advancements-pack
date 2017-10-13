@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ghast_tear"
         },
-        "title": "Непростой союз",
-        "description": "Перенеси гаста из нижнего мира в обычный... а потом убей его",
+        "title": "Война миров",
+        "description": "Замани гаста в обычный мир… а затем убей его.",
         "frame": "challenge"
     },
     "parent": "blazeandcave:nether/return_to_sender",

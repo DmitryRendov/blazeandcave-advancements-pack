@@ -4,7 +4,7 @@
             "item": "minecraft:blaze_rod"
         },
         "title": "В полымя",
-        "description": "Забери у ифрита его стержень"
+        "description": "Освободи Ифрита от его стерженя"
     },
     "parent": "blazeandcave:nether/a_terrible_fortress",
 	"rewards": {

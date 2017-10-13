@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:end_crystal"
         },
-        "title": "Начало чего-то",
-        "description": "Скрафти свой первый кристал края"
+        "title": "Зарождение",
+        "description": "Скрафти свой первый кристал Края"
     },
     "parent": "blazeandcave:end/free_the_end",
 	"rewards": {

@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Драконий щит",
+        "title": "Щит Дракона",
         "description": "Попробуй заблокировать атаку дракона щитом"
     },
     "parent": "blazeandcave:end/root",

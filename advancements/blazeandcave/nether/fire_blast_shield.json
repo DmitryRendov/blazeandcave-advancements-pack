@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Огнезащитный щит",
+        "title": "Деревянный щит против файербола? Легко!",
         "description": "Заблокируй взрыв огненного шара гаста"
     },
     "parent": "blazeandcave:nether/giant_floating_jellyfish",

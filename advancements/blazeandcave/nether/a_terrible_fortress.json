@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nether_brick"
         },
-        "title": "Ужасная крепость",
-        "description": "Найди адскую крепость"
+        "title": "Чертоги страха",
+        "description": "Ворвись в адскую крепость"
     },
     "parent": "blazeandcave:nether/root",
     "rewards": {
