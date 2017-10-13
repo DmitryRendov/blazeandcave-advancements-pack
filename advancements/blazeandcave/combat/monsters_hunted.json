@@ -4,7 +4,7 @@
             "item": "minecraft:diamond_sword"
         },
         "title": "Охота на монстров",
-        "description": "Убей каждого агрессивного моба",
+        "description": "Убей все виды агрессивных мобов",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/dungeon_crawler",

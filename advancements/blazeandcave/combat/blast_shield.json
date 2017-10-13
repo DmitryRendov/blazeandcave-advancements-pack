@@ -4,7 +4,7 @@
             "item": "minecraft:shield"
         },
         "title": "Взрывоустойчивый щит",
-        "description": "Выживи после взрыва крипера с помощью щита"
+        "description": "Переживи взрыв крипера, прикрываясь щитом"
     },
     "parent": "blazeandcave:combat/what_a_creep",
 	"rewards": {

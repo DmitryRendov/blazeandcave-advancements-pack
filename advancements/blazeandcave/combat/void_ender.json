@@ -4,7 +4,7 @@
             "item": "minecraft:ender_pearl"
         },
         "title": "Пустой край",
-        "description": "Убей все типы мобов из Края",
+        "description": "Убей все виды мобов из Края",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/hell_hunter",

@@ -4,7 +4,7 @@
             "item": "minecraft:deadbush"
         },
         "title": "Пустынный кочевник",
-        "description": "Убей хаска" //хаск или переводим?
+        "description": "Убей Кадавра"
     },
     "parent": "blazeandcave:combat/dead_dont_die",
     "rewards": {

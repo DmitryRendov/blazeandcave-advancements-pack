@@ -4,7 +4,7 @@
             "item": "minecraft:fish"
         },
         "title": "Эскимос",
-        "description": "В реальной жизни нельзя убивать белых медведей, но не в Minecraft'е"
+        "description": "В реальной жизни нельзя убивать белых медведей, но не в Майнкрафте"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

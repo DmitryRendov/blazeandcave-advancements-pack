@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": "Целься",
+        "title": "Под прицелом",
         "description": "Стрельни во что-нибудь из лука"
     },
     "parent": "blazeandcave:combat/spooky_skeleton",

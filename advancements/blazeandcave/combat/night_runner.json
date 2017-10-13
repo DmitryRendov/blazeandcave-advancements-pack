@@ -4,7 +4,7 @@
             "item": "minecraft:iron_sword"
         },
         "title": "Ночной дозор",
-        "description": "Убей всех ночных мобов",
+        "description": "Убей все виды ночных мобов",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/monster_hunter",

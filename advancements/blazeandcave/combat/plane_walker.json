@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:ender_eye"
         },
-        "title": "Plane Walker", //сложно х2
+        "title": "Быстрый Джо уже не торт",
         "description": "Убей эндермена во всех трёх мирах",
         "frame": "challenge"
     },

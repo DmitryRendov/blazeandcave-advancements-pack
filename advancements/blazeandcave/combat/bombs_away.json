@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tnt"
         },
-        "title": "Bombs Away!", //хз
-        "description": "Скрафти ТНТ с помощью пороха и песка"
+        "title": "Бомбы сброшены, капитан!",
+        "description": "Скрафти ТНТ из пороха и песка... Да-да, именно так)"
     },
     "parent": "blazeandcave:combat/what_a_creep",
     "rewards": {

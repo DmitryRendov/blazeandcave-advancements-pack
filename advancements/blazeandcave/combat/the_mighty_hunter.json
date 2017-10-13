@@ -4,7 +4,7 @@
             "item": "minecraft:chicken"
         },
         "title": "Могущественный охотник",
-        "description": "Убей всех животных с помощью лука",
+        "description": "Убей все виды животных с помощью лука",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/take_aim",

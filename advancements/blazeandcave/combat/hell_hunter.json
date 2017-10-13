@@ -4,7 +4,7 @@
             "item": "minecraft:blaze_rod"
         },
         "title": "Адский охотник",
-        "description": "Убей всех мобов нижнего мира",
+        "description": "Убей все виды мобов Нижнего мира",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/night_runner",

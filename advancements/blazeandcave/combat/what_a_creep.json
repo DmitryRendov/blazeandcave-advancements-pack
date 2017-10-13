@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:gunpowder"
         },
-        "title": "Какой ужас!", //наверное ужас, может ещё как
+        "title": "Не шипи на меня!",
         "description": "Убей крипера"
     },
     "parent": "blazeandcave:combat/monster_hunter",
