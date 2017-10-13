@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dark_oak_door"
         },
-        "title": "House of Psychos",
-        "description": "Find a Woodland Mansion"
+        "title": "Дом психов",
+        "description": "Найди особняк в лесу"
     },
     "parent": "blazeandcave:adventure/treasure_map",
     "rewards": {

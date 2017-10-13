@@ -4,8 +4,8 @@
             "item": "minecraft:sandstone",
 			"data": 1
         },
-        "title": "Grave Robber",
-        "description": "Enter a pyramid in a desert"
+        "title": "Расхититель гробниц",
+        "description": "Найди пирамиду в пустыне"
     },
     "parent": "blazeandcave:adventure/this_is_mine_now",
     "rewards": {

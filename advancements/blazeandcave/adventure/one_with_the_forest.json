@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sapling"
         },
-        "title": "One with the forest",
-        "description": "Discover every forest biome",
+        "title": "Единый с лесом",
+        "description": "Найди все лесные биомы",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/kilometre_walk",	

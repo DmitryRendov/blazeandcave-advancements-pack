@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:planks"
         },
-        "title": "Do You Want to Trade?",
-        "description": "Find an NPC village"
+        "title": "Хочешь обменяться?",
+        "description": "Найди деревню"
     },
     "parent": "blazeandcave:adventure/root",
     "rewards": {

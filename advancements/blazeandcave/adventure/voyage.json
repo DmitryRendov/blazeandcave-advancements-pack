@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_boots"
         },
-        "title": "Voyage",
-        "description": "A hundred kilometres!",
+        "title": "Странствие",
+        "description": "Сто тысяч блоков!",
         "frame": "challenge",
 		"hidden": "true"
     },

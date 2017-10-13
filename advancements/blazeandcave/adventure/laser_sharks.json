@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine_shard"
         },
-        "title": "Laser Sharks!",
-        "description": "Defeat a Guardian"
+        "title": "Акулы с лазерами!",
+        "description": "Убей стража"
     },
     "parent": "blazeandcave:adventure/monumental",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:emerald_block"
         },
-        "title": "Filthy Stinkin' Rich",
-        "description": "Make 64 emerald blocks",
+        "title": "П****ц как неприлично богатый", //мат можно заменить, но таким образом выглядит забавно
+        "description": "Собери 64 изумрудых блока",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/filthy_rich",	

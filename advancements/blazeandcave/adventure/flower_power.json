@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:red_flower"
         },
-        "title": "Flower Power",
-        "description": "Collect all types of flowers",
+        "title": "Цветочная сила",
+        "description": "Собери все типы цветов",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/root",

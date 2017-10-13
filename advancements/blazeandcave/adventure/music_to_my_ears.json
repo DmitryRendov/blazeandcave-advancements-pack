@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:record_cat"
         },
-        "title": "Music To My Ears",
-        "description": "Find a music disc",
+        "title": "Музыка для ушей",
+        "description": "Найди музыкальную пластинку",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/i_hereby_dub_thee",

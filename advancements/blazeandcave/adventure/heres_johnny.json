@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_axe"
         },
-        "title": "Heeere's Johnny!",
-        "description": "Kill a Vindicator"
+        "title": "А вот и Джонни!", //я не знаю точный перевод этой фразы из фильма
+        "description": "Убей виндикатора"
     },
     "parent": "blazeandcave:adventure/house_of_psychos",
     "rewards": {

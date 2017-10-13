@@ -4,8 +4,8 @@
             "item": "minecraft:sponge",
 			"data": 1
         },
-        "title": "Dry Spell",
-        "description": "Dry a sponge in a furnace"
+        "title": "Засуха",
+        "description": "Высуши губку в печи"
     },
     "parent": "blazeandcave:adventure/the_deep_end",
     "rewards": {

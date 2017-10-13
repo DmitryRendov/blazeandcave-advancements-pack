@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:arrow"
         },
-        "title": "Spear Fishing",
-        "description": "Kill a Guardian with arrows"
+        "title": "Рыбалка с гарпунами",
+        "description": "Убей стража стрелами"
     },
     "parent": "blazeandcave:adventure/laser_sharks",
     "rewards": {

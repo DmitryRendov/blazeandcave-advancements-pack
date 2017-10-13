@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_boots"
         },
-        "title": "Ten Thousand Blocks",
-        "description": "A journey that long begins with a single step",
+        "title": "Десять тысяч блоков",
+        "description": "Такое длинное путешествие начинается с одного шага",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/kilometre_walk",

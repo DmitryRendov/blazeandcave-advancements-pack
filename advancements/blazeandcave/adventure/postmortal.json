@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:totem_of_undying"
         },
-        "title": "Postmortal",
-        "description": "Use a Totem of Undying to cheat death",
+        "title": "Бессмертный",
+        "description": "Испольуй тотем бессмертия, чтобы обмануть смерть",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/wololo",

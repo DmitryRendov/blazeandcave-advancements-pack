@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:web"
         },
-        "title": "This is Mine Now!",
-        "description": "Find an abandoned mineshaft that was not dug out by you"
+        "title": "Теперь это моё!",
+        "description": "Найди заброшенную шахту, которая была вырыта не тобой"
     },
     "parent": "blazeandcave:adventure/root",
     "rewards": {

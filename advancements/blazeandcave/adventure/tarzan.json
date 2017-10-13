@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:vine"
         },
-        "title": "Tarzan",
-        "description": "Swing (or climb) on some vines"
+        "title": "Тарзан",
+        "description": "Покачайся (или залезь) по лозам"
     },
     "parent": "blazeandcave:adventure/root",
 	"rewards": {

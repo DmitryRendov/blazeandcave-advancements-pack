@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": "Ghostbuster!",
-        "description": "Bust a Vex summoned by an Evoker"
+        "title": "Охотник за привидениями",
+        "description": "Убей Векса, заспавненого Евокером"
     },
     "parent": "blazeandcave:adventure/heres_johnny",
     "rewards": {
