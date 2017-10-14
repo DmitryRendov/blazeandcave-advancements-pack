@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:sugar"
         },
-        "title": "Улучшающие физическую форму наркотики", //тут хз
+        "title": "Допинг",
         "description": "Свари зелье скорости для улучшения результатов в атлетике"
     },
     "parent": "blazeandcave:potion/root",
