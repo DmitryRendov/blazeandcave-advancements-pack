@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_block"
         },
-        "title": "Hired Help",
-        "description": "Summon an Iron Golem to help defend a village",
+        "title": "Наёмник",
+        "description": "Призови железного голема, чтобы защитить деревню",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/what_a_deal",

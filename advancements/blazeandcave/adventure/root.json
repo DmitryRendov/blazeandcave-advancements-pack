@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:map"
         },
-        "title": "Adventure",
-        "description": "Adventure and exploration.",
+        "title": "Путешествия",
+        "description": "Путешествия и исследования.",
         "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
         "show_toast": false,
         "announce_to_chat": false

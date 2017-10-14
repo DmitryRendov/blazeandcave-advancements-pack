@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:mossy_cobblestone"
         },
-        "title": "Tomb Raider",
-        "description": "Enter a jungle temple"
+        "title": "Расхититель гробниц",
+        "description": "Найди данж в джунглях"
     },
     "parent": "blazeandcave:adventure/witchcraft",
     "rewards": {

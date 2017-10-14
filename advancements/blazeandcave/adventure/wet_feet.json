@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": "Wet Feet",
-        "description": "Discover every water biome",
+        "title": "Не промочи ноги",
+        "description": "Найди все водные биомы",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/overgrown",	

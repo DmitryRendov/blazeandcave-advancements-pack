@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:record_chirp"
         },
-        "title": "Disc Jockey",
-        "description": "Collect all 12 music discs",
+        "title": "Диджей",
+        "description": "Собери все 12 пластинок",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/music_to_my_ears",	

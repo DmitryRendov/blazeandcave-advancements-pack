@@ -4,7 +4,7 @@
             "item": "minecraft:boat"
         },
         "title": "Boaty McBoatface",
-        "description": "Craft a boat for sailing on the high seas"
+        "description": "Скрафти лодку, чтобы плавать в открытом море"
     },
     "parent": "blazeandcave:adventure/just_keep_swimming",
     "rewards": {

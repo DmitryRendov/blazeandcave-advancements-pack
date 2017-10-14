@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:emerald"
         },
-        "title": "Filthy Rich",
-        "description": "Make 64 emeralds",
+        "title": "Неприлично богатый",
+        "description": "Собери 64 изумруда",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/what_a_deal",	

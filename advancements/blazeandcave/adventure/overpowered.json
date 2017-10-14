@@ -4,8 +4,8 @@
             "item": "minecraft:golden_apple",
 			"data": 1
         },
-        "title": "Overpowered",
-        "description": "Obtain a Notch Apple",
+        "title": "Заряженный",
+        "description": "Найди яблоко Нотча",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/music_to_my_ears",

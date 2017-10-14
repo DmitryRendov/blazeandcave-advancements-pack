@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leather_boots"
         },
-        "title": "Kilometre Walk",
-        "description": "It's not that far in real life",
+        "title": "Километровяа прогулка",
+        "description": "В реальной жизни это не настолько далеко",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/root",

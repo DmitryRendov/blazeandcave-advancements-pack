@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:map"
         },
-        "title": "Mapmaker",
-        "description": "Craft or trade an empty map"
+        "title": "Картограф",
+        "description": "Скрафти или обменяй карту"
     },
     "parent": "blazeandcave:adventure/what_a_deal",
     "rewards": {

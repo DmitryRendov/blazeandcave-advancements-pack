@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:emerald"
         },
-        "title": "What a Deal!",
-        "description": "Successfully trade with a Villager"
+        "title": "По рукам!",
+        "description": "Обменяйся с жителем"
     },
     "parent": "blazeandcave:adventure/do_you_want_to_trade",
     "rewards": {

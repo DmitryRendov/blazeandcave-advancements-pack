@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:filled_map"
         },
-        "title": "Treasure Map",
-        "description": "Trade for an Explorer Map",
+        "title": "Карта сокровищ",
+        "description": "Получи карту путешественника",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/mapmaker",

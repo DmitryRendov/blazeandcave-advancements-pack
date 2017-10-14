@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": "Just Keep Swimming",
-        "description": "Go for a swim"
+        "title": "Продолжай плыть",
+        "description": "Поплавай"
     },
     "parent": "blazeandcave:adventure/root",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:deadbush"
         },
-        "title": "Warm Feet",
-        "description": "Discover every dry biome",
+        "title": "Не забудь крем от загара",
+        "description": "Найди все засушливые биомы",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/cold_feet",	

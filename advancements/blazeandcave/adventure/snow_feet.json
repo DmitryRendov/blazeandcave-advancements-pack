@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Snow feet",
-        "description": "Discover every snowy biome",
+        "title": "Ледяная поступь",
+        "description": "Посети все снежные биомы",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/warm_feet",	

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine"
         },
-        "title": "Monumental",
-        "description": "Find an Ocean Monument"
+        "title": "Монументальный",
+        "description": "Найди морской данж"
     },
     "parent": "blazeandcave:adventure/treasure_map",
     "rewards": {

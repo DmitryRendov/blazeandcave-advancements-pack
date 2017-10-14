@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:name_tag"
         },
-        "title": "I hereby dub thee...",
-        "description": "Obtain a name tag"
+        "title": "Я нижеподписавшийся...",
+        "description": "Получи бирку"
     },
     "parent": "blazeandcave:adventure/root",
     "rewards": {

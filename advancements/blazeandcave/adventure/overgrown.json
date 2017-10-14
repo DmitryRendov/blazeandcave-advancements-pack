@@ -4,8 +4,8 @@
             "item": "minecraft:sapling",
 			"data": 5
         },
-        "title": "Overgrown!",
-        "description": "Discover every overgrown biome",
+        "title": "Заросший",
+        "description": "Найди все заросшие биомы",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/snow_feet",	

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_boots"
         },
-        "title": "Adventuring Time",
-        "description": "Discover every biome",
+        "title": "Время приключений",
+        "description": "Найди все биомы",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/wet_feet",	

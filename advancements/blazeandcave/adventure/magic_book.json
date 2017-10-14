@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:enchanted_book"
         },
-        "title": "Magic Book",
-        "description": "Trade for an Enchanted Book"
+        "title": "Магическая книга",
+        "description": "Купи у жителя зачарованную книгу"
     },
     "parent": "blazeandcave:adventure/what_a_deal",
     "rewards": {
