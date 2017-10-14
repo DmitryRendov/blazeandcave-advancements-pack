@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sticky_piston"
         },
-        "title": "Sticky Parts",
-        "description": "Craft a sticky piston so you can pull things"
+        "title": "Липкие детальки",
+        "description": "Намажь поршень слизью, чтобы он мог тянуть блоки"
     },
     "parent": "blazeandcave:redstone/moving_parts",
 	"rewards": {

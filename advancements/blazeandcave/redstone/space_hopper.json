@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:hopper"
         },
-        "title": "Space Hopper",
-        "description": "Craft a hopper for item transportation"
+        "title": "Воронка",
+        "description": "Скрафти воронку для перемещения вещей"
     },
     "parent": "blazeandcave:redstone/root",
 	"rewards": {

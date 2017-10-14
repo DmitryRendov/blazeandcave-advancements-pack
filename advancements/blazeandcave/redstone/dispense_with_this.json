@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dispenser"
         },
-        "title": "Dispense With This",
-        "description": "Construct a dispenser"
+        "title": "Отбрось сомнения",
+        "description": "Создай раздатчик"
     },
     "parent": "blazeandcave:redstone/tripping_over",
     "rewards": {

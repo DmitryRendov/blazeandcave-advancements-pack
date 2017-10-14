@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dropper"
         },
-        "title": "Space Dropper",
-        "description": "Craft a dropper for item transportation"
+        "title": "Выбрасыватель материи",
+        "description": "Скрафти выбрасыватель"
     },
     "parent": "blazeandcave:redstone/space_hopper",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:detector_rail"
         },
-        "title": "Pressure Detector",
-        "description": "Use a pressure plate to craft a detector rail"
+        "title": "Детектор нажатия",
+        "description": "Используй каменную нажимную плиту, чтобы скрафтить нажимные рельсы"
     },
     "parent": "blazeandcave:redstone/under_pressure",
 	"rewards": {
