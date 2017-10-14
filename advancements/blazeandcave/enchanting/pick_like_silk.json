@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_ore"
         },
-        "title": "Pick Like Silk",
-        "description": "Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block",
+        "title": "Как шёлк",
+        "description": "Используй зачарованную на Шёлковое касание кирку, чтобы добыть блок алмазной руды",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/fortunate_son",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_pickaxe"
         },
-        "title": "Super Efficient",
-        "description": "Obtain Efficiency V",
+        "title": "Очень эффективный",
+        "description": "Получи Эффективность V",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/librarian",

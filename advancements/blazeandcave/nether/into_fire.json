@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:blaze_rod"
         },
-        "title": "Into Fire",
-        "description": "Relieve a Blaze of its rod"
+        "title": "В полымя",
+        "description": "Освободи Ифрита от его стерженя"
     },
     "parent": "blazeandcave:nether/a_terrible_fortress",
 	"rewards": {

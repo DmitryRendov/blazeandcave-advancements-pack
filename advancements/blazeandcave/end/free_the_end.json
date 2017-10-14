@@ -4,8 +4,8 @@
             "item": "minecraft:skull",
             "data": 5
         },
-        "title": "Free the End",
-        "description": "Good luck"
+        "title": "Освободи Край",
+        "description": "Удачи!"
     },
     "parent": "blazeandcave:end/root",
 	"rewards": {

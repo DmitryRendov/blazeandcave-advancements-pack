@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_pickaxe"
         },
-        "title": "Master Miner",
-        "description": "Create a perfect pickaxe",
+        "title": "Профессиональный шахтёр",
+        "description": "Сделай идеальную кирку",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/unbreakable",

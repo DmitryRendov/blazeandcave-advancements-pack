@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:beacon"
         },
-        "title": "Bring Home the Beacon",
-        "description": "Construct and place a Beacon",
+        "title": "Принеси домой маяк",
+        "description": "Скрафти и поставь маяк",
         "frame": "goal"
     },
     "parent": "blazeandcave:nether/withering_heights",

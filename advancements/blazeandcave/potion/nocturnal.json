@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_carrot"
         },
-        "title": "Nocturnal",
-        "description": "Brew and drink a night vision potion"
+        "title": "Ночной",
+        "description": "Свари и выпей зелье ночного видения"
     },
     "parent": "blazeandcave:potion/hyper_healing",
 	"rewards": {

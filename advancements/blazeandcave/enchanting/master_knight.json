@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": "Master Knight",
-        "description": "Create a perfect sword",
+        "title": "Искусный рыцарь",
+        "description": "Сделай идеальный меч",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/unbreakable",

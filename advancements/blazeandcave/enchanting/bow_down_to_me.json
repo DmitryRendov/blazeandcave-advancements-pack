@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": "Bow down to me!",
-        "description": "Obtain Power V",
+        "title": "Преклонись передо мной!",
+        "description": "Получи Cилу V",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/librarian",

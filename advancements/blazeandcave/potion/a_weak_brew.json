@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fermented_spider_eye"
         },
-        "title": "A Weak Brew",
-        "description": "Brew up a potion of Weakness"
+        "title": "Слабое зелье",
+        "description": "Свари зелье слабости"
     },
     "parent": "blazeandcave:potion/super_strength",
 	"rewards": {

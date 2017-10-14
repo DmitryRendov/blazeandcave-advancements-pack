@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fire_charge"
         },
-        "title": "Return to Sender",
-        "description": "Destroy a Ghast with its fireball",
+        "title": "Вернуть отправителю",
+        "description": "Убей гаста его же огненным шаром",
         "frame": "challenge"
     },
     "parent": "blazeandcave:nether/giant_floating_jellyfish",

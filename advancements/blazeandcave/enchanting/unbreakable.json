@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bedrock"
         },
-        "title": "Unbreakable",
-        "description": "Obtain Mending on an item",
+        "title": "Неразрушаемый",
+        "description": "Зачаруй на Починку любой предмет",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/old_cartoon_joke",

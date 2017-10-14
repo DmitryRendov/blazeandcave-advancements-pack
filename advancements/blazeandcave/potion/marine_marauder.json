@@ -4,8 +4,8 @@
             "item": "minecraft:fish",
 			"data": 3
         },
-        "title": "Marine Marauder",
-        "description": "Catch a pufferfish and use it to brew a water breathing potion",
+        "title": "Морской мародёр",
+        "description": "Поймай рыбу-фугу и свари из неё зелье подводного дыхания",
 		"frame": "goal"
     },
     "parent": "blazeandcave:potion/stayin_frosty",

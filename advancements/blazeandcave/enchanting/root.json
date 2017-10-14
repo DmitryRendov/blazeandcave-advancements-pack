@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:enchanting_table"
         },
-        "title": "Enchanting",
-        "description": "Enchant items to give them magical abilities",
+        "title": "Зачарование",
+        "description": "Зачаровывай предметы, чтобы придать им магические особенности",
 		"background": "minecraft:textures/blocks/obsidian.png",
         "show_toast": false,
         "announce_to_chat": false

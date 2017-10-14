@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:purple_shulker_box"
         },
-        "title": "Portable Storage",
-        "description": "Use shulker shells to craft a shulker box"
+        "title": "Переносное хранилище",
+        "description": "Используй панцири шалкеров, чтобы скрафтить сундук шалкера"
     },
     "parent": "blazeandcave:end/for_mother_clarence",
 	"rewards": {

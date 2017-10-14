@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bucket"
         },
-        "title": "How did We Get Here?",
-        "description": "Have every effect applied at the same time",
+        "title": "Как мы сюда попали?",
+        "description": "Получи все эффекты в одно время",
         "frame": "challenge",
         "hidden": true
     },

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dragon_egg"
         },
-        "title": "The Next Generation",
-        "description": "Hold the Dragon Egg",
+        "title": "Новое поколение",
+        "description": "Получи яйцо дракона",
         "frame": "goal"
     },
     "parent": "blazeandcave:end/free_the_end",

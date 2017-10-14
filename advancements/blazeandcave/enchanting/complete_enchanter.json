@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:experience_bottle"
         },
-        "title": "Complete Enchanter",
-        "description": "Obtain every enchantment throughout your enchanting career",
+        "title": "Искусный зачаровыватель",
+        "description": "Получи все зачарования",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/fiery",

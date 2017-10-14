@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:end_stone"
         },
-        "title": "The End",
-        "description": "Or the beginning?",
+        "title": "Край",
+        "description": "Конец… или начало?",
         "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
         "show_toast": false,
         "announce_to_chat": false

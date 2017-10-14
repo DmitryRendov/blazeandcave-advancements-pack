@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:feather"
         },
-        "title": "Sky High",
-        "description": "Fly up beyond the world height limit",
+        "title": "До небес",
+        "description": "Взлети выше границы мира",
         "frame": "goal"
     },
     "parent": "blazeandcave:end/skys_the_limit",

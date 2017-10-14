@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nether_star"
         },
-        "title": "Withering Heights",
-        "description": "Summon the Wither",
+        "title": "Чудо-юдо",
+        "description": "Призови Иссушителя",
         "frame": "goal"
     },
     "parent": "blazeandcave:nether/spooky_scary_skeleton",

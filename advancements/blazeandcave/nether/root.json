@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:red_nether_brick"
         },
-        "title": "Nether",
-        "description": "Bring summer clothes",
+        "title": "Нижний мир",
+        "description": "Захвати летнюю одежду",
 		"background": "minecraft:textures/blocks/netherrack.png",
         "show_toast": false,
         "announce_to_chat": false

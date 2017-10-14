@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spectral_arrow"
         },
-        "title": "Glows in the Dark",
-        "description": "Craft spectral arrows using glowstone dust"
+        "title": "Светится в темноте",
+        "description": "Скрафти немного спектральных стрел, используя светопыль"
     },
     "parent": "blazeandcave:nether/root",
 	"rewards": {

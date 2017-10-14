@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fishing_rod"
         },
-        "title": "Master Fisher",
-        "description": "Create a perfect fishing rod",
+        "title": "Профессиональный рыбак",
+        "description": "Сделай идеальную удочку",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/unbreakable",

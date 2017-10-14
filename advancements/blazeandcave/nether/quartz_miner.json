@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:quartz_block"
         },
-        "title": "Quartz Miner",
-        "description": "Mine enough nether quartz to craft a stack of quartz blocks",
+        "title": "Сборщик кварца",
+        "description": "Накопай достаточно кварца, чтобы скрафтить стак блоков кварца",
 		"frame": "goal"
     },
     "parent": "blazeandcave:redstone/quirky_quartz",

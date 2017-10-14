@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bone"
         },
-        "title": "The Hunt Begins",
-        "description": "Kill a wither skeleton"
+        "title": "Охота начинается",
+        "description": "Убей скелета-иссушителя"
     },
     "parent": "blazeandcave:nether/a_terrible_fortress",
     "rewards": {

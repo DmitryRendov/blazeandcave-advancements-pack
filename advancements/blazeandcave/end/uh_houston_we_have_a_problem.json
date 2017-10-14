@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fireworks"
         },
-        "title": "Uh, Houston? We have a problem",
-        "description": "Fly up to a ridiculous height",
+        "title": "Хьюстон, Хьюстон! У нас проблемы...",
+        "description": "Взлети на невероятную высоту",
         "frame": "challenge"
     },
     "parent": "blazeandcave:end/sky_high",

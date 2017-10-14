@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_nugget"
         },
-        "title": "The Tribal Snouts",
-        "description": "Kill a zombie pigman"
+        "title": "Родственные морды",
+        "description": "Убей свинозомби"
     },
     "parent": "blazeandcave:nether/root",
     "rewards": {

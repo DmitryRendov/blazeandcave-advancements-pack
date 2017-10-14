@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:light_blue_shulker_box"
         },
-        "title": "Anti-Gravity Generator",
-        "description": "Bring a shulker into the overworld and let it give you anti-gravity",
+        "title": "Антигравитационный генератор",
+        "description": "Перемести шалкера из Края в обычный мир, а потом получи невесомость",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:end/portable_storage",

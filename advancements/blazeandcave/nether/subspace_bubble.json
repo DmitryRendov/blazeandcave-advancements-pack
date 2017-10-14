@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:map"
         },
-        "title": "Subspace Bubble",
-        "description": "Use the Nether to travel 7km in the Overworld",
+        "title": "Кротовая нора",
+        "description": "Воспользуйтесь Нижним миром, чтобы переместиться на 7 км в обычном мире",
         "frame": "challenge"
     },
     "parent": "blazeandcave:nether/limbo_walker",

@@ -4,8 +4,8 @@
             "item": "minecraft:elytra",
 			"data": 431
         },
-        "title": "Some Breakthrough",
-        "description": "Exhaust your elytra",
+        "title": "Мягкой посадки!",
+        "description": "Используй Элитру практически до полной поломки",
         "frame": "challenge"
     },
     "parent": "blazeandcave:end/skys_the_limit",

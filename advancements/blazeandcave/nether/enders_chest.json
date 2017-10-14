@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ender_chest"
         },
-        "title": "Ender's Chest",
-        "description": "Craft an ender chest for some extra inventory space"
+        "title": "Сундук Края",
+        "description": "Скрафти сундук Края, чтобы заполучить немного свободного места"
     },
     "parent": "blazeandcave:nether/into_fire",
     "rewards": {

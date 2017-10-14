@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:anvil"
         },
-        "title": "Old Cartoon Joke",
-        "description": "Craft an anvil"
+        "title": "Старая шутка из мультиков",
+        "description": "Скрафти наковальню"
     },
     "parent": "blazeandcave:enchanting/root",
 	"rewards": {

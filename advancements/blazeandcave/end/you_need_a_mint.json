@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dragon_breath"
         },
-        "title": "You Need a Mint",
-        "description": "Collect dragon's breath in a glass bottle"
+        "title": "Освежи дыхание",
+        "description": "Соберите дыхание дракона в пузырёк."
     },
     "parent": "blazeandcave:end/root",
 	"rewards": {

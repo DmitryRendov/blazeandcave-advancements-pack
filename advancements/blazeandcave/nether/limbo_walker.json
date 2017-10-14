@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bedrock"
         },
-        "title": "Limbo Walker",
-        "description": "Get above the roof in the nether",
+        "title": "Блуждающий странник",
+        "description": "Залезь на крышу ада",
         "frame": "goal"
     },
     "parent": "blazeandcave:nether/root",

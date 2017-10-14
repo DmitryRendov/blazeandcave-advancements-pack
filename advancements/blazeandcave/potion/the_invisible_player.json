@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:structure_void"
         },
-        "title": "The Invisible Player",
-        "description": "Brew and drink an invisibility potion"
+        "title": "Невидимый игрок",
+        "description": "Свари и выпей зелье невидимости"
     },
     "parent": "blazeandcave:potion/nocturnal",
 	"rewards": {

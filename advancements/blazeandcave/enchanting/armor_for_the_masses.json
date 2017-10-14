@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": "Armor for the masses",
-        "description": "Obtain every protection related enchantment",
+        "title": "Броня в массы",
+        "description": "Получи все защитные зачарования",
 		"frame": "goal"
     },
     "parent": "blazeandcave:enchanting/like_a_cat",

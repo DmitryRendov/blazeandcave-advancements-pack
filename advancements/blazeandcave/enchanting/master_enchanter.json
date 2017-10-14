@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:enchanting_table"
         },
-        "title": "Master Enchanter",
-        "description": "Obtain every enchantment at their max level throughout your enchanting career",
+        "title": "Мастер зачаровывания",
+        "description": "Получи каждое зачарование максимального уровня",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/complete_enchanter",

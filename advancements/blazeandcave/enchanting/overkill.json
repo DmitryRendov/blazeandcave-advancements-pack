@@ -4,7 +4,7 @@
             "item": "minecraft:diamond_sword"
         },
         "title": "Overkill",
-        "description": "Deal eight hearts of damage in a single blow",
+        "description": "Нанеси 8 сердец урона одним ударом",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:enchanting/root",
