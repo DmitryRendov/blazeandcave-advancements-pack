@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Frosty",
-        "description": "Kill a stray"
+        "title": "Замороженный",
+        "description": "Убей Зимогора"
     },
     "parent": "blazeandcave:combat/spooky_skeleton",
     "rewards": {

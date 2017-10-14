@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tnt"
         },
-        "title": "Bombs Away!",
-        "description": "Use gunpowder and sand to craft TNT"
+        "title": "Бомбы сброшены, капитан!",
+        "description": "Скрафти ТНТ из пороха и песка... Да-да, именно так)"
     },
     "parent": "blazeandcave:combat/what_a_creep",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": "Monsters Hunted",
-        "description": "Kill one of every hostile monster",
+        "title": "Охота на монстров",
+        "description": "Убей все виды агрессивных мобов",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/dungeon_crawler",

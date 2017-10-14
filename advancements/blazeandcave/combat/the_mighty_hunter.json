@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chicken"
         },
-        "title": "The Mighty Hunter",
-        "description": "Hunt all types of animals with your bow",
+        "title": "Могущественный охотник",
+        "description": "Убей все виды животных с помощью лука",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/take_aim",

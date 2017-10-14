@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:string"
         },
-        "title": "Ew Ew Ew!",
-        "description": "Kill a spider"
+        "title": "Фу фу фу!",
+        "description": "Убей паука"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

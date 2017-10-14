@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:rotten_flesh"
         },
-        "title": "Dead Don't Die",
-        "description": "Kill a zombie"
+        "title": "Живые мертвецы в городе!",
+        "description": "Убей зомби"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

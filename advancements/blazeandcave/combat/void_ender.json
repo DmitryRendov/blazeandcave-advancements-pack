@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ender_pearl"
         },
-        "title": "Void Ender",
-        "description": "Defeat all kinds of End mobs",
+        "title": "Пустой край",
+        "description": "Убей все виды мобов из Края",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/hell_hunter",

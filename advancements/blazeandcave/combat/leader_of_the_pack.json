@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bone"
         },
-        "title": "Leader of the Pack",
-        "description": "Befriend a wolf"
+        "title": "Вожак стаи",
+        "description": "Приручи волка"
     },
     "parent": "blazeandcave:combat/spooky_skeleton",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_sword"
         },
-        "title": "Combat",
-        "description": "Battle against the monsters of this world.",
+        "title": "Сражение",
+        "description": "Сражайся против монстров этого мира",
         "background": "minecraft:textures/blocks/cobblestone_mossy.png",
         "show_toast": false,
         "announce_to_chat": false

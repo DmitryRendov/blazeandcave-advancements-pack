@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:arrow"
         },
-        "title": "Sniper duel",
-        "description": "Kill a skeleton with an arrow from more than 50 meters",
+        "title": "Снайперская дуэль",
+        "description": "Убей скелета с дистанции более, чем 50 блоков",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/take_aim",

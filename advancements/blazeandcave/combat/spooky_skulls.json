@@ -4,8 +4,8 @@
             "item": "minecraft:skull",
 			"data": 0
         },
-        "title": "Spooky Skulls",
-        "description": "Blow up a skeleton with a charged creeper to get a skeleton skull",
+        "title": "Жуткие черепа",
+        "description": "Взорви скелета с помощью заряженного крипера, чтобы получить его голову",
 		"frame": "challenge",
 		"hidden": "true"
     },

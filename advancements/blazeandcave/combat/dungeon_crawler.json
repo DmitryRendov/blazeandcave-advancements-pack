@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stonebrick"
         },
-        "title": "Dungeon Crawler",
-        "description": "Defeat all kinds of mobs from special structures",
+        "title": "Гроза подземелий",
+        "description": "Победи все виды мобов из натуральных структур",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/void_ender",

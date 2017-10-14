@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:splash_potion"
         },
-        "title": "Taste of your own medicine",
-        "description": "Kill a witch with a splash potion",
+        "title": "Попробуй свои собственные антибиотики",
+        "description": "Убей ведьму с помощью взрывного зелья",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:combat/witch",

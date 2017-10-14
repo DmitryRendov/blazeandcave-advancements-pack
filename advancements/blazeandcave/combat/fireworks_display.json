@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fireworks"
         },
-        "title": "Fireworks Display",
-        "description": "Use gunpowder and paper to craft fireworks"
+        "title": "Фейерверк",
+        "description": "Скрафти фейерверк с помощью бумаги и пороха"
     },
     "parent": "blazeandcave:combat/bombs_away",
     "rewards": {

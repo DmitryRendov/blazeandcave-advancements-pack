@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:egg"
         },
-        "title": "Egging, Dude!",
-        "description": "Vandalise something with eggs"
+        "title": "Яйцебойня, чувак!",
+        "description": "Оскверни что-нибудь с помощью яиц"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

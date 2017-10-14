@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bone"
         },
-        "title": "The Undead Cavalry",
-        "description": "Encounter and defeat a skeleton horse in a thunderstorm",
+        "title": "Бессмертная кавалерия",
+        "description": "Найди и убей лошадь-скелет во время шторма",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/take_aim",

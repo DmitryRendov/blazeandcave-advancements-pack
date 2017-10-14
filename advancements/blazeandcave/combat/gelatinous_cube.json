@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:slime_ball"
         },
-        "title": "Gelatinous Cube",
-        "description": "Kill a slime"
+        "title": "Желатиновый куб",
+        "description": "Убей слизня"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

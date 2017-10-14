@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": "Night Runner",
-        "description": "Defeat all kinds of Overworld night mobs",
+        "title": "Ночной дозор",
+        "description": "Убей все виды ночных мобов",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/monster_hunter",

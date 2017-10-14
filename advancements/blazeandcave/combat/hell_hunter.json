@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:blaze_rod"
         },
-        "title": "Hell Hunter",
-        "description": "Defeat all kinds of Nether mobs",
+        "title": "Адский охотник",
+        "description": "Убей все виды мобов Нижнего мира",
         "frame": "goal"
     },
     "parent": "blazeandcave:combat/night_runner",

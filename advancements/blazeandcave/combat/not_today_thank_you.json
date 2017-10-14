@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Not Today, Thank You",
-        "description": "Deflect an arrow with a shield"
+        "title": "Не сегодня, спасибо",
+        "description": "Отрази стрелу щитом"
     },
     "parent": "blazeandcave:combat/spooky_skeleton",
 	"rewards": {
