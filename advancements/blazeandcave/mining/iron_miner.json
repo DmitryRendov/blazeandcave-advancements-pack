@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_ore"
         },
-        "title": "Iron Miner",
-        "description": "Mine a stack of iron ore",
+        "title": "Железодобытчик",
+        "description": "Накопай стак железной руды",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/acquire_hardware",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wooden_door"
         },
-        "title": "Your Door Was Locked",
-        "description": "Craft a door to stop monsters from entering your house"
+        "title": "Твоя дверь надёжно заперта",
+        "description": "Скрафти дверь и останови монстров, которые ломятся в твой дом"
     },
     "parent": "blazeandcave:building/benchmarking",
 	"rewards": {

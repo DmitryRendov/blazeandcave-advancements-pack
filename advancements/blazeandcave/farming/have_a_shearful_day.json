@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shears"
         },
-        "title": "Have a Shearful Day",
-        "description": "Use two iron ingots to craft shears"
+        "title": "Время стричь",
+        "description": "Используй два слитка железа, чтобы скрафтить ножницы"
     },
     "parent": "blazeandcave:farming/hot_topic",
 	"rewards": {

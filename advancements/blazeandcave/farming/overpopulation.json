@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:hay_block"
         },
-        "title": "Overpopulation",
-        "description": "Breed every type of animal",
+        "title": "Перенаселение",
+        "description": "Выведи все виды животных",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:farming/repopulation",

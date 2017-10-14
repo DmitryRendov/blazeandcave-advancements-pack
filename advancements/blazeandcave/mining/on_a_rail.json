@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:minecart"
         },
-        "title": "On A Rail",
-        "description": "Craft a minecart"
+        "title": "Чух-чух, чух-чухб стучат колёса",
+        "description": "Скрафти вагонетку"
     },
     "parent": "blazeandcave:mining/acquire_hardware",
     "rewards": {

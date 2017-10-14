@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:milk_bucket"
         },
-        "title": "Milk does your body good",
-        "description": "Take a swig swig swig swig"
+        "title": "Пейте дети молоко!",
+        "description": "Глотни парного молочка"
     },
     "parent": "blazeandcave:farming/bake_bread",
 	"rewards": {

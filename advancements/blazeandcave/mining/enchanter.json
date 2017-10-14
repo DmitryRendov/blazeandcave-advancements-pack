@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:enchanting_table"
         },
-        "title": "Enchanter",
-        "description": "Craft an enchanting table"
+        "title": "Заклинатель",
+        "description": "Скрафти стол зачаровывания."
     },
     "parent": "blazeandcave:mining/diamonds",
     "rewards": {

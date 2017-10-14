@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond"
         },
-        "title": "Diamonds!",
-        "description": "Acquire diamonds"
+        "title": "Алмазы!",
+        "description": "Добудь алмазы без читов"
     },
     "parent": "blazeandcave:mining/isnt_it_iron_pick",
     "rewards": {

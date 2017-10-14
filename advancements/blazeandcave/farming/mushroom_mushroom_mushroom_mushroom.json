@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:mushroom_stew"
         },
-        "title": "Mushroom, Mushroom, Mushroom, Mushroom!",
-        "description": "Slurp some mushroom stew"
+        "title": "Грибы, грибочки, грибушки, грибубочки!",
+        "description": "Свари грибной суп"
     },
     "parent": "blazeandcave:farming/bapple",
 	"rewards": {

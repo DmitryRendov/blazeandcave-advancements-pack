@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bread"
         },
-        "title": "Bake Bread",
-        "description": "Grow wheat and use it to bake bread"
+        "title": "Хлеб насущный",
+        "description": "Приготовь хлеб, используя 3 пшеницы."
     },
     "parent": "blazeandcave:farming/a_seedy_place",
 	"rewards": {

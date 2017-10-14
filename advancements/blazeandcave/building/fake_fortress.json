@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:red_nether_brick"
         },
-        "title": "Fake fortress",
-        "description": "Craft or collect all forms of nether brick, red nether brick, and nether wart blocks"
+        "title": "Фейковая Адская крепость",
+        "description": "Скрафти или собери все виды кирпича и изделий из него из Нижнего мира"
     },
     "parent": "blazeandcave:building/fake_stronghold",
     "rewards": {

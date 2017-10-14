@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cobblestone"
         },
-        "title": "Mining",
-        "description": "Dig underground, gather resources",
+        "title": "Шахтёр",
+        "description": "Заройся поглубже в поисках ресурсов",
 		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
         "show_toast": false,
         "announce_to_chat": false

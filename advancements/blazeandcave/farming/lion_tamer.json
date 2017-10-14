@@ -4,8 +4,8 @@
             "item": "minecraft:fish",
 			"data": 1
         },
-        "title": "Lion Tamer",
-        "description": "Tame an Ocelot"
+        "title": "Укротитель львов",
+        "description": "Приручи Оцелота"
     },
     "parent": "blazeandcave:farming/delicious_fish",
 	"rewards": {

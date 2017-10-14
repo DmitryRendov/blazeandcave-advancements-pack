@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_rabbit"
         },
-        "title": "Rabbit Season",
-        "description": "Cook and eat rabbit meat"
+        "title": "Сезон кроликов",
+        "description": "Приготовь и съешь крольчатину."
     },
     "parent": "blazeandcave:farming/hot_topic",
 	"rewards": {

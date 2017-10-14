@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:redstone_lamp"
         },
-        "title": "Electric!",
-        "description": "Light up the area with some redstone lamps"
+        "title": "Да будет свет!",
+        "description": "Освети территорию с помощью ламп на редстоуне"
     },
     "parent": "blazeandcave:building/glowing",
 	"rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:banner",
 			"data": 12
         },
-        "title": "Raise the flag!",
-        "description": "Craft and place a banner"
+        "title": "Поднять Флаг!",
+        "description": "Скрафти и повесь баннер"
     },
     "parent": "blazeandcave:building/display_your_items_for_all_to_see",
 	"rewards": {

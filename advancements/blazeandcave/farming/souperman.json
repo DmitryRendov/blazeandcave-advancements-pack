@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:beetroot_soup"
         },
-        "title": "Souperman",
-        "description": "Slurp some beetroot soup"
+        "title": "Суп-ер-мэн",
+        "description": "Свари свекольный супчик"
     },
     "parent": "blazeandcave:farming/a_seedy_place",
 	"rewards": {

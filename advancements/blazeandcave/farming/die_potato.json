@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:potato"
         },
-        "title": "Die, Potato!",
-        "description": "Eat a potato"
+        "title": "Умри, Картоха!",
+        "description": "Съешь картошку"
     },
     "parent": "blazeandcave:farming/a_seedy_place",
 	"rewards": {

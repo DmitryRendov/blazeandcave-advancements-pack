@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_pickaxe"
         },
-        "title": "Bling Bling Gone",
-        "description": "Completely use up a golden pickaxe, and then seriously reevaluate your life choices",
+        "title": "Дорого, но не эффективно",
+        "description": "Используй золотую кирку, пока она не сломается, а потом попробуй переосмыслить свою жизненный путь",
         "frame": "goal"
     },
     "parent": "blazeandcave:mining/gold_rush",

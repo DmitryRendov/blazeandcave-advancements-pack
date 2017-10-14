@@ -4,8 +4,8 @@
             "item": "minecraft:stained_hardened_clay",
 			"data": 2
         },
-        "title": "The Terracotta Army",
-        "description": "Craft all 16 colors of terracotta (stained clay)",
+        "title": "Терракотовая Армия",
+        "description": "Скрафти все 16 цветов глиняных блоков (сырая глина)",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/clay_dough",

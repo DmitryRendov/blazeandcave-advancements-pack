@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_horse_armor"
         },
-        "title": "A Horse in Shining Armor",
-        "description": "Find diamond horse armor"
+        "title": "Лошадь в сияющих доспехах",
+        "description": "Отыщи алмазную конскую сбрую(броню)"
     },
     "parent": "blazeandcave:farming/cowboy",
     "rewards": {

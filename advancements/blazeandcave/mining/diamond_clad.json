@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_helmet"
         },
-        "title": "Diamond Clad",
-        "description": "Craft a full suit of diamond armor",
+        "title": "Весь в алмазах",
+        "description": "Скрафти полный сет алмазной брони",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/cover_me_with_diamonds",

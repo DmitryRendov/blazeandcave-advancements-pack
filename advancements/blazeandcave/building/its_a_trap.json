@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:trapdoor"
         },
-        "title": "It's a Trap!",
-        "description": "Craft and place down a trapdoor"
+        "title": "Это Люк!",
+        "description": "Скрафти и поставь люк"
     },
     "parent": "blazeandcave:building/ladder_climbers_inc",
 	"rewards": {

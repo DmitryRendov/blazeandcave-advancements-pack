@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_porkchop"
         },
-        "title": "Pork Chop",
-        "description": "Cook and eat a pork chop"
+        "title": "Свинина",
+        "description": "Пожарь и съешь свинину."
     },
     "parent": "blazeandcave:farming/hot_topic",
 	"rewards": {

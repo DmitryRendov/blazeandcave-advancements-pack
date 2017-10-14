@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_chicken"
         },
-        "title": "So Good",
-        "description": "Cook and eat some chicken"
+        "title": "Очень хорошо!",
+        "description": "Приготовь и съешь немного курятины"
     },
     "parent": "blazeandcave:farming/pork_chop",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_shovel"
         },
-        "title": "We've broken our last shovel",
-        "description": "Break all five types of shovels",
+        "title": "Шкипер, сломалась наша последняя лопата",
+        "description": "Сломай все виды лопат, используя их",
         "frame": "challenge"
     },
     "parent": "blazeandcave:mining/bling_bling_gone",

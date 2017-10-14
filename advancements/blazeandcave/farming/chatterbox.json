@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:beetroot_seeds"
         },
-        "title": "Chatterbox",
-        "description": "Tame a Parrot using seeds. WARNING: Do not use a cookie!"
+        "title": "Птица-говорун",
+        "description": "Приручи попугая семечками. Гринпис предупреждает: не корми его печеньками!"
     },
     "parent": "blazeandcave:farming/a_seedy_place",
 	"rewards": {

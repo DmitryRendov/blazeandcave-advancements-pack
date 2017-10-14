@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:porkchop"
         },
-        "title": "Meat Lovers",
-        "description": "Eat every type of meat, even if uncooked or rotten",
+        "title": "Истинный ценитель мяса",
+        "description": "Съешь все виды мяса, сырого и жареного",
         "frame": "goal"
     },
     "parent": "blazeandcave:farming/vegetarian",

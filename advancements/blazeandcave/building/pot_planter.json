@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:flower_pot"
         },
-        "title": "Pot Planter",
-        "description": "Craft and place a flower pot"
+        "title": "Горшочник",
+        "description": "Скрафти и поставь цветок в горшке"
     },
     "parent": "blazeandcave:building/bricks",
 	"rewards": {

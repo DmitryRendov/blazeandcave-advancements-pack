@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:grass_path"
         },
-        "title": "Pathways",
-        "description": "Use a shovel to create grass paths"
+        "title": "Тропинка",
+        "description": "Используй лопату, чтобы проложить дорожку"
     },
     "parent": "blazeandcave:building/benchmarking",
 	"rewards": {

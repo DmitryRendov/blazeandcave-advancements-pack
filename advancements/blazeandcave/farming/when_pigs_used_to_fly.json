@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:carrot_on_a_stick"
         },
-        "title": "When Pigs Used to Fly",
-        "description": "Craft a carrot on a stick so you can ride a pig off a cliff"
+        "title": "Жаль, что свиньи не летают…",
+        "description": "Оседлай свинью с помощью седла, а затем, верхом на ней, упади с высоты не менее, чем 5 блоков."
     },
     "parent": "blazeandcave:farming/pork_chop",
 	"rewards": {

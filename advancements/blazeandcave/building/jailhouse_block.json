@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_bars"
         },
-        "title": "Jailhouse Block",
-        "description": "Craft or find iron bars"
+        "title": "Тюремный блок",
+        "description": "Скрафти или отыщи железную решётку"
     },
     "parent": "blazeandcave:building/fake_stronghold",
 	"rewards": {

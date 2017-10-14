@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_helmet"
         },
-        "title": "Iron Man",
-        "description": "Craft a full suit of iron armor",
+        "title": "Железный человек",
+        "description": "Скрафти полный сет железной брони",
 		"frame": "goal"
     },
     "parent": "blazeandcave:mining/suit_up",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sign"
         },
-        "title": "It's a Sign!",
-        "description": "Craft and place a sign"
+        "title": "Это Знак!",
+        "description": "Скрафти и поставь табличку"
     },
     "parent": "blazeandcave:building/stationary_storage",
 	"rewards": {

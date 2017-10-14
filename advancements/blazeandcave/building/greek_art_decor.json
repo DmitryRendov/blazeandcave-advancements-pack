@@ -4,8 +4,8 @@
             "item": "minecraft:quartz_block",
 			"data": 1
         },
-        "title": "Greek Art Decor",
-        "description": "Craft quartz blocks, stairs, slabs, pillars and chiseled"
+        "title": "Винтаж и глянец",
+        "description": "Скрафти блок кварца и все возможные изделия из него"
     },
     "parent": "blazeandcave:building/fake_fortress",
     "rewards": {

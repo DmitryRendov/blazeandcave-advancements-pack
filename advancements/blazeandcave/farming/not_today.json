@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:poisonous_potato"
         },
-        "title": "Not Today!",
-        "description": "Eat a poisonous potato"
+        "title": "Не сегодня!",
+        "description": "Съешь ядовитую картошку"
     },
     "parent": "blazeandcave:farming/die_potato",
 	"rewards": {

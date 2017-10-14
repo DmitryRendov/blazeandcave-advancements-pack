@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_pickaxe"
         },
-        "title": "Getting an Upgrade",
-        "description": "Construct a better pickaxe"
+        "title": "Обновка!",
+        "description": "Скрафти каменную кирку."
     },
     "parent": "blazeandcave:mining/root",
     "rewards": {

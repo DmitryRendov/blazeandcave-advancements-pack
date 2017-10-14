@@ -4,8 +4,8 @@
             "item": "minecraft:fish",
 			"data": 2
         },
-        "title": "Catching Nemo",
-        "description": "Catch a clownfish",
+        "title": "В поисках Немо",
+        "description": "Вылови рыбу-клоун",
 		"frame": "goal"
     },
     "parent": "blazeandcave:farming/delicious_fish",

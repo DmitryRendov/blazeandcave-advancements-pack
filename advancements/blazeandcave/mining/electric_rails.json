@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_rail"
         },
-        "title": "Electric Rails",
-        "description": "Making furnace minecarts completely useless"
+        "title": "Электрические рельсы",
+        "description": "Согласись, что создание самоходных вагонеток было абсолютно бесполезным"
     },
     "parent": "blazeandcave:mining/completely_useless_fuel_engine",
     "rewards": {

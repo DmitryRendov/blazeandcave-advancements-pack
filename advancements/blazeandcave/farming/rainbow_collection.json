@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wool"
         },
-        "title": "Rainbow Collection",
-        "description": "Gather all 16 colors of wool",
+        "title": "Коллекция радуги",
+        "description": "Собери все 16 цветов шерсти.",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:farming/have_a_shearful_day",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_pickaxe"
         },
-        "title": "Isn't It Iron Pick",
-        "description": "Upgrade your pickaxe"
+        "title": "Разве это не железо",
+        "description": "Обнови свою кирку до железной"
     },
     "parent": "blazeandcave:mining/acquire_hardware",
     "rewards": {

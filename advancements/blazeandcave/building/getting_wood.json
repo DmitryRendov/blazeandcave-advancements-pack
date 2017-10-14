@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:log"
         },
-        "title": "Getting Wood",
-        "description": "Attack a tree until a block of wood pops out"
+        "title": "Нарубить дров!",
+        "description": "Добудь блок древесины."
     },
     "parent": "blazeandcave:building/root",
 	"rewards": {

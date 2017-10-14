@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_ingot"
         },
-        "title": "Fossil Fuel",
-        "description": "Smelt a gold ingot"
+        "title": "Не всё то золото что блестит",
+        "description": "Переплавь золото в слитки"
     },
     "parent": "blazeandcave:mining/isnt_it_iron_pick",
     "rewards": {

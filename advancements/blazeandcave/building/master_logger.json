@@ -4,8 +4,8 @@
             "item": "minecraft:log",
 			"data": 2
         },
-        "title": "Master Logger",
-        "description": "Cut down a full stack of logs of all types",
+        "title": "Дровосек-Эксперт",
+        "description": "Наруби по стаку всех видов древесины",
 		"frame": "challenge"
     },
     "parent": "blazeandcave:building/yay_i_got_my_wood",

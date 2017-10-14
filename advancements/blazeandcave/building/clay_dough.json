@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:clay_ball"
         },
-        "title": "Clay-Dough!",
-        "description": "Dig up some clay from a lake"
+        "title": "Глина-сырец!",
+        "description": "Выкопай немного глины из озера"
     },
     "parent": "blazeandcave:building/benchmarking",
 	"rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fish"
         },
-        "title": "Sushi",
-        "description": "Eat some raw fish"
+        "title": "Сууушиии!!!",
+        "description": "Съешь немого сырой рыбы"
     },
     "parent": "blazeandcave:farming/delicious_fish",
 	"rewards": {

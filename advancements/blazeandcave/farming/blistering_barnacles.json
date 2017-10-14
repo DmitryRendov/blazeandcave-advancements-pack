@@ -4,8 +4,8 @@
             "item": "minecraft:carpet",
 			"data": 3
         },
-        "title": "Blistering Barnacles!",
-        "description": "Get spat at by a llama"
+        "title": "Суровая Лама",
+        "description": "Огреби от Ламы!"
     },
     "parent": "blazeandcave:farming/root",
     "rewards": {

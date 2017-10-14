@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wheat"
         },
-        "title": "Repopulation",
-        "description": "Breed two cows with wheat"
+        "title": "Репопуляция",
+        "description": "Размножьте двух коров с помощью пшеницы."
     },
     "parent": "blazeandcave:farming/cow_tipper",
 	"rewards": {

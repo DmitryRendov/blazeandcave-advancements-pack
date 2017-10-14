@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:painting"
         },
-        "title": "A Masterpiece!",
-        "description": "Put up a painting"
+        "title": "Шедевр!",
+        "description": "Повесь картину"
     },
     "parent": "blazeandcave:building/its_a_sign",
 	"rewards": {

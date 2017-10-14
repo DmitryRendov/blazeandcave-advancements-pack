@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leaves"
         },
-        "title": "Trimming the Treetops",
-        "description": "Use shears to obtain leaf blocks"
+        "title": "Стрижка деревьев",
+        "description": "Используй ножницы, чтобы добыть листву с деревьев"
     },
     "parent": "blazeandcave:farming/have_a_shearful_day",
 	"rewards": {

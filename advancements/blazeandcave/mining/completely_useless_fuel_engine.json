@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:furnace_minecart"
         },
-        "title": "Fuel Engine",
-        "description": "Craft a powered minecart"
+        "title": "Полный бак",
+        "description": "Скрафти заряженную самоходную вагонетку"
     },
     "parent": "blazeandcave:mining/on_a_rail",
     "rewards": {

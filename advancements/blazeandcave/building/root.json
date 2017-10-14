@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:planks"
         },
-        "title": "Building",
-        "description": "Your only limit is your imagination... and resources",
+        "title": "Строитель - звучит гордо!",
+        "description": "Ограничен только фантазией... и ресурсами ;)",
         "background": "minecraft:textures/blocks/planks_oak.png",
         "show_toast": false,
         "announce_to_chat": false

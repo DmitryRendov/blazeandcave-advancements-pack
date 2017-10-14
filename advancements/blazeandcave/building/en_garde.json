@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fence"
         },
-        "title": "En Garde",
-        "description": "Erect some fencing"
+        "title": "К барьеру!",
+        "description": "Заборостроитель."
     },
     "parent": "blazeandcave:building/your_door_was_locked",
 	"rewards": {

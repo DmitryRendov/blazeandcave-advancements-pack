@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:obsidian"
         },
-        "title": "Ice Bucket Challenge",
-        "description": "Form and mine a block of Obsidian"
+        "title": "Испытание ведром ледяной воды",
+        "description": "Добудь блок обсидиана"
     },
     "parent": "blazeandcave:mining/hot_stuff",
     "rewards": {

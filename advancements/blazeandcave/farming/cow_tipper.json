@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leather"
         },
-        "title": "Cow Tipper",
-        "description": "Harvest some leather"
+        "title": "Гроза коров",
+        "description": "Добудь немого кожи"
     },
     "parent": "blazeandcave:farming/root",
 	"rewards": {

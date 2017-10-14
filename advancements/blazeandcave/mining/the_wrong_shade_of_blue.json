@@ -4,8 +4,8 @@
             "item": "minecraft:dye",
 			"data": 4
         },
-        "title": "The Wrong Shade of Blue",
-        "description": "It's still useful for enchanting"
+        "title": "Неправильный оттенок синего",
+        "description": "Это по-прежнему полезно для зачарования"
     },
     "parent": "blazeandcave:mining/isnt_it_iron_pick",
     "rewards": {
