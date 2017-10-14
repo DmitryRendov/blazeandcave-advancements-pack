@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:name_tag"
         },
-        "title": "I hereby dub thee...", //хз
+        "title": "Я нижеподписавшийся...",
         "description": "Получи бирку"
     },
     "parent": "blazeandcave:adventure/root",

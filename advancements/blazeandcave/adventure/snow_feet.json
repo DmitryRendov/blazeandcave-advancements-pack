@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Snow feet", //не знаю, как лучше
+        "title": "Ледяная поступь",
         "description": "Посети все снежные биомы",
         "frame": "goal"
     },

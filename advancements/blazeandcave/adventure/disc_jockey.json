@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:record_chirp"
         },
-        "title": "Disc Jockey", //хз
+        "title": "Диджей",
         "description": "Собери все 12 пластинок",
         "frame": "challenge"
     },

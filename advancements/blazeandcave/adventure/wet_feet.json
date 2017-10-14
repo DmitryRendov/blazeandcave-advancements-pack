@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": "Мокрые ноги",
+        "title": "Не промочи ноги",
         "description": "Найди все водные биомы",
         "frame": "goal"
     },

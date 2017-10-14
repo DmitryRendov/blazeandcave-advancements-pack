@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:emerald"
         },
-        "title": "Какая сделка!",
+        "title": "По рукам!",
         "description": "Обменяйся с жителем"
     },
     "parent": "blazeandcave:adventure/do_you_want_to_trade",

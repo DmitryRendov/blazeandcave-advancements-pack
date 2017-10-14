@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:map"
         },
-        "title": "Путешествие",
+        "title": "Путешествия",
         "description": "Путешествия и исследования.",
         "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
         "show_toast": false,

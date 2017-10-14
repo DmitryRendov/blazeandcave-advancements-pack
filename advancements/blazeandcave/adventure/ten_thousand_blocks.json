@@ -4,7 +4,7 @@
             "item": "minecraft:iron_boots"
         },
         "title": "Десять тысяч блоков",
-        "description": "Такое длинное путешествие начинается с одного шага",
+        "description": "Путешествие, которое начинается с одного шага",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/kilometre_walk",

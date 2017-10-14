@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:boat"
         },
-        "title": "Boaty McBoatface", //сложнааа
+        "title": "Boaty McBoatface",
         "description": "Скрафти лодку, чтобы плавать в открытом море"
     },
     "parent": "blazeandcave:adventure/just_keep_swimming",

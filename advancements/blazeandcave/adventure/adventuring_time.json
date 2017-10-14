@@ -4,7 +4,7 @@
             "item": "minecraft:diamond_boots"
         },
         "title": "Время приключений",
-        "description": "Найдите все биомы",
+        "description": "Найди все биомы",
         "frame": "challenge"
     },
     "parent": "blazeandcave:adventure/wet_feet",	

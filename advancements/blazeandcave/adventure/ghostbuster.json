@@ -4,7 +4,7 @@
             "item": "minecraft:iron_sword"
         },
         "title": "Охотник за привидениями",
-        "description": "Убей Векса, заспавненого Евокером"
+        "description": "Убей Досаждателя, призванного Вызывателем"
     },
     "parent": "blazeandcave:adventure/heres_johnny",
     "rewards": {
