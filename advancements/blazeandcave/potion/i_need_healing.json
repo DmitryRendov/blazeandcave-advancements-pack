@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:speckled_melon"
         },
-        "title": "Нужен хил!", //решил сделать в виде отсылки на типичные в играх просьбы лечения
+        "title": "Нужен хил!",
         "description": "Свари зелье лечения"
     },
     "parent": "blazeandcave:potion/root",

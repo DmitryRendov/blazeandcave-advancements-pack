@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:rabbit_foot"
         },
-        "title": "Скачущая ярость", //не знаю, как лучше назвать
+        "title": "Скачущая ярость",
         "description": "Получи эффект высокого прыжка с помощью зелья или маяка"
     },
     "parent": "blazeandcave:potion/marine_marauder",
