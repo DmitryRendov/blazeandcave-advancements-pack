@@ -1,2 +1,2 @@
 give @s minecraft:glass 32
-tellraw @s {"color":"green","text":" +32 Glass"}
+tellraw @s {"color":"green","text":" +32 Стекла"}

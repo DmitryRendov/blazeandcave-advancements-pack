@@ -1,1 +1,1 @@
-tellraw @s {"color":"blue","text":" +250 experience"}
+tellraw @s {"color":"blue","text":" +250 опыта"}

@@ -1,2 +1,2 @@
 give @s minecraft:bone 4
-tellraw @s {"color":"green","text":" +4 Bones"}
+tellraw @s {"color":"green","text":" +4 Кости"}

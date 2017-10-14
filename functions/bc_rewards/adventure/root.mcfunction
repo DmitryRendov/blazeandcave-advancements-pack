@@ -1,1 +1,1 @@
-tellraw @s {"color":"gray","italic":"true","text":"You have unlocked the root of the Adventure tab"}
+tellraw @s {"color":"gray","italic":"true","text":"Ты открыл ветку Приключений"}
