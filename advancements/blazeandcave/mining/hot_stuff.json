@@ -4,7 +4,7 @@
             "item": "minecraft:lava_bucket"
         },
         "title": "Горячая штучка (часть II)",
-        "description": "Заряди печку ведром, наполненным лавой"
+        "description": "Набери лаву в ведро"
     },
     "parent": "blazeandcave:mining/acquire_hardware",
     "rewards": {

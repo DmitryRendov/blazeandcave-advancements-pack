@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:glass_bottle"
         },
-        "title": "В разы более лёгкое достижение",
+        "title": "Легко!",
         "description": "Ты должен получить все существующие в игре эффекты (не одновременно)",
 		"frame": "challenge"
     },

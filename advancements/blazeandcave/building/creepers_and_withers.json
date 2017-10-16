@@ -4,8 +4,8 @@
             "item": "minecraft:sandstone",
 			"data": 1
         },
-        "title": "Creepers and Withers",
-        "description": "Engrave sandstone with creeper and wither patterns"
+        "title": "Монограммы и вензели",
+        "description": "Скрафти гладкий или резной песчанник"
     },
     "parent": "blazeandcave:building/fake_stronghold",
     "rewards": {

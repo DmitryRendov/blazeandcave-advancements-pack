@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:chorus_fruit"
         },
-        "title": "Получение коруса",
+        "title": "Берегите голову",
         "description": "Ломай растение коруса, пока оно не развалится"
     },
     "parent": "blazeandcave:end/remote_getaway",

@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:gold_nugget"
         },
-        "title": "Родственные морды",
+        "title": "Эпичный промах",
         "description": "Убей свинозомби"
     },
     "parent": "blazeandcave:nether/root",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bucket"
         },
-        "title": "Как мы сюда попали?",
-        "description": "Получи все эффекты в одно время",
+        "title": "Невозможное возможно!",
+        "description": "Испытай эффекты всех возможных зелий одновременно (часть II, 20 эффектов)",
         "frame": "challenge",
         "hidden": true
     },

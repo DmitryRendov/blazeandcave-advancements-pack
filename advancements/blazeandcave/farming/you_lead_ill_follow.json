@@ -4,7 +4,7 @@
             "item": "minecraft:lead"
         },
         "title": "Ты ведешь, я следую",
-        "description": "Скрафти поводок и организуй караван из лам"
+        "description": "Скрафти поводок"
     },
     "parent": "blazeandcave:farming/blistering_barnacles",
 	"rewards": {

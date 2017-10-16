@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:poisonous_potato"
         },
-        "title": "Не сегодня!",
+        "title": "На случай голода",
         "description": "Съешь ядовитую картошку"
     },
     "parent": "blazeandcave:farming/die_potato",

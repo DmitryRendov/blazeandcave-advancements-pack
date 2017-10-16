@@ -4,8 +4,8 @@
             "item": "minecraft:sapling",
 			"data": 5
         },
-        "title": "Заросший",
-        "description": "Найди все заросшие биомы",
+        "title": "Дебри",
+        "description": "Найди все заросшие растительностью биомы",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/snow_feet",	

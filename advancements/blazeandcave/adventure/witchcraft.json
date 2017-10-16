@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cauldron"
         },
-        "title": "Witchcraft",
-        "description": "Find a witch hut in a swamp"
+        "title": "Колдунья",
+        "description": "Найди домик ведьмы на болоте"
     },
     "parent": "blazeandcave:adventure/grave_robber",
     "rewards": {

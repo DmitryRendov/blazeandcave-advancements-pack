@@ -4,7 +4,7 @@
             "item": "minecraft:cobblestone_wall"
         },
         "title": "Стены",
-        "description": "Скрафти и поставь люк"
+        "description": "Скрафти и поставь каменный забор"
     },
     "parent": "blazeandcave:building/en_garde",
 	"rewards": {

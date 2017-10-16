@@ -4,7 +4,7 @@
             "item": "minecraft:compass"
         },
         "title": "Дорога домой",
-        "description": "Скрафти компас на случай если ты заблудился или забыл где точка спавна"
+        "description": "Скрафти компас на случай, если ты заблудился или забыл где точка спавна"
     },
     "parent": "blazeandcave:mining/seeing_red",
     "rewards": {

@@ -4,7 +4,7 @@
             "item": "minecraft:arrow"
         },
         "title": "Рыбалка с гарпунами",
-        "description": "Убей стража стрелами"
+        "description": "Убей Стража с помощью стрел"
     },
     "parent": "blazeandcave:adventure/laser_sharks",
     "rewards": {

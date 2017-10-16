@@ -4,7 +4,7 @@
             "item": "minecraft:prismarine_shard"
         },
         "title": "Акулы с лазерами!",
-        "description": "Убей стража"
+        "description": "Убей Стража"
     },
     "parent": "blazeandcave:adventure/monumental",
     "rewards": {

@@ -4,7 +4,7 @@
             "item": "minecraft:sugar"
         },
         "title": "Ведьма!",
-        "description": "Убей ведьму"
+        "description": "Убить ведьму!"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

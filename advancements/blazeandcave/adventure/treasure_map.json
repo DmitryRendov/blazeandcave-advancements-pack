@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:filled_map"
         },
-        "title": "Карта сокровищ",
-        "description": "Получи карту путешественника",
+        "title": "В поисках сокровищ",
+        "description": "Заполучи карту искателя сокровищ",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/mapmaker",

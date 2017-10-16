@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:melon"
         },
-        "title": "Ах эта тыква! ...тыква! ...тыква!",
-        "description": "Съешь тыкву"
+        "title": "Ах этот арбуз! ...арбуз! ...арбуз!",
+        "description": "Съешь арбуз"
     },
     "parent": "blazeandcave:farming/a_seedy_place",
 	"rewards": {

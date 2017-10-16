@@ -4,7 +4,7 @@
             "item": "minecraft:golden_rail"
         },
         "title": "Электрические рельсы",
-        "description": "Согласись, что создание самоходных вагонеток было абсолютно бесполезным"
+        "description": "Согласись, что создание самоходных вагонеток было абсолютно бесполезным делом"
     },
     "parent": "blazeandcave:mining/completely_useless_fuel_engine",
     "rewards": {

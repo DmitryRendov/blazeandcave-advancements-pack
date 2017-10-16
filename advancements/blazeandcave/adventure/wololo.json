@@ -4,7 +4,7 @@
             "item": "minecraft:totem_of_undying"
         },
         "title": "Wololo!",
-        "description": "Defeat an Evoker",
+        "description": "Победи Вызывателя",
 		"frame": "goal"
     },
     "parent": "blazeandcave:adventure/ghostbuster",
