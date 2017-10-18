@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:arrow"
         },
-        "title": "Bow Spammer",
-        "description": "Take out a mob by bow-spamming"
+        "title": "Пулемётная очередь",
+        "description": "Расстреляй любого моба серией выстрелов из неполностью натянутого лука"
     },
     "parent": "blazeandcave:combat/point_blank",
     "rewards": {

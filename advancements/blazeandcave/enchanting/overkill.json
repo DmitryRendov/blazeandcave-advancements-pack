@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": "Overkill",
+        "title": "Восьмерых одним ударом",
         "description": "Нанеси 8 сердец урона одним ударом",
 		"frame": "challenge"
     },

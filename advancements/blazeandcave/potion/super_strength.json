@@ -4,7 +4,7 @@
             "item": "minecraft:blaze_powder"
         },
         "title": "Супер сила",
-        "description": "Свари зелье силы, чтобы улучшить результаты в поднятии тяжестей"
+        "description": "Свари зелье силы, чтобы улучшить результаты в тяжёлой атлетике"
     },
     "parent": "blazeandcave:potion/performance_enhancing_drugs",
 	"rewards": {

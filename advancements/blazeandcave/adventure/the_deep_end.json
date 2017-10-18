@@ -4,7 +4,7 @@
             "item": "minecraft:prismarine_crystals"
         },
         "title": "Глубина",
-        "description": "Убей древнего стража",
+        "description": "Убей Древнего Стража",
         "frame": "goal"
     },
     "parent": "blazeandcave:adventure/laser_sharks",

@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:structure_void"
         },
-        "title": "Невидимый игрок",
+        "title": "Человек-невидимка",
         "description": "Свари и выпей зелье невидимости"
     },
     "parent": "blazeandcave:potion/nocturnal",

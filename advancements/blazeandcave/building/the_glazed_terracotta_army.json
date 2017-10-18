@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magenta_glazed_terracotta"
         },
-        "title": "Армия Глазированной Керамики",
-        "description": "Скрафти все 16 цветов блоков обожжённой глины",
+        "title": "Армия Глазурованной Керамики",
+        "description": "Скрафти все 16 цветов блоков глазурованной керамики",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/the_terracotta_army",

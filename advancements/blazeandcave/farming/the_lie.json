@@ -14,7 +14,7 @@
         "cake": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
-                "item": [
+                "items": [
                     {
                         "item": "minecraft:cake"
                     }

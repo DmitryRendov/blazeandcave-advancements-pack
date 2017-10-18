@@ -5,7 +5,7 @@
 			"data": 2
         },
         "title": "Терракотовая Армия",
-        "description": "Скрафти все 16 цветов глиняных блоков (сырая глина)",
+        "description": "Скрафти все 16 цветов терракотовых блоков (обожжённая глина)",
 		"frame": "goal"
     },
     "parent": "blazeandcave:building/clay_dough",

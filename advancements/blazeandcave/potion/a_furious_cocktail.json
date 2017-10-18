@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:milk_bucket"
         },
-        "title": "Неистовая смесь",
-        "description": "Ты должен получить все эффекты зелий в одно время",
+        "title": "Энергетический коктейль",
+        "description": "Испытай эффекты всех возможных зелий одновременно (часть I, 11 эффектов)",
         "frame": "challenge"
     },
     "parent": "blazeandcave:potion/hopping_mad",

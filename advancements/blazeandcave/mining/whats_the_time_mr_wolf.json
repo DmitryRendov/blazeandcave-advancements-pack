@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:clock"
         },
-        "title": "Не подскажете как пройти в библиотеку?",
-        "description": "Какая библиотека в час ночи!? (Скрафти или отыщи часы!)"
+        "title": "Который час?",
+        "description": "Скрафти или отыщи часы!"
     },
     "parent": "blazeandcave:mining/the_way_to_spawn",
     "rewards": {

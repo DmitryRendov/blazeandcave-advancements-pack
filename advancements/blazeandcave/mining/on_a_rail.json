@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:minecart"
         },
-        "title": "Чух-чух, чух-чухб стучат колёса",
+        "title": "Чух-чух, чух-чух, стучат колёса",
         "description": "Скрафти вагонетку"
     },
     "parent": "blazeandcave:mining/acquire_hardware",

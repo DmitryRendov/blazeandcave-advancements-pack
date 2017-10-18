@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "The Shielding",
-        "description": "A shield does no better than a locked door"
+        "title": "Щитолом",
+        "description": "Иногда щит бесполезен"
     },
     "parent": "blazeandcave:adventure/heres_johnny",
 	"rewards": {

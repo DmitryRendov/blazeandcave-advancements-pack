@@ -4,7 +4,7 @@
             "item": "minecraft:gunpowder"
         },
         "title": "Огромная летающая медуза",
-        "description": "Подстрели гаста"
+        "description": "Подстрели Гаста"
     },
     "parent": "blazeandcave:nether/root",
     "rewards": {

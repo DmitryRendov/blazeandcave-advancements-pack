@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": "Охота на монстров",
-        "description": "Убей все виды агрессивных мобов",
+        "title": "Зверобой",
+        "description": "Убей по одному монстру каждого вида",
         "frame": "challenge"
     },
     "parent": "blazeandcave:combat/dungeon_crawler",

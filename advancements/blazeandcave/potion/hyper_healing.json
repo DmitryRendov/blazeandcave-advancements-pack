@@ -4,7 +4,7 @@
             "item": "minecraft:ghast_tear"
         },
         "title": "Гиперлечение",
-        "description": "Свари и выпей зелье регенерации здоровья"
+        "description": "Свари и выпей зелье Регенерации здоровья"
     },
     "parent": "blazeandcave:potion/i_need_healing",
 	"rewards": {
