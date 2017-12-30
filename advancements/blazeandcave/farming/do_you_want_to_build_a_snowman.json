@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:snow"
         },
-        "title": "Ты уверен, что хочешь построить снеговика!?",
+        "title": "Ты уверен, что это снеговик!?",
         "description": "Используй тыкву и блоки снега, чтобы построить снежного голема"
     },
     "parent": "blazeandcave:farming/naturally_carved",

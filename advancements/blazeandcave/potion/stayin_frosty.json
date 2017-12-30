@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:magma_cream"
         },
-        "title": "Оставайся холодным",
+        "title": "Хладнокровный",
         "description": "Выпей зелье огнестойкости, чтобы поплавать в лаве"
     },
     "parent": "blazeandcave:potion/root",

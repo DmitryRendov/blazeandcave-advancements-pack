@@ -4,7 +4,7 @@
             "item": "minecraft:egg"
         },
         "title": "Яйцебойня, чувак!",
-        "description": "Оскверни что-нибудь с помощью яиц"
+        "description": "Брось в кого-нибудь или во что-нибудь куриное яицо"
     },
     "parent": "blazeandcave:combat/monster_hunter",
     "rewards": {

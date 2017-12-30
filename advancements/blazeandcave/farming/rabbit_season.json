@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:cooked_rabbit"
         },
-        "title": "Сезон кроликов",
+        "title": "Кролики это не только ценный мех...",
         "description": "Приготовь и съешь крольчатину."
     },
     "parent": "blazeandcave:farming/hot_topic",

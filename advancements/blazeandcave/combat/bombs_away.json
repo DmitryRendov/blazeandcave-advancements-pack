@@ -4,7 +4,7 @@
             "item": "minecraft:tnt"
         },
         "title": "Бомбы сброшены, капитан!",
-        "description": "Скрафти ТНТ из пороха и песка... Да-да, именно так)"
+        "description": "Скрафти ТНТ"
     },
     "parent": "blazeandcave:combat/what_a_creep",
     "rewards": {

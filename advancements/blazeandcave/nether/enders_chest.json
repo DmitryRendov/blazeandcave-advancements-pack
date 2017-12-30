@@ -4,7 +4,7 @@
             "item": "minecraft:ender_chest"
         },
         "title": "Сундук Края",
-        "description": "Скрафти сундук Края, чтобы заполучить немного свободного места"
+        "description": "Скрафти сундук Края"
     },
     "parent": "blazeandcave:nether/into_fire",
     "rewards": {

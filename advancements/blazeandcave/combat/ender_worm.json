@@ -5,7 +5,7 @@
 			"data": 5
         },
         "title": "Личинка Края",
-        "description": "Предотвратите созревание эндермита"
+        "description": "Предотврати созревание эндермита"
     },
     "parent": "blazeandcave:combat/the_ender_of_ender",
     "rewards": {

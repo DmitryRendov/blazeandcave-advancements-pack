@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:obsidian"
         },
-        "title": "Испытание ведром ледяной воды",
+        "title": "Самый крепкий из известных",
         "description": "Добудь блок обсидиана"
     },
     "parent": "blazeandcave:mining/hot_stuff",

@@ -4,7 +4,7 @@
             "item": "minecraft:cookie"
         },
         "title": "Мы любим печеньки!",
-        "description": "Испеки немного печенек... а затем поизмывайся над ними!"
+        "description": "Испеки и съешь немного печенек"
     },
     "parent": "blazeandcave:farming/bake_bread",
 	"rewards": {

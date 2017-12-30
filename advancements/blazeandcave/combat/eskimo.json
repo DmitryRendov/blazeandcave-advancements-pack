@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:fish"
         },
-        "title": "Эскимос",
+        "title": "Суровый Эскимос",
         "description": "В реальной жизни нельзя убивать белых медведей, но не в Майнкрафте"
     },
     "parent": "blazeandcave:combat/monster_hunter",
